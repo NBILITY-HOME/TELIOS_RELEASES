@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publie_le": "2026-09-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.1/telios-0.1.1.tar.gz",
-  "sha256": "6d32939982363526ed6bfc05beecf92aa443e6a12ff9b5fb74237fb5e0353a2a",
-  "notes": "Export de la fiche d'un APK local sans téléphone branché."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.2/telios-0.1.2.tar.gz",
+  "sha256": "c42e05d2fab039f1d2c3ce80ab2d73eeb3b715288d7aadb0c051c1b1449bbe04",
+  "notes": "Le lanceur suit la version installée : une mise à jour prend enfin effet."
 }
