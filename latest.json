@@ -1,7 +1,7 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "publie_le": "2026-09-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.5/telios-0.1.5.tar.gz",
-  "sha256": "5fb4dafb52b860cfa146fbfb7b2287f8c29e5c222767d1175cfa9e80decace7d",
-  "notes": "Installateur unique, téléchargeable sans clé depuis ce dépôt"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.6/telios-0.1.6.tar.gz",
+  "sha256": "08bbd63f546d104c3e3a16f4e5b5d645ff87668f4392575ac148a3b9ecaf45b0",
+  "notes": "Documentation : portée de la vérification d'intégrité des mises à jour"
 }
