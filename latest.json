@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publie_le": "2026-09-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.2/telios-0.1.2.tar.gz",
-  "sha256": "c42e05d2fab039f1d2c3ce80ab2d73eeb3b715288d7aadb0c051c1b1449bbe04",
-  "notes": "Le lanceur suit la version installée : une mise à jour prend enfin effet."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.3/telios-0.1.3.tar.gz",
+  "sha256": "048be9fae4562166e922cc4c3bf525d2c73fe6c2a3c8ad516280c69615eb881f",
+  "notes": "Fiche d'application réparée, lanceur suivant la version courante, guide de mise à jour"
 }
