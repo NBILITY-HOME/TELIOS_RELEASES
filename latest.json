@@ -1,7 +1,7 @@
 {
-  "version": "0.1.12",
-  "publie_le": "2026-09-06",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.12/telios-0.1.12.tar.gz",
-  "sha256": "461558b644ac8b660aba901b5aba196564e7030b24fa6693146ad9d54c7b8cc9",
-  "notes": "Onglet Flotte : audit des applications installées, avec protection des composants essentiels"
+  "version": "0.1.13",
+  "publie_le": "2026-09-07",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.13/telios-0.1.13.tar.gz",
+  "sha256": "4202a9a739992174eab347aea540252d352ba44ae63aee1a92f188fdc8e38d4a",
+  "notes": "Profils de préparation : appliquer un retrait après avoir vu ce qu'il fera"
 }
