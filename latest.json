@@ -1,7 +1,7 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.15",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.14/telios-0.1.14.tar.gz",
-  "sha256": "41cbce37ae8ab3762679303e8b1f512ecf24e7550b88741f2aa50c48c39605cb",
-  "notes": "Rapports de préparation : fiche d'appareil et fiche de lot"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.15/telios-0.1.15.tar.gz",
+  "sha256": "0093bbcfe5d4e31d6148d23b0c83ba3512ef90dadb1512d977b82e8f591bb7a5",
+  "notes": "Guide client décrivant les onglets Flotte et Validation"
 }
