@@ -1,7 +1,7 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "publie_le": "2026-09-06",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.7/telios-0.1.7.tar.gz",
-  "sha256": "344a52d5373adfde543b4a04093133ab6821eaab21442faa4a250c69e67867fc",
-  "notes": "Analyse locale expliquée dans les documents clients ; onglet MobSF retiré"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.8/telios-0.1.8.tar.gz",
+  "sha256": "8648321dde0039b8a8fbf9386d826e7284f2324d35c876d85c030fafc263b10b",
+  "notes": "README et documentation interne remis à jour"
 }
