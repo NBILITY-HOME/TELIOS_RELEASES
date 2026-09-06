@@ -1,7 +1,7 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.13/telios-0.1.13.tar.gz",
-  "sha256": "4202a9a739992174eab347aea540252d352ba44ae63aee1a92f188fdc8e38d4a",
-  "notes": "Profils de préparation : appliquer un retrait après avoir vu ce qu'il fera"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.14/telios-0.1.14.tar.gz",
+  "sha256": "41cbce37ae8ab3762679303e8b1f512ecf24e7550b88741f2aa50c48c39605cb",
+  "notes": "Rapports de préparation : fiche d'appareil et fiche de lot"
 }
