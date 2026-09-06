@@ -1,7 +1,7 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "publie_le": "2026-09-06",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.8/telios-0.1.8.tar.gz",
-  "sha256": "8648321dde0039b8a8fbf9386d826e7284f2324d35c876d85c030fafc263b10b",
-  "notes": "README et documentation interne remis à jour"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.9/telios-0.1.9.tar.gz",
+  "sha256": "687c8e02dd08c50040e135b3f04cc6c6a60f897fdbe710ee6f95bab83c451585",
+  "notes": "Correction : l'analyse d'un fichier APK figeait l'application"
 }
