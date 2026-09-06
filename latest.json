@@ -1,7 +1,7 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "publie_le": "2026-09-06",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.10/telios-0.1.10.tar.gz",
-  "sha256": "9fc5e180b19c7c63df0f1fcfbbb949e5a85cd41a775ef5fd2f3413ae7d417bd0",
-  "notes": "Correction : du texte apparaissait surligné en changeant d'onglet"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.11/telios-0.1.11.tar.gz",
+  "sha256": "2169d95be975df859ac96b1490054eb69b46adb20e0db6ac967ced45fc59fa6d",
+  "notes": "Nouvel onglet Flotte : inventaire des téléphones branchés avec fiche d'identité"
 }
