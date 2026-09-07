@@ -1,7 +1,7 @@
 {
-  "version": "0.1.19",
+  "version": "0.1.20",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.19/telios-0.1.19.tar.gz",
-  "sha256": "fb1b29660c51fa0e912736dcc97fbf1b393db1f1a8a1ce662fd90c4410930930",
-  "notes": ""
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.20/telios-0.1.20.tar.gz",
+  "sha256": "fe57b87c679becf07bad22f45702bfbf9e8294fef82f4207831e53b9b8ce574e",
+  "notes": "Analyse App → Smartphone : filtre de recherche (nom, paquet, trois cases) et distinction exacte entre applications installées et système."
 }
