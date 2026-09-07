@@ -1,7 +1,7 @@
 {
-  "version": "0.1.16",
+  "version": "0.1.17",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.16/telios-0.1.16.tar.gz",
-  "sha256": "1a3b6f194525da38c49b63e92bc0620273ecb3a4204251b5037b73ab78ab1228",
-  "notes": "Onglet Validation : explorateur, scénarios et non-régression"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.17/telios-0.1.17.tar.gz",
+  "sha256": "4f429b738b696a29a0815677a48af4e546440446fda982eb352ff401668d16d4",
+  "notes": "Lecture de l'IMEI : plusieurs codes essayés avant de conclure"
 }
