@@ -1,7 +1,7 @@
 {
-  "version": "0.1.25",
+  "version": "0.1.26",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.25/telios-0.1.25.tar.gz",
-  "sha256": "fcd853066b8d1d166786cba1e4f0467f0bfd3b2ed273facb6dc21a1c98d59bee",
-  "notes": "Customiser : un refus d'Android sur un paquet système bascule sur la désactivation au lieu d'interrompre l'application du profil."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.26/telios-0.1.26.tar.gz",
+  "sha256": "05d68f715261b108952b6bf1e6d40b4c9510abe7ad34d2203045898ce47baa75",
+  "notes": "Customiser : chaque application est désactivée avant la tentative de désinstallation ; un refus du constructeur la laisse désactivée, et le compte rendu le dit."
 }
