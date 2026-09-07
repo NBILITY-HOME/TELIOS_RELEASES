@@ -1,7 +1,7 @@
 {
-  "version": "0.1.29",
+  "version": "0.1.30",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.29/telios-0.1.29.tar.gz",
-  "sha256": "7c5a9370c2390d4d8b5857532d53cd1ac1766257e6463e73526d760d2bc42692",
-  "notes": "États d'activation Android : table vérifiée, page Flotte → À savoir, état relu par ADB dans le bilan et la fiche, badge ENABLED=N dans l'analyse."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.30/telios-0.1.30.tar.gz",
+  "sha256": "337d4ead908028484c564c05336f21d434516a4ee4e823ba5c0727c4f86639aa",
+  "notes": "Correction de l'intégration continue : tests de structure gardés sans GTK, annotations de types."
 }
