@@ -1,7 +1,7 @@
 {
-  "version": "0.1.27",
+  "version": "0.1.28",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.27/telios-0.1.27.tar.gz",
-  "sha256": "b95ddcbc0378d39d67bcbfca6bd8b70d5f9998febda626cd15888f86ee5b3f3a",
-  "notes": "Customiser : le bilan d'application devient un tableau à icônes avec chiffres et verdict."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.28/telios-0.1.28.tar.gz",
+  "sha256": "64671580a70d21faf4ce8c020bb3623d14262858fb16472892fdf4d0e4530274",
+  "notes": "Les dates s'affichent en jj/mm/aaaa en français et en espagnol, à l'écran comme sur les documents ; la date du lot se saisit dans ce format."
 }
