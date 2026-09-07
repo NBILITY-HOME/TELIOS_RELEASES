@@ -1,7 +1,7 @@
 {
-  "version": "0.1.22",
+  "version": "0.1.23",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.22/telios-0.1.22.tar.gz",
-  "sha256": "0a527160962454bc61924de1783f2927e0b662bf9d1569d81f92a516f99c6f18",
-  "notes": "Fiches PDF : la réserve de désinstallation nomme aussi le service technique de gestion des appareils."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.23/telios-0.1.23.tar.gz",
+  "sha256": "dd7a791cb5a489c090bc753376dcc6a4514c8012292c2532b3216190f1859ee2",
+  "notes": "Flotte et Validation : chaque appareil s'appelle « Marque Modèle (série) » partout, confirmation comprise ; menus triés et cherchables pour les grands lots."
 }
