@@ -1,7 +1,7 @@
 {
-  "version": "0.1.23",
+  "version": "0.1.24",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.23/telios-0.1.23.tar.gz",
-  "sha256": "dd7a791cb5a489c090bc753376dcc6a4514c8012292c2532b3216190f1859ee2",
-  "notes": "Flotte et Validation : chaque appareil s'appelle « Marque Modèle (série) » partout, confirmation comprise ; menus triés et cherchables pour les grands lots."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.24/telios-0.1.24.tar.gz",
+  "sha256": "12419673ed1ab9c19283cb2914d8099d9102eced5d724c91d1031cc4f9ae7bcc",
+  "notes": "Customiser : une fenêtre de bilan après l'application d'un profil — titre tranché, échecs en tête, applications déjà absentes expliquées, export PDF à portée de main."
 }
