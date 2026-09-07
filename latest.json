@@ -1,7 +1,7 @@
 {
-  "version": "0.1.32",
+  "version": "0.1.33",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.32/telios-0.1.32.tar.gz",
-  "sha256": "398e081eddd252d10017d3541afa220ad61918d1122f7f6bad1ba65f242f1701",
-  "notes": "Validation : titre de la fenêtre scrcpy lisible."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.33/telios-0.1.33.tar.gz",
+  "sha256": "c188ce2d470925adb833078e44c1101730b27c0868eaa72b96477bd3852c8235",
+  "notes": "Plan Customisation : enregistrer, chiffrer et rejouer des manipulations en lot (document de conception, sans changement fonctionnel)."
 }
