@@ -1,7 +1,7 @@
 {
-  "version": "0.1.24",
+  "version": "0.1.25",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.24/telios-0.1.24.tar.gz",
-  "sha256": "12419673ed1ab9c19283cb2914d8099d9102eced5d724c91d1031cc4f9ae7bcc",
-  "notes": "Customiser : une fenêtre de bilan après l'application d'un profil — titre tranché, échecs en tête, applications déjà absentes expliquées, export PDF à portée de main."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.25/telios-0.1.25.tar.gz",
+  "sha256": "fcd853066b8d1d166786cba1e4f0467f0bfd3b2ed273facb6dc21a1c98d59bee",
+  "notes": "Customiser : un refus d'Android sur un paquet système bascule sur la désactivation au lieu d'interrompre l'application du profil."
 }
