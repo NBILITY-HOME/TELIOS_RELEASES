@@ -1,7 +1,7 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.17/telios-0.1.17.tar.gz",
-  "sha256": "4f429b738b696a29a0815677a48af4e546440446fda982eb352ff401668d16d4",
-  "notes": "Lecture de l'IMEI : plusieurs codes essayés avant de conclure"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.18/telios-0.1.18.tar.gz",
+  "sha256": "d8ad52bce5a31e4c11294539a2632199774c947941de803195037d7b51853ae2",
+  "notes": "Captures à jour, composition complète, rapport de validation en PDF"
 }
