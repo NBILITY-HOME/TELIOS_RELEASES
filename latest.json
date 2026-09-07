@@ -1,7 +1,7 @@
 {
-  "version": "0.1.21",
+  "version": "0.1.22",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.21/telios-0.1.21.tar.gz",
-  "sha256": "26f220d2e897497ecd41904b1def9bf533119fa3943f3543d787065e06fd26fe",
-  "notes": "Flotte : les exports PDF s'ouvrent automatiquement ; la fiche de blacklist porte le même bandeau daté et versionné que l'audit."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.22/telios-0.1.22.tar.gz",
+  "sha256": "0a527160962454bc61924de1783f2927e0b662bf9d1569d81f92a516f99c6f18",
+  "notes": "Fiches PDF : la réserve de désinstallation nomme aussi le service technique de gestion des appareils."
 }
