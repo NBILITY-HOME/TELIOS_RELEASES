@@ -1,7 +1,7 @@
 {
-  "version": "0.1.20",
+  "version": "0.1.21",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.20/telios-0.1.20.tar.gz",
-  "sha256": "fe57b87c679becf07bad22f45702bfbf9e8294fef82f4207831e53b9b8ce574e",
-  "notes": "Analyse App → Smartphone : filtre de recherche (nom, paquet, trois cases) et distinction exacte entre applications installées et système."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.21/telios-0.1.21.tar.gz",
+  "sha256": "26f220d2e897497ecd41904b1def9bf533119fa3943f3543d787065e06fd26fe",
+  "notes": "Flotte : les exports PDF s'ouvrent automatiquement ; la fiche de blacklist porte le même bandeau daté et versionné que l'audit."
 }
