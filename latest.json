@@ -1,7 +1,7 @@
 {
-  "version": "0.1.28",
+  "version": "0.1.29",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.28/telios-0.1.28.tar.gz",
-  "sha256": "64671580a70d21faf4ce8c020bb3623d14262858fb16472892fdf4d0e4530274",
-  "notes": "Les dates s'affichent en jj/mm/aaaa en français et en espagnol, à l'écran comme sur les documents ; la date du lot se saisit dans ce format."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.29/telios-0.1.29.tar.gz",
+  "sha256": "7c5a9370c2390d4d8b5857532d53cd1ac1766257e6463e73526d760d2bc42692",
+  "notes": "États d'activation Android : table vérifiée, page Flotte → À savoir, état relu par ADB dans le bilan et la fiche, badge ENABLED=N dans l'analyse."
 }
