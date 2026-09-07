@@ -1,7 +1,7 @@
 {
-  "version": "0.1.26",
+  "version": "0.1.27",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.26/telios-0.1.26.tar.gz",
-  "sha256": "05d68f715261b108952b6bf1e6d40b4c9510abe7ad34d2203045898ce47baa75",
-  "notes": "Customiser : chaque application est désactivée avant la tentative de désinstallation ; un refus du constructeur la laisse désactivée, et le compte rendu le dit."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.27/telios-0.1.27.tar.gz",
+  "sha256": "b95ddcbc0378d39d67bcbfca6bd8b70d5f9998febda626cd15888f86ee5b3f3a",
+  "notes": "Customiser : le bilan d'application devient un tableau à icônes avec chiffres et verdict."
 }
