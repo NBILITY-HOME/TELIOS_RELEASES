@@ -1,7 +1,7 @@
 {
-  "version": "0.1.30",
+  "version": "0.1.31",
   "publie_le": "2026-09-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.30/telios-0.1.30.tar.gz",
-  "sha256": "337d4ead908028484c564c05336f21d434516a4ee4e823ba5c0727c4f86639aa",
-  "notes": "Correction de l'intégration continue : tests de structure gardés sans GTK, annotations de types."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.31/telios-0.1.31.tar.gz",
+  "sha256": "5d9d3e94a5e2fbf771555fa26e4e56f8de76a3ee20c00129d08cf65f457d87a4",
+  "notes": "Validation : la fenêtre scrcpy reste ouverte jusqu'à ce que vous la fermiez."
 }
