@@ -1,7 +1,7 @@
 {
-  "version": "0.1.37",
+  "version": "0.1.38",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.37/telios-0.1.37.tar.gz",
-  "sha256": "fca565b1367a909ae3cda7f9b38efa9362b1004ed8c86aa79db9e33596f74f11",
-  "notes": "Purge sécurisée : mode opératoire numéroté, aligné et séparé en deux temps."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.38/telios-0.1.38.tar.gz",
+  "sha256": "df1c90e52a78f3f91b25a1198d0bd3f88dacc221d007214cc09e2ba2b9b76538",
+  "notes": "Purge sécurisée : mode opératoire resserré, intertitres en tête."
 }
