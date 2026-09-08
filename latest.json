@@ -1,7 +1,7 @@
 {
-  "version": "0.1.47",
+  "version": "0.1.48",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.47/telios-0.1.47.tar.gz",
-  "sha256": "090b5497c14bf3e6e59049ab45a0a59d66393d3732f668d5371e574052b41586",
-  "notes": "Rejouer une customisation sur un lot : bilan, fiche par appareil et fiche de lot."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.48/telios-0.1.48.tar.gz",
+  "sha256": "4222377e4dc20b812faa54b2fc8954a6946dbc46a10ab38d19e48ceae303cfcc",
+  "notes": "Correction : la page Customiser se construit sans ADB installé."
 }
