@@ -1,7 +1,7 @@
 {
-  "version": "0.1.35",
+  "version": "0.1.36",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.35/telios-0.1.35.tar.gz",
-  "sha256": "2a2c4a771e3085680b3ef62ec5cb52421262c18554f269318c12d6f1ae880675",
-  "notes": "L'onglet TELIOS devient « Purge sécurisée » : effacement sécurisé, mode opératoire affiché, mise en page resserrée."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.36/telios-0.1.36.tar.gz",
+  "sha256": "26b5aaedfe9e0845a1408a49550eeeea2c4693b0ad47276075f9f32b28f55e85",
+  "notes": "Purge sécurisée : mode opératoire sur deux colonnes."
 }
