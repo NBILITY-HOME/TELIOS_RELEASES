@@ -1,7 +1,7 @@
 {
-  "version": "0.1.40",
+  "version": "0.1.41",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.40/telios-0.1.40.tar.gz",
-  "sha256": "761b13175778ea3feb71c455890ded4bb2fcdb09e3dcd97892e04c4c344cda1b",
-  "notes": "La barre de progression se fige en vert à la réussite, en rouge à l'échec."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.41/telios-0.1.41.tar.gz",
+  "sha256": "20872f854e30f1504e4209d69e86cbf3ce9af6ae7fe5b79028d759c06bcf654c",
+  "notes": "Customisations chiffrées : page Manipulations dans Flotte, clé propre au poste."
 }
