@@ -1,7 +1,7 @@
 {
-  "version": "0.1.44",
+  "version": "0.1.45",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.44/telios-0.1.44.tar.gz",
-  "sha256": "495cfd993a061e816793dbeccdf6131c84c014f4f46fa98debbed01a33d2a465",
-  "notes": "La clé de customisation a sa propre page dans Réglages, expliquée pas à pas."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.45/telios-0.1.45.tar.gz",
+  "sha256": "71e816f0435607cd5932674d1fc3dc196ae6dd41682e23de9a839b2fe23ad8d8",
+  "notes": "pkexec annonce ses deux usages dans les Dépendances."
 }
