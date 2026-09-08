@@ -1,7 +1,7 @@
 {
-  "version": "0.1.46",
+  "version": "0.1.47",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.46/telios-0.1.46.tar.gz",
-  "sha256": "7bcb82e09c641343612ed689010a15edcf1faae19132d79b1732254a3c14f2cb",
-  "notes": "Les descriptions de dépendances sont traduites en anglais et en espagnol."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.47/telios-0.1.47.tar.gz",
+  "sha256": "090b5497c14bf3e6e59049ab45a0a59d66393d3732f668d5371e574052b41586",
+  "notes": "Rejouer une customisation sur un lot : bilan, fiche par appareil et fiche de lot."
 }
