@@ -1,7 +1,7 @@
 {
-  "version": "0.1.41",
+  "version": "0.1.42",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.41/telios-0.1.41.tar.gz",
-  "sha256": "20872f854e30f1504e4209d69e86cbf3ce9af6ae7fe5b79028d759c06bcf654c",
-  "notes": "Customisations chiffrées : page Manipulations dans Flotte, clé propre au poste."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.42/telios-0.1.42.tar.gz",
+  "sha256": "4a7d8a34ecde0f58cb762927624a2c093125ac2082eaa90fa91769e583a54912",
+  "notes": "Correction du contrôle de types."
 }
