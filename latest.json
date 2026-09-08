@@ -1,7 +1,7 @@
 {
-  "version": "0.1.42",
+  "version": "0.1.43",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.42/telios-0.1.42.tar.gz",
-  "sha256": "4a7d8a34ecde0f58cb762927624a2c093125ac2082eaa90fa91769e583a54912",
-  "notes": "Correction du contrôle de types."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.43/telios-0.1.43.tar.gz",
+  "sha256": "a8eafe14f3f6688ca4a5f9e7d2d0ece4f1bf458913bc50af386934c8747b47f6",
+  "notes": "La clé de customisation se sauvegarde et se restaure, protégée par une phrase secrète."
 }
