@@ -1,7 +1,7 @@
 {
-  "version": "0.1.48",
+  "version": "0.1.49",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.48/telios-0.1.48.tar.gz",
-  "sha256": "4222377e4dc20b812faa54b2fc8954a6946dbc46a10ab38d19e48ceae303cfcc",
-  "notes": "Correction : la page Customiser se construit sans ADB installé."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.49/telios-0.1.49.tar.gz",
+  "sha256": "ccac0dd5dbbe794b79544df08b763f9641935bb3a1a9a2749a227d318a116bef",
+  "notes": "Correction du contrôle de types."
 }
