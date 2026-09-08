@@ -1,7 +1,7 @@
 {
-  "version": "0.1.38",
+  "version": "0.1.39",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.38/telios-0.1.38.tar.gz",
-  "sha256": "df1c90e52a78f3f91b25a1198d0bd3f88dacc221d007214cc09e2ba2b9b76538",
-  "notes": "Purge sécurisée : mode opératoire resserré, intertitres en tête."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.39/telios-0.1.39.tar.gz",
+  "sha256": "a4bbb1c8f11ee4690240268458275737c99e2ffd705e79ccc927590572b5f524",
+  "notes": "Page Bienvenue à jour : Flotte livrée, onglet Purge sécurisée, ordre des onglets respecté."
 }
