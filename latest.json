@@ -1,7 +1,7 @@
 {
-  "version": "0.1.39",
+  "version": "0.1.40",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.39/telios-0.1.39.tar.gz",
-  "sha256": "a4bbb1c8f11ee4690240268458275737c99e2ffd705e79ccc927590572b5f524",
-  "notes": "Page Bienvenue à jour : Flotte livrée, onglet Purge sécurisée, ordre des onglets respecté."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.40/telios-0.1.40.tar.gz",
+  "sha256": "761b13175778ea3feb71c455890ded4bb2fcdb09e3dcd97892e04c4c344cda1b",
+  "notes": "La barre de progression se fige en vert à la réussite, en rouge à l'échec."
 }
