@@ -1,7 +1,7 @@
 {
-  "version": "0.1.45",
+  "version": "0.1.46",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.45/telios-0.1.45.tar.gz",
-  "sha256": "71e816f0435607cd5932674d1fc3dc196ae6dd41682e23de9a839b2fe23ad8d8",
-  "notes": "pkexec annonce ses deux usages dans les Dépendances."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.46/telios-0.1.46.tar.gz",
+  "sha256": "7bcb82e09c641343612ed689010a15edcf1faae19132d79b1732254a3c14f2cb",
+  "notes": "Les descriptions de dépendances sont traduites en anglais et en espagnol."
 }
