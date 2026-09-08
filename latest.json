@@ -1,7 +1,7 @@
 {
-  "version": "0.1.49",
+  "version": "0.1.50",
   "publie_le": "2026-09-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.49/telios-0.1.49.tar.gz",
-  "sha256": "ccac0dd5dbbe794b79544df08b763f9641935bb3a1a9a2749a227d318a116bef",
-  "notes": "Correction du contrôle de types."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.50/telios-0.1.50.tar.gz",
+  "sha256": "ce356e9c37c0fdd30081cd86b0741d67ab8ef4bfafbfdd83c0145785abfd503c",
+  "notes": ""
 }
