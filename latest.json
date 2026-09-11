@@ -1,7 +1,7 @@
 {
-  "version": "0.1.81",
+  "version": "0.1.82",
   "publie_le": "2026-09-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.81/telios-0.1.81.tar.gz",
-  "sha256": "628ea65c99dd31fa514d081677f36128579c7a1411f4ac16e117a692d4857bbc",
-  "notes": "Client Android : l'arrêt d'un enregistrement est constaté, non supposé."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.82/telios-0.1.82.tar.gz",
+  "sha256": "148d94f48e084fa8be2fd1c3c818763f82af5897ecb597bbea1ba45842490b41",
+  "notes": "Client Android : les appuis sur la barre de navigation deviennent des étapes portables."
 }
