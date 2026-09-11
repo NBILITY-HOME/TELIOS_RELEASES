@@ -1,7 +1,7 @@
 {
-  "version": "0.1.79",
+  "version": "0.1.80",
   "publie_le": "2026-09-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.79/telios-0.1.79.tar.gz",
-  "sha256": "16715e1cc5e68caa1a72df3d30118ea91b83417e8eacb4d49f4864cd11a0c950",
-  "notes": "La page Manipulations permet d'enregistrer une séance faite au doigt sur le téléphone, quand le client Android y est posé."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.80/telios-0.1.80.tar.gz",
+  "sha256": "2b42f5e915a08dc516ef9f83290f57569f35011b20c3c378fd79d1c0240c7ace",
+  "notes": "Client Android : le bouton porte le nom que l'écran a réellement sous Android."
 }
