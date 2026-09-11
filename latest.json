@@ -1,7 +1,7 @@
 {
-  "version": "0.1.82",
+  "version": "0.1.83",
   "publie_le": "2026-09-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.82/telios-0.1.82.tar.gz",
-  "sha256": "148d94f48e084fa8be2fd1c3c818763f82af5897ecb597bbea1ba45842490b41",
-  "notes": "Client Android : les appuis sur la barre de navigation deviennent des étapes portables."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.83/telios-0.1.83.tar.gz",
+  "sha256": "7b7d9cc11ddb79f3f7a5c738b3d3d99d6016b533d6aa6bcd842ca2c140a897c9",
+  "notes": "Le rejeu d'une manipulation passe d'un modèle de téléphone à l'autre : mesuré d'un Samsung Galaxy S10 vers un TCL T671H."
 }
