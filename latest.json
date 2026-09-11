@@ -1,7 +1,7 @@
 {
-  "version": "0.1.80",
+  "version": "0.1.81",
   "publie_le": "2026-09-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.80/telios-0.1.80.tar.gz",
-  "sha256": "2b42f5e915a08dc516ef9f83290f57569f35011b20c3c378fd79d1c0240c7ace",
-  "notes": "Client Android : le bouton porte le nom que l'écran a réellement sous Android."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.81/telios-0.1.81.tar.gz",
+  "sha256": "628ea65c99dd31fa514d081677f36128579c7a1411f4ac16e117a692d4857bbc",
+  "notes": "Client Android : l'arrêt d'un enregistrement est constaté, non supposé."
 }
