@@ -1,7 +1,7 @@
 {
-  "version": "0.1.76",
+  "version": "0.1.77",
   "publie_le": "2026-09-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.76/telios-0.1.76.tar.gz",
-  "sha256": "0f678d41dc68061ea0fb3bd48d966889d2f9a98417dc15713ee032f9cf74f17d",
-  "notes": ""
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.77/telios-0.1.77.tar.gz",
+  "sha256": "cc726b39b64ce63fa8083a3bcc20d13b581ae6db7398e6702f828b5e4614c4d6",
+  "notes": "Client Android, phase A : le squelette qui enregistre les manipulations. Aucun changement visible sur le poste."
 }
