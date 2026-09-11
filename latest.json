@@ -1,7 +1,7 @@
 {
-  "version": "0.1.78",
+  "version": "0.1.79",
   "publie_le": "2026-09-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.78/telios-0.1.78.tar.gz",
-  "sha256": "8ef9905e56a73c8cac45f693aaa11932dd4f75a1e054fb6d1c1d5e943bcbe2d9",
-  "notes": "Client Android, phase B : une manipulation enregistrée se rejoue, étapes vérifiées par relecture. Aucun changement visible sur le poste."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.79/telios-0.1.79.tar.gz",
+  "sha256": "16715e1cc5e68caa1a72df3d30118ea91b83417e8eacb4d49f4864cd11a0c950",
+  "notes": "La page Manipulations permet d'enregistrer une séance faite au doigt sur le téléphone, quand le client Android y est posé."
 }
