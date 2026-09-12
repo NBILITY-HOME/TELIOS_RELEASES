@@ -1,7 +1,7 @@
 {
-  "version": "0.1.84",
+  "version": "0.1.85",
   "publie_le": "2026-09-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.84/telios-0.1.84.tar.gz",
-  "sha256": "9d80665efc3b2854efb8753aa9c821608110f884534276889957264e81d96420",
-  "notes": "Le texte tapé pendant une séance devient une étape rejouable, accents et espaces compris."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.85/telios-0.1.85.tar.gz",
+  "sha256": "27c082c4bac8563b45492bfdcc25c8a5a423822f0cc82c372720d90929d91845",
+  "notes": "Une séance au doigt peut désormais porter ce qui prouve son succès, et donc être déclarée réussie."
 }
