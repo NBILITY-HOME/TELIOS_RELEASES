@@ -1,7 +1,7 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.2.1/telios-2.2.1.tar.gz",
-  "sha256": "b0ce1a3c60b81cf1bc67194eaf10ca66be9a6be8de467d67e6bf8a65c59cffd8",
-  "notes": "Le guide client décrit la fiche technique relevée par la page Diagnostic."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.2.2/telios-2.2.2.tar.gz",
+  "sha256": "95aee2d72c04172331540a3dd5c4955d6421c7862496f1a0a76f6612b878edc4",
+  "notes": "La page Diagnostic ouvre elle aussi le dossier des attestations."
 }
