@@ -1,7 +1,7 @@
 {
-  "version": "2.1.3",
+  "version": "2.1.4",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.3/telios-2.1.3.tar.gz",
-  "sha256": "f593ac0f19849e4b12a93ce5af6564d918e4d1bb32efa903bc935c5298c7c01b",
-  "notes": "La croix occitane, marque de l'éditeur, apparaît au pied de la barre latérale."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.4/telios-2.1.4.tar.gz",
+  "sha256": "e6d30381c1df835a2db25dbe3f804b53bd76d9b1c188d0eca444af73b859b60c",
+  "notes": "L'audit de Flotte affiche les noms d'applications ; revenir sur la purge pendant un effacement rend la page d'effacement."
 }
