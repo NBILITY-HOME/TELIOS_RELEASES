@@ -1,7 +1,7 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.5",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.4/telios-2.1.4.tar.gz",
-  "sha256": "e6d30381c1df835a2db25dbe3f804b53bd76d9b1c188d0eca444af73b859b60c",
-  "notes": "L'audit de Flotte affiche les noms d'applications ; revenir sur la purge pendant un effacement rend la page d'effacement."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.5/telios-2.1.5.tar.gz",
+  "sha256": "6931ea60c66377c06756b758294a5dc3cd19d59d6d2945184eef9ba9a417ce36",
+  "notes": "Le guide client décrit l'enregistrement au doigt et le geste « C'est réussi si… »."
 }
