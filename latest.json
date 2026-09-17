@@ -1,7 +1,7 @@
 {
-  "version": "2.1.6",
+  "version": "2.1.7",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.6/telios-2.1.6.tar.gz",
-  "sha256": "1fe3b1011125060c73f0dc4b48233bd415953173ad24912fa81b40ed10972796",
-  "notes": "Le verdict du diagnostic énonce l'ordre complet de la procédure et n'affirme plus une réinitialisation non constatée."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.7/telios-2.1.7.tar.gz",
+  "sha256": "1fc370eaa6934490e211b20f1aaa01d0a00165858be7e4d7fef58076bb0bbc71",
+  "notes": "Correctif : « Générer un rapport d'attestation » sur la page Diagnostic échouait sur une erreur d'import."
 }
