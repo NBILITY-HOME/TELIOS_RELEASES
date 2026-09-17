@@ -1,7 +1,7 @@
 {
-  "version": "0.1.91",
+  "version": "2.1",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.91/telios-0.1.91.tar.gz",
-  "sha256": "4fac0eb598387b7ec88a6f3ed69a19da9614317afa0f3b784d982feca8ab2e54",
-  "notes": "Sur l'attestation, « TRIM exécuté : non » indique désormais sa cause."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1/telios-2.1.tar.gz",
+  "sha256": "b2716844b048ec0ce5e207b9365c69893a67ac18f04b5187d2d2063a84b1cdfb",
+  "notes": "TELIOS 2.1 — le client Android enregistre et rejoue une manipulation d'un modèle à l'autre ; la purge produit son attestation de bout en bout."
 }
