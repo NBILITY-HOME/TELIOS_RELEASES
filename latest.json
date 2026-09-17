@@ -1,7 +1,7 @@
 {
-  "version": "0.1.86",
+  "version": "0.1.87",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.86/telios-0.1.86.tar.gz",
-  "sha256": "97023f39acc5de76268731bb158fe227ab506a629d3e62554e809e69a22bcf8e",
-  "notes": "L'attestation PDF est produite et affichée dès la fin de l'effacement : il ne reste qu'à l'enregistrer ou l'imprimer."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.87/telios-0.1.87.tar.gz",
+  "sha256": "314ecf16461e385930b054cce27912c7b8aceec5b79754d53b9abe3c80f4b01a",
+  "notes": "À la fin d'un effacement, TELIOS réclame la réinitialisation d'usine : elle seule détruit la clé de chiffrement."
 }
