@@ -1,7 +1,7 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.2/telios-2.1.2.tar.gz",
-  "sha256": "6dc0b1a22a75f4dc57aa68f7c3cfe520df69d089770c092952c89b6905d386d4",
-  "notes": "La fenêtre s'ouvre à la taille de travail, ramenée à l'écran quand il est plus petit."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.3/telios-2.1.3.tar.gz",
+  "sha256": "f593ac0f19849e4b12a93ce5af6564d918e4d1bb32efa903bc935c5298c7c01b",
+  "notes": "La croix occitane, marque de l'éditeur, apparaît au pied de la barre latérale."
 }
