@@ -1,7 +1,7 @@
 {
-  "version": "0.1.85",
-  "publie_le": "2026-09-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.85/telios-0.1.85.tar.gz",
-  "sha256": "27c082c4bac8563b45492bfdcc25c8a5a423822f0cc82c372720d90929d91845",
-  "notes": "Une séance au doigt peut désormais porter ce qui prouve son succès, et donc être déclarée réussie."
+  "version": "0.1.86",
+  "publie_le": "2026-09-17",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.86/telios-0.1.86.tar.gz",
+  "sha256": "97023f39acc5de76268731bb158fe227ab506a629d3e62554e809e69a22bcf8e",
+  "notes": "L'attestation PDF est produite et affichée dès la fin de l'effacement : il ne reste qu'à l'enregistrer ou l'imprimer."
 }
