@@ -1,7 +1,7 @@
 {
-  "version": "0.1.89",
+  "version": "0.1.90",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.89/telios-0.1.89.tar.gz",
-  "sha256": "59ecdd50a361329f029dd0bdd437750dc64c8278d9435aa876d7579dce05615a",
-  "notes": "Le bilan de l'attestation est deux fois plus court : la redondance sur la réinitialisation est levée."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.90/telios-0.1.90.tar.gz",
+  "sha256": "cb691d67c31f993836e5325a2f0054c7b30ddc1ecdf5d059cd17b05133790e6b",
+  "notes": "La fenêtre de fin d'effacement ne s'ouvre plus surlignée, et sa case à cocher se voit."
 }
