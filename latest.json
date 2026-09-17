@@ -1,7 +1,7 @@
 {
-  "version": "0.1.90",
+  "version": "0.1.91",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.90/telios-0.1.90.tar.gz",
-  "sha256": "cb691d67c31f993836e5325a2f0054c7b30ddc1ecdf5d059cd17b05133790e6b",
-  "notes": "La fenêtre de fin d'effacement ne s'ouvre plus surlignée, et sa case à cocher se voit."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.91/telios-0.1.91.tar.gz",
+  "sha256": "4fac0eb598387b7ec88a6f3ed69a19da9614317afa0f3b784d982feca8ab2e54",
+  "notes": "Sur l'attestation, « TRIM exécuté : non » indique désormais sa cause."
 }
