@@ -1,7 +1,7 @@
 {
-  "version": "0.1.88",
+  "version": "0.1.89",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.88/telios-0.1.88.tar.gz",
-  "sha256": "39f9a4401f58d83de9c40fdebc0ea47ff39ef3ba1c69c1e0e26867a8a19379f5",
-  "notes": "La fin d'un effacement réclame la réinitialisation ; l'attestation n'est produite que si elle est déclarée, et le document le dit."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v0.1.89/telios-0.1.89.tar.gz",
+  "sha256": "59ecdd50a361329f029dd0bdd437750dc64c8278d9435aa876d7579dce05615a",
+  "notes": "Le bilan de l'attestation est deux fois plus court : la redondance sur la réinitialisation est levée."
 }
