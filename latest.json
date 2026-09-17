@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.1/telios-2.1.1.tar.gz",
-  "sha256": "e15b3cd0eef173120e063c79dc6809c220f27f6518d63e5a5bd0243a0ed7cbb8",
-  "notes": "Un bouton ouvre le dossier des attestations depuis le journal de la purge."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.2/telios-2.1.2.tar.gz",
+  "sha256": "6dc0b1a22a75f4dc57aa68f7c3cfe520df69d089770c092952c89b6905d386d4",
+  "notes": "La fenêtre s'ouvre à la taille de travail, ramenée à l'écran quand il est plus petit."
 }
