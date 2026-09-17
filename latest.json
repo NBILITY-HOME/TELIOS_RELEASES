@@ -1,7 +1,7 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.2.2/telios-2.2.2.tar.gz",
-  "sha256": "95aee2d72c04172331540a3dd5c4955d6421c7862496f1a0a76f6612b878edc4",
-  "notes": "La page Diagnostic ouvre elle aussi le dossier des attestations."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.2.3/telios-2.2.3.tar.gz",
+  "sha256": "0e76bf659818c13af28fe18be96d3b59ce61549ece379cbcccbe7e6dc6c5e5ce",
+  "notes": "Le nom d'un rapport indique désormais s'il vient d'un diagnostic ou d'un effacement."
 }
