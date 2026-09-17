@@ -1,7 +1,7 @@
 {
-  "version": "2.1.7",
+  "version": "2.1.8",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.7/telios-2.1.7.tar.gz",
-  "sha256": "1fc370eaa6934490e211b20f1aaa01d0a00165858be7e4d7fef58076bb0bbc71",
-  "notes": "Correctif : « Générer un rapport d'attestation » sur la page Diagnostic échouait sur une erreur d'import."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.8/telios-2.1.8.tar.gz",
+  "sha256": "762dbe8d3d59d93c144f39a1a057fd7654a0b838a95d902d464aec909363057c",
+  "notes": "Le diagnostic produit et ouvre son attestation PDF, avec la fiche complète de l'appareil."
 }
