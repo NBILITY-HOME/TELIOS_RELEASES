@@ -1,7 +1,7 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.6",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.5/telios-2.1.5.tar.gz",
-  "sha256": "6931ea60c66377c06756b758294a5dc3cd19d59d6d2945184eef9ba9a417ce36",
-  "notes": "Le guide client décrit l'enregistrement au doigt et le geste « C'est réussi si… »."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.1.6/telios-2.1.6.tar.gz",
+  "sha256": "1fe3b1011125060c73f0dc4b48233bd415953173ad24912fa81b40ed10972796",
+  "notes": "Le verdict du diagnostic énonce l'ordre complet de la procédure et n'affirme plus une réinitialisation non constatée."
 }
