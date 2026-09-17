@@ -1,7 +1,7 @@
 {
-  "version": "2.2.3",
+  "version": "2.3",
   "publie_le": "2026-09-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.2.3/telios-2.2.3.tar.gz",
-  "sha256": "0e76bf659818c13af28fe18be96d3b59ce61549ece379cbcccbe7e6dc6c5e5ce",
-  "notes": "Le nom d'un rapport indique désormais s'il vient d'un diagnostic ou d'un effacement."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.3/telios-2.3.tar.gz",
+  "sha256": "7f7fd416bcc2d1367a699bc1bd11c51f1d02b71ee510024a14c0e91e9f744e14",
+  "notes": "Après une mise à jour, TELIOS annonce la version installée et propose de redémarrer."
 }
