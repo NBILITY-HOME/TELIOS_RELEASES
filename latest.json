@@ -1,7 +1,7 @@
 {
-  "version": "2.3.1",
+  "version": "2.3.2",
   "publie_le": "2026-09-22",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.3.1/telios-2.3.1.tar.gz",
-  "sha256": "6bf37ef363a85f11c72ff6856dac6acb835a8fbea017dfdaaecd1389d4bfac59",
-  "notes": "L'onglet Validation devient « Validation (UAT) » et porte l'explication des tests d'acceptation."
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.3.2/telios-2.3.2.tar.gz",
+  "sha256": "b6c4890f491ed0d2b619ce2a720ecc4e0355ce5244c2221cd46b1af14b72a445",
+  "notes": "L'onglet Validation (UAT) porte l'explication complète des tests d'acceptation."
 }
