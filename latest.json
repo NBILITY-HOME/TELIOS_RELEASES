@@ -1,7 +1,7 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "publie_le": "2026-09-26",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.6.0/telios-2.6.0.tar.gz",
-  "sha256": "03297f61571e5593a1fab67a7a2b392ffce08d1ac4319253bc1e4e7bc43c2dbf",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.6.1/telios-2.6.1.tar.gz",
+  "sha256": "c5bc46dada2c0f7952f50af232db34b11745ceaff4416488a9de9d0ceb8fad3b",
   "notes": ""
 }
