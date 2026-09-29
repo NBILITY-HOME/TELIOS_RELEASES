@@ -1,8 +1,8 @@
 {
-  "version": "2.13.1",
+  "version": "2.13.2",
   "publie_le": "2026-09-29",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.1/telios-2.13.1.tar.gz",
-  "sha256": "5e7509140a77620f1f55b48aa5c2964d0c5045139b4089b395bfdad6c93bb555",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 29 septembre 2026.\nNouveautés :\n  • UAT — « Activer Scénarios » devient « Déployer Scénarios »",
-  "signature": "9bc7bcca3d61fb3e334a94f155124046fb28fadc823c4b007c12507b9e9bd2744a46bd924b4cc0699cc700107ddfafb2247d149817014f1f97184f80a329380d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.2/telios-2.13.2.tar.gz",
+  "sha256": "8154d8aa56462fa9db00af4c41865110beeac654eedaae27156f906c83e7cb3a",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 29 septembre 2026.\nNouveautés :\n  • réglages — la clé API Koodous, à parts égales avec son lieu de conservation",
+  "signature": "d606088aedabbe47f21c60d38d60b0e3782bd54bfb3b18c501539f491ea6327d4f3f8e8f7c70509623bab2a565e30d375b79d6969bdc3dbc90ad736f29c6240d"
 }
