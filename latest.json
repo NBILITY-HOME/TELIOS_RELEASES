@@ -1,8 +1,8 @@
 {
-  "version": "2.13.2",
+  "version": "2.13.3",
   "publie_le": "2026-09-29",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.2/telios-2.13.2.tar.gz",
-  "sha256": "8154d8aa56462fa9db00af4c41865110beeac654eedaae27156f906c83e7cb3a",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 29 septembre 2026.\nNouveautés :\n  • réglages — la clé API Koodous, à parts égales avec son lieu de conservation",
-  "signature": "d606088aedabbe47f21c60d38d60b0e3782bd54bfb3b18c501539f491ea6327d4f3f8e8f7c70509623bab2a565e30d375b79d6969bdc3dbc90ad736f29c6240d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.3/telios-2.13.3.tar.gz",
+  "sha256": "a89e39d736aec4b270354dc390284126e507c03a3e4284a5acd081cc8e5f63e8",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 29 septembre 2026.\nCorrections :\n  • réglages — la carte de conservation dit ce qui perd la clé, pas ce qui la garde",
+  "signature": "c7de5bf5190585738d77e7be78edcf7fdba4f07b59f8a441e72dfd11f2a49843f12ff89ceb37b995c7573134873766f49f599b4b2f1ea7b5189a4587fcc95408"
 }
