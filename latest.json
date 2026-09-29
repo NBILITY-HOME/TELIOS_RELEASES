@@ -1,7 +1,8 @@
 {
-  "version": "2.12.1",
+  "version": "2.13.0",
   "publie_le": "2026-09-29",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.12.1/telios-2.12.1.tar.gz",
-  "sha256": "277a4cdce1082cefc3dcb2380e3ba3c25b3195b5c5f7d174eb7636c02f097f8b",
-  "notes": ""
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.0/telios-2.13.0.tar.gz",
+  "sha256": "50d2e1c9a6a06c0f0bd460c8dc4072c46b83862cb5899d14ffa69cc2a85521b8",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 29 septembre 2026.\nNouveautés :\n  • livraison — une commande qui se constate, un manifeste signé, une recette\nDocumentation :\n  • release — le README du dépôt public présente TELIOS",
+  "signature": "48a3e2e1e7f5974fd0f7657be2024f1f785e542656b7a6a2f81e46c1b97cebfd94755e82b51c5938ca6adaaa302e1329929cc51de1c4bce9a2d70783792ce903"
 }

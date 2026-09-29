@@ -63,6 +63,14 @@ Il ne contient **aucun code source**, qui reste privé. On y trouve :
   que les postes interrogent pour se mettre à jour ;
 - *Releases* — les archives publiées, une par version.
 
+## Un aperçu
+
+![Bienvenue](images/bienvenue.png)
+
+![Aperçu de la flotte](images/flotte-apercu.png)
+
+![Analyse d'un téléphone](images/analyse.png)
+
 ## Contact
 
 Édité par NBILITY — <https://nbility.fr/> — <contact@nbility.fr>
