@@ -1,8 +1,8 @@
 {
-  "version": "2.13.4",
+  "version": "2.13.5",
   "publie_le": "2026-09-30",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.4/telios-2.13.4.tar.gz",
-  "sha256": "8d6d924fc13ce359212855af637b827e8654066d93be622680fe883c71797596",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 30 septembre 2026.\nNouveautés :\n  • réglages — la clé API Koodous dit à quoi elle sert, puis comment l'obtenir",
-  "signature": "8a95541263f3136ccfd2e86265471d33c556f8358a491b291e691bff3f130c4ef0a67d49e621d4b9ab3329604ac97306569730cd137ac8e843d922ac0f879c03"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.5/telios-2.13.5.tar.gz",
+  "sha256": "499919d6796882b9a213be53d9abfcb5954ed9aa437da1d893ee04947239455d",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 30 septembre 2026.\nNouveautés :\n  • réglages — « Choisissez votre langue », et un sous-titre de page qui respire\nTests :\n  • design — le sous-titre de page se tient un cran au-dessus du corps des cartes",
+  "signature": "a6a3486b7e213479de7698f77ce494590d71b2ad9ab1a9da11c235be59713cb8fe2b6923a3be35840fd41949995d62ef2c98e38adc92b7bbc41f3d2429700009"
 }
