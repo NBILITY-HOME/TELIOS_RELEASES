@@ -1,8 +1,8 @@
 {
-  "version": "2.13.7",
+  "version": "2.13.8",
   "publie_le": "2026-10-01",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.7/telios-2.13.7.tar.gz",
-  "sha256": "78fbc61531cd3456f9139d1f78b1b0a6ed486ab7dd43f0ca4f547ec7c1df5572",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 1er octobre 2026.\nNouveautés :\n  • réglages — « À propos » présente tout TELIOS, et renvoie à l'article",
-  "signature": "243f6a4e1dc51dee03e256ea824a120eb964956c3e7d56415bd4801266fbf7eebce6c82378174747a5e4f866474f75f1e5e153eb11adacbeeed9c97ae7ef7d0b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.8/telios-2.13.8.tar.gz",
+  "sha256": "ede459113c2a249e133611ebac6e8afb53c2fd164d45819f9e47723e714910e2",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 1er octobre 2026.\nNouveautés :\n  • interface — des barres de défilement qu'on voit",
+  "signature": "b7bb21066be47bced9b893d1894c981dc72cba093ca2b5154d5fa13b0ac4a6cbeccd12e61630cc78cb0bd43ce949da7c9f681126db831855af47116c80b81c06"
 }
