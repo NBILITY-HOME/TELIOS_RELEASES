@@ -1,8 +1,8 @@
 {
-  "version": "2.13.5",
-  "publie_le": "2026-09-30",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.5/telios-2.13.5.tar.gz",
-  "sha256": "499919d6796882b9a213be53d9abfcb5954ed9aa437da1d893ee04947239455d",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 30 septembre 2026.\nNouveautés :\n  • réglages — « Choisissez votre langue », et un sous-titre de page qui respire\nTests :\n  • design — le sous-titre de page se tient un cran au-dessus du corps des cartes",
-  "signature": "a6a3486b7e213479de7698f77ce494590d71b2ad9ab1a9da11c235be59713cb8fe2b6923a3be35840fd41949995d62ef2c98e38adc92b7bbc41f3d2429700009"
+  "version": "2.13.6",
+  "publie_le": "2026-10-01",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.6/telios-2.13.6.tar.gz",
+  "sha256": "cb1467187cda50e6b19eabdbc7998817d0f411152e49b4a2e6903fec0b86d8a1",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 1er octobre 2026.\nNouveautés :\n  • réglages — les deux versions côte à côte, et une carte d'identité dessinée\nDocumentation :\n  • article — les titres de section se rapprochent de ce qui les précède\n  • article — l'article prend le nom de sa version, telios-optimise_V9.1.html\n  • article — des légendes qui se lisent seules, et de l'air autour des figures (V9.1)\n  • article — la présentation générale suit les six onglets de TELIOS 2.13 (V9)",
+  "signature": "1e087b504bf0333e633fb7e2c9baba3f25fdf5547d5aa62e911f66465fe92beb1b64eb71918317ed8914cc2d3a80b008ae60424071d1860cdf40fa34d590270d"
 }
