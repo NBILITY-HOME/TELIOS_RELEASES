@@ -1,8 +1,8 @@
 {
-  "version": "2.13.11",
+  "version": "2.13.12",
   "publie_le": "2026-10-02",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.11/telios-2.13.11.tar.gz",
-  "sha256": "b7562dd0c3d3a546b391bc958ad8a804164aa37ab22203fd98f508d1fa7aa5f7",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 2 octobre 2026.\nNouveautés :\n  • analyse — les onglets de la fiche portent une icône et se lisent",
-  "signature": "e5e7adbb379679907a2d4b475aaec132765c4da170570886938d71666723e4f9039c9f6bef93ff334bd12162599761ef94db2505409cdc8b944db9bcc0b1af0f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.12/telios-2.13.12.tar.gz",
+  "sha256": "3f76e8b10d176dd0523f612b4bf59a80a6cb1216b0779f87b800950390c856a4",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 2 octobre 2026.\nCorrections :\n  • analyse — l'onglet Réputation reprend sa hauteur quand le verdict arrive",
+  "signature": "9420e44c64659ae250f28888a91acc47f316b26ab600742d0935cb9509ac3e380cf240a82c4bbcd207f46884939e11dd63547375ea4bf46cefa26ba5843c1c04"
 }
