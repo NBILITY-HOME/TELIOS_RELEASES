@@ -1,8 +1,8 @@
 {
-  "version": "2.13.10",
+  "version": "2.13.11",
   "publie_le": "2026-10-02",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.10/telios-2.13.10.tar.gz",
-  "sha256": "c8b0a71e174e5f668740f60a4354b9000d1d3c2b34cea38c133a99af332ccfad",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 2 octobre 2026.\nCorrections :\n  • analyse — la fiche suit chaque onglet, et le PDF liste toutes les permissions",
-  "signature": "e0a0d0330cef4fd0e14381b67006f3d733a7dc46692b7a85a23610d7066ed9ed57e0389f7b6da9176147d4ea0dbf1a047b7280d46019fcb55b91740af2438a06"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.11/telios-2.13.11.tar.gz",
+  "sha256": "b7562dd0c3d3a546b391bc958ad8a804164aa37ab22203fd98f508d1fa7aa5f7",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 2 octobre 2026.\nNouveautés :\n  • analyse — les onglets de la fiche portent une icône et se lisent",
+  "signature": "e5e7adbb379679907a2d4b475aaec132765c4da170570886938d71666723e4f9039c9f6bef93ff334bd12162599761ef94db2505409cdc8b944db9bcc0b1af0f"
 }
