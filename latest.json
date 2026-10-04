@@ -1,8 +1,8 @@
 {
-  "version": "2.13.18",
+  "version": "2.13.19",
   "publie_le": "2026-10-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.18/telios-2.13.18.tar.gz",
-  "sha256": "caa4eab171135b7f9bc910f4d16bd89e0d3dcab2e95cc79452e574d77bfe5ff2",
-  "notes": "Recette sur appareil : non effectuée — correctif de CI, sans changement de comportement sur appareil ; aucun téléphone d'essai branché.\nCorrections :\n  • client — le constat ne dépend plus de la lecture de version",
-  "signature": "8c23c9b302f55acea4183603b1745a4753ef9727de91c3c086bbea38da468addef51c577f46c9d1de9756cb9fc8c16f27e413ed9ae7dfd7444f463879e880c06"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.19/telios-2.13.19.tar.gz",
+  "sha256": "46576bae93c630d38a4cc73a040026eb170589fbb2fe1673c0ea55d28a43e0ca",
+  "notes": "Recette sur appareil : non effectuée — mise à jour du plan Android seule, aucun changement de code ; aucun téléphone d'essai branché.\nDocumentation :\n  • android — pastilles d'état dans le plan du client",
+  "signature": "276189add5bf2eda4f359d90e10ca393c9486d75ebbc1b61b93dad22e8c2228b0bde837319ca5f59e531d671a5237e3cbfe113aa4d4b0ac875e8806c7870180c"
 }
