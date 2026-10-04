@@ -1,8 +1,8 @@
 {
-  "version": "2.13.12",
-  "publie_le": "2026-10-02",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.12/telios-2.13.12.tar.gz",
-  "sha256": "3f76e8b10d176dd0523f612b4bf59a80a6cb1216b0779f87b800950390c856a4",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 2 octobre 2026.\nCorrections :\n  • analyse — l'onglet Réputation reprend sa hauteur quand le verdict arrive",
-  "signature": "9420e44c64659ae250f28888a91acc47f316b26ab600742d0935cb9509ac3e380cf240a82c4bbcd207f46884939e11dd63547375ea4bf46cefa26ba5843c1c04"
+  "version": "2.13.13",
+  "publie_le": "2026-10-04",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.13/telios-2.13.13.tar.gz",
+  "sha256": "3a2bf2013c18b0f24d4546f6b8058534de09787ac2534cc74fb77828a0eacfab",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 4 octobre 2026.\nCorrections :\n  • release — le constat demande l'archive en binaire\nDocumentation :\n  • les plans clos rangés dans docs/OLD, les licences dans docs/LICENCES",
+  "signature": "b177bae99cbf77b8b863696a71c8e9586359210a0c57c66a09eb047295d70e672ada1d109b553f2c6be6cbd52e59d09c395cc443dfc35dc40468d8f3a9d0a40d"
 }
