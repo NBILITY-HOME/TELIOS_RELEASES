@@ -1,8 +1,8 @@
 {
-  "version": "2.13.16",
+  "version": "2.13.17",
   "publie_le": "2026-10-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.16/telios-2.13.16.tar.gz",
-  "sha256": "3df2d7db5916cb5837609fe59211973d7861e767c1a74e9e8b4962a50d48bac3",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 4 octobre 2026.\nDocumentation :\n  • android — sept axes d'amélioration pour le client Android",
-  "signature": "8edc51fd3385a12ea77f50c0d94cbebf70d18b9468d876eadccad8b016ca1274efb18d3616c44d510fc4bd36b27724ec632dee183c3df871afc07e5217f24c06"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.17/telios-2.13.17.tar.gz",
+  "sha256": "7777f13ffadd9793b05220a7ef3705366ed73e8412e204c6f75068eede0e8e97",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 4 octobre 2026 ; A1, A2, A4, A5 à tester (plan client Android, § 15).\nNouveautés :\n  • client — l'avis visible, l'arrêt de sécurité, et les améliorations A3 à A7",
+  "signature": "4ad66372c6b2fb493bfbe0d41146b987823fb97b274986337922bb0602edd269222c97fb4f0e3b910ea7261c000bbf44612cee872124bf10782967fdf043a10d"
 }
