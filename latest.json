@@ -1,8 +1,8 @@
 {
-  "version": "2.13.14",
+  "version": "2.13.15",
   "publie_le": "2026-10-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.14/telios-2.13.14.tar.gz",
-  "sha256": "ae1df2e19af00ab7d676927866f8fd14be129b31aeb918dc634c53f493f5c9da",
-  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 4 octobre 2026.\nNouveautés :\n  • client — la pose et le retrait du client Android se lisent dans les documents",
-  "signature": "1314f023a4441eda4015576ce821a567aca551a4783907987f29af9503fc80447ce693998f4f9780cdd7e22a6510e1a724bac2193e5bd7861914b1a13522c20f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.15/telios-2.13.15.tar.gz",
+  "sha256": "0a12cb43e7ed66ccf21483cb41f9dc55022a793f3991f9640115974d49029261",
+  "notes": "Recette sur appareil : non effectuée — aucun téléphone d'essai branché sur le poste le 4 octobre 2026.\nDocumentation :\n  • INSTALL.md rejoint docs/OLD",
+  "signature": "7cf3229c6b9ec88d0e66fc5782fd8e5a21ed094ba63e9a57c98989ea0c5ad1354afd55e36ed548cbf58d210ef1e45f94388ccad6ce4ed89e3971dd18d99ab208"
 }
