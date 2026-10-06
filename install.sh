@@ -61,7 +61,7 @@ FIN='\e[0m'
 #  Amorce — uniquement quand le projet n'est pas encore sur le poste
 # =============================================================================
 
-PASS=0; FAIL=0; MISSING_PKGS=""
+PASS=0; FAIL=0; MISSING_PKGS=""; A_INSTALLER_DEPUIS_TELIOS=0
 
 # Colonne alignée en caractères, pas en octets : `printf %-38s` compte les
 # octets, et chaque lettre accentuée (è, ô, é) en vaut deux en UTF-8 — la
@@ -93,6 +93,7 @@ facultatif() { # facultatif "libellé" présent(0/1)
     printf "   ${VERT}✓${FIN} %s${GRIS}%s${FIN}\n" "$(colonne "$1")" "présent"
   else
     printf "   ${GRIS}·${FIN} %s${JAUNE}%s${FIN}\n" "$(colonne "$1")" "à installer depuis TELIOS"
+    A_INSTALLER_DEPUIS_TELIOS=$((A_INSTALLER_DEPUIS_TELIOS + 1))
   fi
 }
 present_py()  { python3 -c "$1" >/dev/null 2>&1 && echo 1 || echo 0; }
@@ -479,6 +480,16 @@ AMORCE
   printf "\n${ORANGE}${GRAS}   Installation terminée !${FIN}\n"
   printf "   Cherchez ${GRAS}« TELIOS »${FIN} dans le menu des applications (Accessoires),\n"
   printf "   puis saisissez la clé de licence de votre entreprise dans Réglages → Licence.\n"
+  # Un outil manque : l'installation n'en est pas moins faite, mais la
+  # personne doit savoir où le compléter — sinon elle découvre l'absence au
+  # premier rapport PDF ou au premier téléphone branché.
+  if [ "$A_INSTALLER_DEPUIS_TELIOS" -gt 0 ]; then
+    printf "\n   ${JAUNE}${GRAS}%d outil(s) à installer depuis TELIOS${FIN}\n" "$A_INSTALLER_DEPUIS_TELIOS"
+    printf "   1. Lancez TELIOS : une fenêtre signale ce qui manque ;\n"
+    printf "   2. ouvrez Réglages → Dépendances (le bouton de la fenêtre y mène) ;\n"
+    printf "   3. les outils manquants y sont pré-cochés : cliquez « Installer la sélection »,\n"
+    printf "      puis saisissez votre mot de passe.\n"
+  fi
   printf "   ${GRIS}Les mises à jour se font ensuite depuis Réglages → Mises à jour.${FIN}\n\n"
 }
 

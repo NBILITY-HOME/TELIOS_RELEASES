@@ -1,8 +1,8 @@
 {
-  "version": "2.14.2",
+  "version": "2.14.3",
   "publie_le": "2026-10-06",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.2/telios-2.14.2.tar.gz",
-  "sha256": "6f2bcbcae7f33f74e3939681e9e0e855ebcb1294fa4b0319fafaf15fcf875876",
-  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché.\nNouveautés :\n  • installation — seul le socle de démarrage est exigé, le reste s'installe depuis TELIOS",
-  "signature": "d519fb3a819cbf6e3c302cc25a8553c7037477f638d330d42837187895b3e032ed2eeef2a14e093248dd183bed479ae93f474ec93f2316d5d7ee99f5ff917e0e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.3/telios-2.14.3.tar.gz",
+  "sha256": "6537a67592b1df9db25ecac7ab6ace9a1236fef03a0f5b5bd66e56f90a5648d5",
+  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché.\nNouveautés :\n  • installation — les outils manquants n'arrêtent rien, la conclusion dit où les installer",
+  "signature": "3ca7dfd2ff7669575a0aee4d75d5f14bfd4256fd00b4828b1f526f2099c8f122461eadb2e4c4f557d2fa4dea14cbf9acf85f31c7abe8ea7b24c8e19962105a0f"
 }
