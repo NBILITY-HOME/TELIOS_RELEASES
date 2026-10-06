@@ -84,10 +84,19 @@ check_py() {  # check_py "libellé" "code python" "paquet apt si absent"
   if python3 -c "$2" >/dev/null 2>&1; then ok "$1"
   else ko "$1" "absent"; MISSING_PKGS="$MISSING_PKGS $3"; fi
 }
-check_cmd() { # check_cmd "libellé" commande "paquet apt si absent"
-  if command -v "$2" >/dev/null 2>&1; then ok "$1" "$(command -v "$2")"
-  else ko "$1" "introuvable"; MISSING_PKGS="$MISSING_PKGS $3"; fi
+# Un outil que TELIOS installe lui-même, page « Dépendances » : signalé, jamais
+# exigé ici. Seul le socle qui fait démarrer l'application est requis par
+# l'installateur (décision du 6 octobre 2026) ; le reste se coche dans
+# l'application, sans terminal.
+facultatif() { # facultatif "libellé" présent(0/1)
+  if [ "$2" = "1" ]; then
+    printf "   ${VERT}✓${FIN} %s${GRIS}%s${FIN}\n" "$(colonne "$1")" "présent"
+  else
+    printf "   ${GRIS}·${FIN} %s${JAUNE}%s${FIN}\n" "$(colonne "$1")" "à installer depuis TELIOS"
+  fi
 }
+present_py()  { python3 -c "$1" >/dev/null 2>&1 && echo 1 || echo 0; }
+present_cmd() { command -v "$1" >/dev/null 2>&1 && echo 1 || echo 0; }
 
 logo() {
   clear 2>/dev/null || true
@@ -141,10 +150,6 @@ bilan() {
   fi
   check_py "PyGObject (python3-gi)" "import gi" "python3-gi"
   check_py "GTK 4" "import gi; gi.require_version('Gtk','4.0')" "gir1.2-gtk-4.0"
-  check_py "cairo (rendu PDF)" "import cairo" "python3-gi-cairo"
-
-  check_cmd "ADB (Android Debug Bridge)" adb adb
-  check_cmd "pkexec (installation des paquets)" pkexec policykit-1
 
   if python3 -c "import urllib.request as u; u.urlopen('$MANIFESTE_URL', timeout=10)" >/dev/null 2>&1; then
     ok "Accès au dépôt de distribution" "github.com"
@@ -153,6 +158,23 @@ bilan() {
   fi
 
   printf "\n   ${GRAS}Résultat : ${VERT}%d OK${FIN}${GRAS} / ${ROUGE}%d manquant(s)${FIN}\n\n" "$PASS" "$FAIL"
+
+  # La liste suit `telios/deps.py` (un test l'impose) : ce que la page
+  # « Dépendances » de TELIOS propose, pré-coché quand il manque.
+  printf "   ${GRAS}Outils installés ensuite depuis TELIOS${FIN} ${GRIS}(Réglages → Dépendances)${FIN}\n\n"
+  facultatif "cairo (rapports PDF)" "$(present_py 'import cairo')"
+  facultatif "ADB (Android Debug Bridge)" "$(present_cmd adb)"
+  facultatif "pkexec (fenêtre d'autorisation)" "$(present_cmd pkexec)"
+  facultatif "OpenSSL (certificat d'un APK)" "$(present_cmd openssl)"
+  facultatif "zbar-tools (QR code de licence)" "$(present_cmd zbarimg)"
+  facultatif "scrcpy (écran du téléphone)" "$(present_cmd scrcpy)"
+  # Sans pkexec, la page « Dépendances » ne peut rien installer : on le dit,
+  # avec la commande, plutôt que de laisser découvrir un bouton sans effet.
+  if [ "$(present_cmd pkexec)" = "0" ]; then
+    printf "\n   ${JAUNE}!${FIN} Sans pkexec, TELIOS ne pourra pas installer ces outils lui-même :\n"
+    printf "     sudo apt install policykit-1\n"
+  fi
+  printf "\n"
 }
 
 amorcer() {
@@ -486,8 +508,9 @@ installer_bureau() {
   par_amorce || echo "==> Dépôt        : $REPO"
   command -v python3 >/dev/null || { echo "python3 introuvable." >&2; exit 1; }
   if ! python3 -c "import gi; gi.require_version('Gtk','4.0')" 2>/dev/null; then
-    echo "!! Dépendances manquantes. Installez-les :" >&2
-    echo "   sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-4.0 adb policykit-1" >&2
+    echo "!! Socle manquant pour lancer TELIOS. Installez-le :" >&2
+    echo "   sudo apt install python3-gi gir1.2-gtk-4.0" >&2
+    echo "   (les autres outils s'installent ensuite depuis TELIOS, Réglages → Dépendances)" >&2
     exit 1
   fi
 

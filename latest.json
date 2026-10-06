@@ -1,8 +1,8 @@
 {
-  "version": "2.14.1",
+  "version": "2.14.2",
   "publie_le": "2026-10-06",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.1/telios-2.14.1.tar.gz",
-  "sha256": "397cd3d048e43f0e9d8e8ec37cd01d21447950246252139b2b7a99c485ba2269",
-  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché.\nNouveautés :\n  • theme — Ardoise par défaut, tant que l'utilisateur n'en choisit pas un autre\nCorrections :\n  • installation — un rapport d'installation d'un seul style, conclusion à la fin\n  • uninstall — bandeau d'alerte aligné\n  • installation — TELIOS réapparaît dans le menu de Linux Mint sans reconnexion\n  • ci — typage de la demande de code court, test de l'installateur sous Python 3.8",
-  "signature": "37876cc4497229b3ecf3e1a6b8fa8c338a27da05d3b8fc2f6e61aa0b5885a8a8d527adce47199d37ed8f2a6101efc966094bccfc69b2f23258998b52a9330c09"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.2/telios-2.14.2.tar.gz",
+  "sha256": "6f2bcbcae7f33f74e3939681e9e0e855ebcb1294fa4b0319fafaf15fcf875876",
+  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché.\nNouveautés :\n  • installation — seul le socle de démarrage est exigé, le reste s'installe depuis TELIOS",
+  "signature": "d519fb3a819cbf6e3c302cc25a8553c7037477f638d330d42837187895b3e032ed2eeef2a14e093248dd183bed479ae93f474ec93f2316d5d7ee99f5ff917e0e"
 }
