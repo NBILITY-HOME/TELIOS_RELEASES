@@ -178,6 +178,52 @@ bilan() {
   printf "\n"
 }
 
+# La suite de tests de la version posée, jouée sur ce poste. Une trentaine de
+# secondes sans rien à l'écran faisait croire l'installation bloquée (vu le
+# 6 octobre 2026) : on dit ce qui se passe, et une roue tourne avec le nombre
+# de contrôles faits et le temps écoulé. Le verdict, lui, ne vient que du
+# code de retour de la suite — jamais du compteur, qui n'est qu'un repère.
+valider_installation() {
+  local dossier="$1" journal pid debut faits total roue code i=0
+  journal=$(mktemp)
+  printf "   Vérification de TELIOS sur ce poste : près de 1 500 contrôles automatiques,\n"
+  printf "   environ 30 secondes. ${GRIS}Rien n'est envoyé, rien n'est modifié.${FIN}\n\n"
+  # « -t . » est indispensable : sans lui, six modules de test ne se chargent
+  # pas et la suite se termine au vert sans avoir rien vérifié.
+  (cd "$dossier" && exec python3 -m unittest discover -s tests -t . -v) >/dev/null 2>"$journal" &
+  pid=$!
+  debut=$SECONDS
+  case "${LC_ALL:-${LC_CTYPE:-${LANG:-}}}" in
+    *UTF-8*|*utf8*|*UTF8*) roue="⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏" ;;
+    *) roue='|/-\' ;;
+  esac
+  if [ -t 1 ]; then
+    tput civis 2>/dev/null || true
+    trap 'tput cnorm 2>/dev/null || true' EXIT
+    while kill -0 "$pid" 2>/dev/null; do
+      # En mode détaillé, chaque test finit par « ... ok », « ... skipped… »,
+      # « ... FAIL » ou « ... ERROR ». Les points de progression du mode
+      # court, eux, s'interrompaient au premier message écrit par un test.
+      faits=$(grep -cE '\.\.\. (ok|skipped|FAIL|ERROR|expected failure|unexpected success)' "$journal" 2>/dev/null || true)
+      printf "\r   ${ORANGE}%s${FIN} %d contrôle(s) effectué(s) · %d s " \
+        "${roue:$((i % ${#roue})):1}" "$faits" "$((SECONDS - debut))"
+      i=$((i + 1))
+      sleep 0.15
+    done
+    printf "\r\033[K"
+    tput cnorm 2>/dev/null || true
+  fi
+  if wait "$pid"; then code=0; else code=$?; fi
+  total=$(grep -o '^Ran [0-9]*' "$journal" | grep -o '[0-9]*' || true)
+  rm -f "$journal"
+  if [ "$code" -eq 0 ]; then
+    printf "   ${VERT}✓${FIN} Suite de tests : %s contrôles réussis en %d s.\n" "${total:-tous les}" "$((SECONDS - debut))"
+  else
+    printf "   ${JAUNE}!${FIN} Suite de tests : des contrôles ont échoué.\n"
+    printf "     Signalez-le à contact@nbility.fr avant d'établir une attestation.\n"
+  fi
+}
+
 amorcer() {
   # Un second passage signifierait que la version téléchargée n'est pas
   # exploitable. Mieux vaut le dire que boucler.
@@ -468,14 +514,7 @@ AMORCE
   bash "$PARTAGE/versions/$VERSION/packaging/install-desktop.sh"
 
   printf "\n${GRAS}── Validation finale ────────────────────────────────────────────────${FIN}\n\n"
-  # « -t . » est indispensable : sans lui, six modules de test ne se chargent
-  # pas et la suite se termine au vert sans avoir rien vérifié.
-  if (cd "$PARTAGE/courante" && python3 -m unittest discover -s tests -t . >/dev/null 2>&1); then
-    printf "   ${VERT}✓${FIN} Suite de tests : tous les tests passent.\n"
-  else
-    printf "   ${JAUNE}!${FIN} Suite de tests : des tests ont échoué.\n"
-    printf "     Signalez-le à contact@nbility.fr avant d'établir une attestation.\n"
-  fi
+  valider_installation "$PARTAGE/courante"
 
   printf "\n${ORANGE}${GRAS}   Installation terminée !${FIN}\n"
   printf "   Cherchez ${GRAS}« TELIOS »${FIN} dans le menu des applications (Accessoires),\n"
