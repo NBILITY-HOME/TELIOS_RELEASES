@@ -1,8 +1,8 @@
 {
-  "version": "2.14.0",
+  "version": "2.14.1",
   "publie_le": "2026-10-06",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.0/telios-2.14.0.tar.gz",
-  "sha256": "3565e2fd3d021a1dcbfad77d020d056e612638c1fde04dd490acb2951ce7c9ef",
-  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché, poste non encore réactivé sur le serveur de licences réinstallé.\nNouveautés :\n  • maj — TELIOS cherche une mise à jour à son lancement\n  • installation — la première pose prend la dernière version publiée et signée\n  • uninstall — script de suppression totale de TELIOS du poste\n  • licence — essais offerts par onglet et tokens, au vocabulaire du serveur\n  • licence — les soldes service par service sur la page Licence\n  • licence — les essais offerts, un compteur par onglet\n  • licence — remise à zéro quand le serveur ne connaît plus le poste\n  • pdf — numéro de vérification et QR code dans l'en-tête des rapports\n  • licence — TELIOS se rattache au serveur de licences de NBILITY\nCorrections :\n  …",
-  "signature": "1aa8a9f5a584ab6c722da062426680e0f9cb84fca35166027a71c50022f1fdcdd7cb5bbae31f2905ccb4d82358085e615ffab0ab4061cd71e3cdb2d4e70dc90d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.1/telios-2.14.1.tar.gz",
+  "sha256": "397cd3d048e43f0e9d8e8ec37cd01d21447950246252139b2b7a99c485ba2269",
+  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché.\nNouveautés :\n  • theme — Ardoise par défaut, tant que l'utilisateur n'en choisit pas un autre\nCorrections :\n  • installation — un rapport d'installation d'un seul style, conclusion à la fin\n  • uninstall — bandeau d'alerte aligné\n  • installation — TELIOS réapparaît dans le menu de Linux Mint sans reconnexion\n  • ci — typage de la demande de code court, test de l'installateur sous Python 3.8",
+  "signature": "37876cc4497229b3ecf3e1a6b8fa8c338a27da05d3b8fc2f6e61aa0b5885a8a8d527adce47199d37ed8f2a6101efc966094bccfc69b2f23258998b52a9330c09"
 }

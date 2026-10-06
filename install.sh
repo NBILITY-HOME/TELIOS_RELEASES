@@ -63,9 +63,22 @@ FIN='\e[0m'
 
 PASS=0; FAIL=0; MISSING_PKGS=""
 
-ok()   { printf "   ${VERT}✓${FIN} %-38s ${GRIS}%s${FIN}\n" "$1" "${2:-}"; PASS=$((PASS+1)); }
-ko()   { printf "   ${ROUGE}✗${FIN} %-38s ${ROUGE}%s${FIN}\n" "$1" "${2:-}"; FAIL=$((FAIL+1)); }
-warn() { printf "   ${JAUNE}!${FIN} %-38s ${JAUNE}%s${FIN}\n" "$1" "${2:-}"; }
+# Colonne alignée en caractères, pas en octets : `printf %-38s` compte les
+# octets, et chaque lettre accentuée (è, ô, é) en vaut deux en UTF-8 — la
+# valeur de « Accès au dépôt de distribution » partait de travers.
+colonne() { local pad=$((38 - ${#1})); [ "$pad" -lt 1 ] && pad=1; printf "%s%*s" "$1" "$pad" ""; }
+ok()   { printf "   ${VERT}✓${FIN} %s${GRIS}%s${FIN}\n" "$(colonne "$1")" "${2:-}"; PASS=$((PASS+1)); }
+ko()   { printf "   ${ROUGE}✗${FIN} %s${ROUGE}%s${FIN}\n" "$(colonne "$1")" "${2:-}"; FAIL=$((FAIL+1)); }
+warn() { printf "   ${JAUNE}!${FIN} %s${JAUNE}%s${FIN}\n" "$(colonne "$1")" "${2:-}"; }
+
+# Un chemin du dossier personnel s'écrit « ~/… » : sinon la ligne déborde la
+# fenêtre et se coupe au milieu du nom.
+court() { printf "%s" "${1/#$HOME/\~}"; }
+
+# Vrai quand l'intégration au bureau est appelée par l'amorce : elle parle
+# alors dans le style du rapport d'installation, et laisse la conclusion à
+# l'amorce, qui ne vient qu'après la validation finale.
+par_amorce() { [ "${TELIOS_AMORCE:-}" = "1" ]; }
 
 check_py() {  # check_py "libellé" "code python" "paquet apt si absent"
   if python3 -c "$2" >/dev/null 2>&1; then ok "$1"
@@ -442,14 +455,26 @@ AMORCE
   fi
 
   printf "\n${ORANGE}${GRAS}   Installation terminée !${FIN}\n"
-  printf "   Cherchez ${GRAS}« TELIOS »${FIN} dans le menu des applications, puis\n"
-  printf "   saisissez la clé de licence de votre entreprise dans Réglages → Licence.\n"
+  printf "   Cherchez ${GRAS}« TELIOS »${FIN} dans le menu des applications (Accessoires),\n"
+  printf "   puis saisissez la clé de licence de votre entreprise dans Réglages → Licence.\n"
   printf "   ${GRIS}Les mises à jour se font ensuite depuis Réglages → Mises à jour.${FIN}\n\n"
 }
 
 # =============================================================================
 #  Intégration au bureau — le dépôt est là, on installe
 # =============================================================================
+
+# Le menu de Cinnamon (Linux Mint) garde en mémoire l'état qu'il a lu : une
+# entrée supprimée puis reposée — désinstallation suivie d'une réinstallation
+# — n'y reparaissait pas avant une reconnexion. Vu le 6 octobre 2026. On lui
+# demande de se recharger, lui seul : ni redémarrage de Cinnamon, ni fenêtre
+# fermée. Sans Cinnamon (GNOME, autre bureau), rien à faire : le menu suit
+# les fichiers de lui-même. Un échec ici n'en est pas un pour l'installation.
+recharger_menu() {
+  command -v gdbus >/dev/null || return 0
+  gdbus call --session --dest org.Cinnamon --object-path /org/Cinnamon \
+    --method org.Cinnamon.ReloadXlet 'menu@cinnamon.org' 'APPLET' >/dev/null 2>&1 || true
+}
 
 installer_bureau() {
   local BIN_DIR="$HOME/.local/bin"
@@ -458,7 +483,7 @@ installer_bureau() {
   local LAUNCHER="$BIN_DIR/telios-gui"
   local DESKTOP="$APP_DIR/telios.desktop"
 
-  echo "==> Dépôt        : $REPO"
+  par_amorce || echo "==> Dépôt        : $REPO"
   command -v python3 >/dev/null || { echo "python3 introuvable." >&2; exit 1; }
   if ! python3 -c "import gi; gi.require_version('Gtk','4.0')" 2>/dev/null; then
     echo "!! Dépendances manquantes. Installez-les :" >&2
@@ -483,8 +508,10 @@ installer_bureau() {
   [ -L "$COURANTE" ] && ANCIENNE="$(readlink "$COURANTE")"
   ln -sfn "$REPO" "$COURANTE"
   if [ -n "$ANCIENNE" ] && [ "$ANCIENNE" != "$REPO" ]; then
-    echo "==> Version active : $REPO"
-    echo "    (remplace $ANCIENNE — relancer cet installateur impose ce dépôt)"
+    if ! par_amorce; then
+      echo "==> Version active : $REPO"
+      echo "    (remplace $ANCIENNE — relancer cet installateur impose ce dépôt)"
+    fi
   fi
 
   cat > "$LAUNCHER" <<'LAUNCH'
@@ -502,7 +529,8 @@ exec python3 -m telios.gui "$@"
 LAUNCH
   sed -i "s|__REPO__|$REPO|" "$LAUNCHER"
   chmod +x "$LAUNCHER"
-  echo "==> Lanceur      : $LAUNCHER -> $COURANTE"
+  if par_amorce; then ok "Lanceur" "$(court "$LAUNCHER")"
+  else echo "==> Lanceur      : $LAUNCHER -> $COURANTE"; fi
 
   # 2) Icônes (thème hicolor + fallback scalable SVG).
   local size dest
@@ -513,19 +541,24 @@ LAUNCH
   done
   mkdir -p "$ICON_ROOT/scalable/apps"
   cp "$REPO/telios/gui/assets/telios.svg" "$ICON_ROOT/scalable/apps/telios.svg"
-  echo "==> Icônes       : $ICON_ROOT"
+  if par_amorce; then ok "Icônes" "$(court "$ICON_ROOT")"
+  else echo "==> Icônes       : $ICON_ROOT"; fi
 
   # 3) Fichier .desktop avec Exec pointant sur le lanceur absolu.
   sed "s|__EXEC__|$LAUNCHER|" "$REPO/packaging/telios.desktop" > "$DESKTOP"
   chmod +x "$DESKTOP"
-  echo "==> Lanceur menu : $DESKTOP"
+  if par_amorce; then ok "Entrée de menu" "Accessoires → TELIOS"
+  else echo "==> Lanceur menu : $DESKTOP"; fi
 
   command -v update-desktop-database >/dev/null && update-desktop-database "$APP_DIR" 2>/dev/null || true
   command -v gtk-update-icon-cache   >/dev/null && gtk-update-icon-cache -f -t "$ICON_ROOT" 2>/dev/null || true
+  recharger_menu
 
+  # Appelée par l'amorce, la conclusion vient après la validation finale :
+  # l'écrire ici la faisait apparaître au milieu du rapport, en double.
+  par_amorce && return 0
   echo
-  echo "✓ Installé. Cherchez « telios » dans le menu des applications."
-  echo "  (déconnectez/reconnectez la session si l'icône n'apparaît pas tout de suite)"
+  echo "✓ Installé. Cherchez « TELIOS » dans le menu des applications (rubrique Accessoires)."
 }
 
 # =============================================================================
