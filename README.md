@@ -43,12 +43,13 @@ Python et GTK 4.
 ## Installer TELIOS
 
 ```bash
-wget https://github.com/NBILITY-HOME/TELIOS_RELEASES/raw/main/install.sh
+wget -O install.sh https://github.com/NBILITY-HOME/TELIOS_RELEASES/raw/main/install.sh
 bash install.sh
 ```
 
-À lancer en simple utilisateur, jamais avec `sudo`. L'installateur demande la
-clé d'accès fournie avec la licence, pose le lanceur et l'entrée de menu.
+À lancer en simple utilisateur, jamais avec `sudo`. L'installateur télécharge
+la dernière version publiée, en vérifie la signature et l'empreinte, pose le
+lanceur et l'entrée de menu. Aucune clé à saisir.
 Les mises à jour suivantes se font depuis l'application, sans clé et sans
 terminal : chaque version s'installe dans son propre dossier, l'archive est
 vérifiée par son empreinte avant extraction, et revenir à la précédente est

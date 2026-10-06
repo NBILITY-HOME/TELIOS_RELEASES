@@ -1,8 +1,8 @@
 {
-  "version": "2.13.20",
-  "publie_le": "2026-10-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.13.20/telios-2.13.20.tar.gz",
-  "sha256": "494f24f1beee6cba7b52bf66a49576a59c26c845733f25f6c2528e0358d58be0",
-  "notes": "Recette sur appareil : non effectuée — mise à jour du document de reprise seule, aucun changement de code ; aucun téléphone d'essai branché.\nDocumentation :\n  • le document de reprise remis à jour pour la 2.13.19",
-  "signature": "cab0d9e3bc8be16f1be0f18a9be50c32d596f4ff7e565e1316f0b4c04b1a347854923533de8ee1a23a722a717fdb85983a1950b6404f63ffdb38f8580387b10e"
+  "version": "2.14.0",
+  "publie_le": "2026-10-06",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.0/telios-2.14.0.tar.gz",
+  "sha256": "3565e2fd3d021a1dcbfad77d020d056e612638c1fde04dd490acb2951ce7c9ef",
+  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché, poste non encore réactivé sur le serveur de licences réinstallé.\nNouveautés :\n  • maj — TELIOS cherche une mise à jour à son lancement\n  • installation — la première pose prend la dernière version publiée et signée\n  • uninstall — script de suppression totale de TELIOS du poste\n  • licence — essais offerts par onglet et tokens, au vocabulaire du serveur\n  • licence — les soldes service par service sur la page Licence\n  • licence — les essais offerts, un compteur par onglet\n  • licence — remise à zéro quand le serveur ne connaît plus le poste\n  • pdf — numéro de vérification et QR code dans l'en-tête des rapports\n  • licence — TELIOS se rattache au serveur de licences de NBILITY\nCorrections :\n  …",
+  "signature": "1aa8a9f5a584ab6c722da062426680e0f9cb84fca35166027a71c50022f1fdcdd7cb5bbae31f2905ccb4d82358085e615ffab0ab4061cd71e3cdb2d4e70dc90d"
 }

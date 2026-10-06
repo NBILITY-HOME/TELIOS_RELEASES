@@ -8,8 +8,8 @@
 # Un seul installateur, deux situations :
 #
 #   - téléchargé seul, sans le reste du projet : il amorce tout — bilan du
-#     système, paquets manquants, clé d'accès au dépôt, clonage — puis se
-#     relance depuis le dépôt obtenu ;
+#     système, paquets manquants, téléchargement de la DERNIÈRE VERSION
+#     PUBLIÉE ET SIGNÉE — puis se relance depuis la version obtenue ;
 #   - lancé depuis un dépôt déjà présent : il installe seulement l'intégration
 #     au bureau (lanceur, icônes, entrée de menu).
 #
@@ -18,11 +18,26 @@
 # pas au téléphone : un client qui lance l'un en croyant lancer l'autre.
 set -euo pipefail
 
-REPO_URL="https://github.com/NBILITY-HOME/TELIOS_MOBILE.git"
-DEFAULT_DIR="$HOME/TELIOS"
+# La source d'une première installation est celle des mises à jour : le dépôt
+# public de distribution, son manifeste signé et ses archives. Ni clé d'accès,
+# ni dépôt source privé, ni git : un client n'a rien à saisir, et la première
+# version est authentifiée comme toutes les suivantes (ADR 009).
+DEPOT_PUBLIC="NBILITY-HOME/TELIOS_RELEASES"
+MANIFESTE_API="https://api.github.com/repos/$DEPOT_PUBLIC/contents/latest.json?ref=main"
+MANIFESTE_URL="https://raw.githubusercontent.com/$DEPOT_PUBLIC/main/latest.json"
+INSTALLATEUR_URL="https://github.com/$DEPOT_PUBLIC/raw/main/install.sh"
+# Clé publique de l'éditeur : la même que `telios/maj.py` (un test l'impose).
+# Elle voyage avec ce script, servi en HTTPS par GitHub : c'est la racine de
+# confiance de la première installation.
+CLE_PUBLIQUE="7190fdcf9f863615bce7c2b5844b60e2da4af27b3b51336460f07ca44309742b"
+PARTAGE="$HOME/.local/share/telios"
 
-ICI="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-REPO="$(cd "$ICI/.." && pwd)"
+# `pwd -P` : le chemin réel, liens résolus. Lancé à travers le lien
+# « courante » (ce que fait l'amorce, ou une personne qui le retrouve là),
+# `pwd` seul rendait « …/courante » : l'installateur faisait alors pointer
+# « courante » sur lui-même, et la boucle empêchait de poser icônes et menu.
+ICI="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)"
+REPO="$(cd "$ICI/.." && pwd -P)"
 
 # Le dépôt est « présent » si les fichiers dont l'installation a besoin sont
 # effectivement là. Se contenter du dossier parent ne suffirait pas : un script
@@ -46,7 +61,7 @@ FIN='\e[0m'
 #  Amorce — uniquement quand le projet n'est pas encore sur le poste
 # =============================================================================
 
-PASS=0; FAIL=0; MISSING_PKGS=""; GH_TOKEN=""
+PASS=0; FAIL=0; MISSING_PKGS=""
 
 ok()   { printf "   ${VERT}✓${FIN} %-38s ${GRIS}%s${FIN}\n" "$1" "${2:-}"; PASS=$((PASS+1)); }
 ko()   { printf "   ${ROUGE}✗${FIN} %-38s ${ROUGE}%s${FIN}\n" "$1" "${2:-}"; FAIL=$((FAIL+1)); }
@@ -115,49 +130,37 @@ bilan() {
   check_py "GTK 4" "import gi; gi.require_version('Gtk','4.0')" "gir1.2-gtk-4.0"
   check_py "cairo (rendu PDF)" "import cairo" "python3-gi-cairo"
 
-  check_cmd "git" git git
   check_cmd "ADB (Android Debug Bridge)" adb adb
   check_cmd "pkexec (installation des paquets)" pkexec policykit-1
 
-  # Le dépôt source est privé : en anonyme, l'échec est normal et attendu dès
-  # lors qu'une clé a été saisie. Sans clé ni accès anonyme, on avertit plutôt
-  # que d'échouer ici — le clonage, lui, tranchera pour de bon.
-  if timeout 10 git ls-remote --exit-code "$REPO_URL" HEAD >/dev/null 2>&1 \
-     || [ -n "$GH_TOKEN" ]; then
-    ok "Accès réseau GitHub"
+  if python3 -c "import urllib.request as u; u.urlopen('$MANIFESTE_URL', timeout=10)" >/dev/null 2>&1; then
+    ok "Accès au dépôt de distribution" "github.com"
   else
-    warn "Accès réseau GitHub" "dépôt inaccessible sans clé d'accès"
+    ko "Accès au dépôt de distribution" "injoignable (réseau, proxy ?)"
   fi
 
   printf "\n   ${GRAS}Résultat : ${VERT}%d OK${FIN}${GRAS} / ${ROUGE}%d manquant(s)${FIN}\n\n" "$PASS" "$FAIL"
 }
 
 amorcer() {
-  # Un second passage signifierait que le clonage n'a pas produit de dépôt
+  # Un second passage signifierait que la version téléchargée n'est pas
   # exploitable. Mieux vaut le dire que boucler.
   if [ "${TELIOS_AMORCE:-}" = "1" ]; then
-    printf "${ROUGE}Le dépôt cloné est incomplet : installation interrompue.${FIN}\n" >&2
+    printf "${ROUGE}La version téléchargée est incomplète : installation interrompue.${FIN}\n" >&2
     exit 1
   fi
   export TELIOS_AMORCE=1
 
-  # Les questions posées plus bas exigent un vrai terminal. Dans un tube
+  # La question posée plus bas exige un vrai terminal. Dans un tube
   # (« curl … | bash »), la lecture avalerait le script lui-même.
   if [ ! -t 0 ]; then
     printf "${ROUGE}Cet installateur pose des questions : lancez-le depuis un terminal${FIN}\n" >&2
-    printf "   wget %s\n" \
-           "https://github.com/NBILITY-HOME/TELIOS_RELEASES/raw/main/install.sh" >&2
-    printf "   bash install.sh\n" >&2
+    printf "   wget -O install.sh %s && bash install.sh\n" "$INSTALLATEUR_URL" >&2
     exit 1
   fi
 
   printf '\e[8;55;180t'   # fenêtre assez large pour le bilan
   logo
-
-  printf "${GRAS}── Accès au dépôt TELIOS ────────────────────────────────────────────${FIN}\n\n"
-  printf "   Collez la clé d'accès fournie avec votre licence.\n"
-  printf "   ${GRIS}Elle ne sera ni affichée, ni enregistrée sur le disque.${FIN}\n\n"
-  read -rsp "   Clé d'accès : " GH_TOKEN; printf "\n\n"
 
   bilan
 
@@ -170,6 +173,7 @@ amorcer() {
     read -rp "   Lancer « sudo apt install $MISSING_PKGS » maintenant ? [o/N] " REP
     if [[ "${REP,,}" =~ ^(o|oui|y|yes)$ ]]; then
       sudo apt-get update -qq
+      # shellcheck disable=SC2086
       sudo apt-get install -y $MISSING_PKGS
       printf "\n   ${VERT}✓${FIN} Dépendances installées.\n\n"
     else
@@ -179,47 +183,258 @@ amorcer() {
     fi
   fi
 
-  printf "${GRAS}── Téléchargement de TELIOS ─────────────────────────────────────────${FIN}\n\n"
-  read -rp "   Dossier d'installation [${DEFAULT_DIR}] : " INSTALL_DIR
-  INSTALL_DIR="${INSTALL_DIR:-$DEFAULT_DIR}"
+  printf "${GRAS}── Téléchargement de la dernière version publiée ────────────────────${FIN}\n\n"
+  # Même chaîne que la mise à jour depuis l'application (telios/maj.py) :
+  # manifeste signé par l'éditeur, archive vérifiée par son empreinte, chemins
+  # confinés à l'extraction, une version par dossier et le lien « courante ».
+  # Un seul écart, et rien n'est installé.
+  local VERSION
+  if ! VERSION=$(python3 - "$MANIFESTE_API $MANIFESTE_URL" "$CLE_PUBLIQUE" "$PARTAGE" <<'AMORCE'
+"""Amorce de TELIOS : télécharge, authentifie et pose la dernière version.
 
-  GIT_ENV=()
-  ASKPASS_FILE=""
-  if [ -n "$GH_TOKEN" ]; then
-    # La clé transite par GIT_ASKPASS et rien d'autre : jamais dans l'URL du
-    # dépôt distant, donc jamais dans .git/config ni dans l'historique du
-    # shell, où elle resterait lisible longtemps après l'installation.
-    ASKPASS_FILE=$(mktemp)
-    chmod 700 "$ASKPASS_FILE"
-    cat > "$ASKPASS_FILE" <<ASKPASS
-#!/bin/sh
-case "\$1" in
-  Username*) echo "x-access-token" ;;
-  *)         echo "$GH_TOKEN" ;;
-esac
-ASKPASS
-    GIT_ENV=(env GIT_ASKPASS="$ASKPASS_FILE" GIT_TERMINAL_PROMPT=0)
-  fi
-  nettoyer() { [ -n "$ASKPASS_FILE" ] && rm -f "$ASKPASS_FILE"; }
-  trap nettoyer EXIT
+Autonome — le projet n'est pas encore là — et limité à la bibliothèque
+standard (ADR 005). La vérification Ed25519 suit la RFC 8032 ; un test
+l'éprouve contre `telios/ed25519.py`, et la chaîne entière contre une
+publication signée d'une clé d'essai. Écrit en Python 3.8 au plus.
 
-  if [ -d "$INSTALL_DIR/.git" ]; then
-    printf "   Dépôt déjà présent : mise à jour…\n"
-    "${GIT_ENV[@]}" git -C "$INSTALL_DIR" pull --ff-only
-  else
-    "${GIT_ENV[@]}" git clone --depth 1 "$REPO_URL" "$INSTALL_DIR"
+    python3 - "<sources du manifeste>" <clé publique hex> <racine>
+
+Imprime la version installée sur la sortie standard ; tout refus part sur
+la sortie d'erreur avec un code non nul.
+"""
+import hashlib
+import json
+import os
+import re
+import shutil
+import sys
+import tarfile
+import tempfile
+import urllib.request
+from pathlib import Path
+
+TAILLE_MAX = 200 * 1024 * 1024
+DELAI = 30
+
+# ── Ed25519, vérification seule (RFC 8032, § 5.1.7)
+_P = 2 ** 255 - 19
+_Q = 2 ** 252 + 27742317777372353535851937790883648493
+
+
+def _inv(x):
+    return pow(x, _P - 2, _P)
+
+
+_D = -121665 * _inv(121666) % _P
+_I = pow(2, (_P - 1) // 4, _P)
+
+
+def _add(p, q):
+    a = (p[1] - p[0]) * (q[1] - q[0]) % _P
+    b = (p[1] + p[0]) * (q[1] + q[0]) % _P
+    c = 2 * p[3] * q[3] * _D % _P
+    d = 2 * p[2] * q[2] % _P
+    e, f, g, h = b - a, d - c, d + c, b + a
+    return (e * f % _P, g * h % _P, f * g % _P, e * h % _P)
+
+
+def _mul(s, p):
+    r = (0, 1, 1, 0)
+    while s:
+        if s & 1:
+            r = _add(r, p)
+        p = _add(p, p)
+        s >>= 1
+    return r
+
+
+def _egaux(p, q):
+    return (p[0] * q[2] - q[0] * p[2]) % _P == 0 and (p[1] * q[2] - q[1] * p[2]) % _P == 0
+
+
+def _x(y, signe):
+    if y >= _P:
+        return None
+    x2 = (y * y - 1) * _inv(_D * y * y + 1) % _P
+    if x2 == 0:
+        return None if signe else 0
+    x = pow(x2, (_P + 3) // 8, _P)
+    if (x * x - x2) % _P:
+        x = x * _I % _P
+    if (x * x - x2) % _P:
+        return None
+    if x & 1 != signe:
+        x = _P - x
+    return x
+
+
+_GY = 4 * _inv(5) % _P
+_GX = _x(_GY, 0)
+_G = (_GX, _GY, 1, _GX * _GY % _P)
+
+
+def _point(octets):
+    if len(octets) != 32:
+        return None
+    y = int.from_bytes(octets, "little")
+    signe = y >> 255
+    y &= (1 << 255) - 1
+    x = _x(y, signe)
+    return None if x is None else (x, y, 1, x * y % _P)
+
+
+def verifier(cle, message, signature):
+    if len(cle) != 32 or len(signature) != 64:
+        return False
+    a = _point(cle)
+    r = _point(signature[:32])
+    if a is None or r is None:
+        return False
+    s = int.from_bytes(signature[32:], "little")
+    if s >= _Q:
+        return False
+    h = int.from_bytes(hashlib.sha512(signature[:32] + cle + message).digest(), "little") % _Q
+    return _egaux(_mul(s, _G), _add(r, _mul(h, a)))
+
+
+# ── chaîne d'installation
+
+class Refus(Exception):
+    pass
+
+
+def lire(url, limite=TAILLE_MAX):
+    requete = urllib.request.Request(url, headers={
+        "Accept": "application/vnd.github.raw+json", "User-Agent": "TELIOS-installateur"})
+    with urllib.request.urlopen(requete, timeout=DELAI) as flux:
+        donnees = flux.read(limite + 1)
+    if len(donnees) > limite:
+        raise Refus("réponse anormalement volumineuse : refusée")
+    return donnees
+
+
+def manifeste(sources, cle):
+    echecs = []
+    for url in sources:
+        try:
+            brut = lire(url, 1024 * 1024)
+            break
+        except Refus:
+            raise
+        except Exception as exc:  # réseau : on essaie la source suivante
+            echecs.append("{0} : {1}".format(url, exc))
+    else:
+        raise Refus("dépôt de distribution injoignable\n  " + "\n  ".join(echecs))
+    try:
+        donnees = json.loads(brut.decode("utf-8"))
+    except ValueError:
+        raise Refus("le manifeste publié n'est pas un JSON valide")
+    if not isinstance(donnees, dict):
+        raise Refus("le manifeste publié n'a pas la forme attendue")
+    manquants = [c for c in ("version", "archive", "sha256", "signature") if not donnees.get(c)]
+    if manquants:
+        raise Refus("manifeste incomplet, champs manquants : " + ", ".join(manquants))
+    corps = {k: v for k, v in donnees.items() if k != "signature"}
+    charge = json.dumps(corps, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
+    try:
+        signature = bytes.fromhex(str(donnees["signature"]))
+    except ValueError:
+        signature = b""
+    if not verifier(cle, charge, signature):
+        raise Refus("la signature du manifeste est invalide : il ne vient pas de l'éditeur")
+    version = str(donnees["version"]).strip().lstrip("v")
+    # Le numéro devient un nom de dossier : rien d'autre que des chiffres.
+    if not re.fullmatch(r"[0-9]+(\.[0-9]+){1,3}", version):
+        raise Refus("numéro de version inattendu : " + version)
+    return version, str(donnees["archive"]), str(donnees["sha256"]).strip().lower()
+
+
+def sur(membre, racine):
+    if membre.islnk() or membre.issym() or membre.isdev():
+        return False
+    destination = (racine / membre.name).resolve()
+    try:
+        destination.relative_to(racine.resolve())
+    except ValueError:
+        return False
+    return True
+
+
+def installer(version, url, empreinte, racine):
+    versions = racine / "versions"
+    versions.mkdir(parents=True, exist_ok=True)
+    provisoire = Path(tempfile.mkdtemp(prefix="telios-amorce-", dir=str(racine)))
+    try:
+        archive = provisoire / "telios.tar.gz"
+        donnees = lire(url)
+        obtenue = hashlib.sha256(donnees).hexdigest()
+        if obtenue != empreinte:
+            raise Refus("empreinte SHA-256 incorrecte : l'archive ne correspond pas à celle "
+                        "publiée\n  attendue : {0}\n  obtenue  : {1}".format(empreinte, obtenue))
+        archive.write_bytes(donnees)
+        extrait = provisoire / "extrait"
+        extrait.mkdir()
+        with tarfile.open(str(archive), "r:gz") as tar:
+            membres = tar.getmembers()
+            if not all(sur(m, extrait) for m in membres):
+                raise Refus("l'archive contient des chemins hors du dossier d'installation : refusée")
+            try:
+                tar.extractall(str(extrait), members=membres, filter="data")
+            except TypeError:  # Python < 3.12 : notre contrôle seul protège
+                tar.extractall(str(extrait), members=membres)
+        contenu = list(extrait.iterdir())
+        source = contenu[0] if len(contenu) == 1 and contenu[0].is_dir() else extrait
+        if not (source / "telios" / "__init__.py").is_file():
+            raise Refus("l'archive ne contient pas TELIOS")
+        cible = versions / version
+        if cible.exists():
+            shutil.rmtree(str(cible))
+        shutil.move(str(source), str(cible))
+        lien = racine / "courante"
+        transit = racine / (".courante-" + version)
+        if transit.is_symlink() or transit.exists():
+            transit.unlink()
+        transit.symlink_to(cible, target_is_directory=True)
+        os.replace(str(transit), str(lien))  # atomique : « courante » ne manque jamais
+    finally:
+        shutil.rmtree(str(provisoire), ignore_errors=True)
+
+
+def principal(argv):
+    sources, cle, racine = argv[1].split(), bytes.fromhex(argv[2]), Path(argv[3])
+    try:
+        version, url, empreinte = manifeste(sources, cle)
+        installer(version, url, empreinte, racine)
+    except Refus as exc:
+        sys.stderr.write("Installation refusée : {0}\n".format(exc))
+        return 1
+    except Exception as exc:
+        sys.stderr.write("Installation impossible : {0}\n".format(exc))
+        return 1
+    print(version)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(principal(sys.argv))
+AMORCE
+  ); then
+    printf "\n   ${ROUGE}✗ Rien n'a été installé.${FIN} Vérifiez la connexion, puis relancez.\n" >&2
+    printf "     Si le refus persiste, écrivez à contact@nbility.fr.\n\n" >&2
+    exit 1
   fi
-  printf "   ${VERT}✓${FIN} Projet dans %s\n\n" "$INSTALL_DIR"
+  printf "   ${VERT}✓${FIN} TELIOS %s, signature de l'éditeur et empreinte vérifiées\n\n" "$VERSION"
 
   printf "${GRAS}── Icône et lanceur de menu ─────────────────────────────────────────${FIN}\n\n"
-  # On repasse par l'installateur du dépôt obtenu, et non par celui-ci : c'est
-  # sa version à lui qui doit poser l'intégration au bureau.
-  bash "$INSTALL_DIR/packaging/install-desktop.sh"
+  # On repasse par l'installateur de la version obtenue, et non par celui-ci :
+  # c'est le sien qui doit poser l'intégration au bureau. Par son vrai dossier,
+  # jamais par le lien « courante » qu'il va lui-même réécrire.
+  bash "$PARTAGE/versions/$VERSION/packaging/install-desktop.sh"
 
   printf "\n${GRAS}── Validation finale ────────────────────────────────────────────────${FIN}\n\n"
   # « -t . » est indispensable : sans lui, six modules de test ne se chargent
   # pas et la suite se termine au vert sans avoir rien vérifié.
-  if (cd "$INSTALL_DIR" && python3 -m unittest discover -s tests -t . >/dev/null 2>&1); then
+  if (cd "$PARTAGE/courante" && python3 -m unittest discover -s tests -t . >/dev/null 2>&1); then
     printf "   ${VERT}✓${FIN} Suite de tests : tous les tests passent.\n"
   else
     printf "   ${JAUNE}!${FIN} Suite de tests : des tests ont échoué.\n"
@@ -227,9 +442,9 @@ ASKPASS
   fi
 
   printf "\n${ORANGE}${GRAS}   Installation terminée !${FIN}\n"
-  printf "   Cherchez ${GRAS}« TELIOS »${FIN} dans le menu des applications.\n"
-  printf "   ${GRIS}Les mises à jour se font ensuite depuis Réglages → Mises à jour,${FIN}\n"
-  printf "   ${GRIS}sans clé et sans terminal.${FIN}\n\n"
+  printf "   Cherchez ${GRAS}« TELIOS »${FIN} dans le menu des applications, puis\n"
+  printf "   saisissez la clé de licence de votre entreprise dans Réglages → Licence.\n"
+  printf "   ${GRIS}Les mises à jour se font ensuite depuis Réglages → Mises à jour.${FIN}\n\n"
 }
 
 # =============================================================================
