@@ -1,8 +1,8 @@
 {
-  "version": "2.14.17",
+  "version": "2.14.18",
   "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.17/telios-2.14.17.tar.gz",
-  "sha256": "5c5fc9a8cb29c3230ebda364232e58e644ee9b477c2fd2d209b4e0937066b299",
-  "notes": "Des Réglages mieux rangés : mises à jour, dépendances et licence réunies, pour tout retrouver d'instinct.",
-  "signature": "2bb36217ce8a11774ef3eb9149037a934b9f8a40b7f0d31102a0ee3f61021b18c1fea5d8652df2d010e4b871eec88985b8f098b3a5d862b93085a0bd28970005"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.18/telios-2.14.18.tar.gz",
+  "sha256": "63978465a5727b007ddee3edd21bc0df139d8a2d0ac0876ed427ace079322631",
+  "notes": "Votre licence en tête des Réglages : tokens et contact accessibles dès l'ouverture, en un clic.",
+  "signature": "3182e8355362b94784c5793cbebc0eeebb463cacd448e5f0d6a1c11f809f7c31d479efa98ce95ef8053c159f3f0912efeee950268d8b0fa0ee43e93d5fd72701"
 }
