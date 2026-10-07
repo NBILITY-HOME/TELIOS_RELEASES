@@ -1,8 +1,8 @@
 {
-  "version": "2.14.16",
+  "version": "2.14.17",
   "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.16/telios-2.14.16.tar.gz",
-  "sha256": "2fd36a35976670889760edfe970cfe61e6177c1f9bf3dbbcc266556c8fbecc7f",
-  "notes": "Une page Licence encore plus lisible : votre entreprise et votre contact, côte à côte, d'un seul regard.",
-  "signature": "6775c45d145a4b88ceb4de0dca85679bbbccf12bfe619f8d6bb8f420938b4b0b26ecb3eaf87a5b9fbc9f39e976aa5eabdf95628cc7bacf616d4d17befa148e04"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.17/telios-2.14.17.tar.gz",
+  "sha256": "5c5fc9a8cb29c3230ebda364232e58e644ee9b477c2fd2d209b4e0937066b299",
+  "notes": "Des Réglages mieux rangés : mises à jour, dépendances et licence réunies, pour tout retrouver d'instinct.",
+  "signature": "2bb36217ce8a11774ef3eb9149037a934b9f8a40b7f0d31102a0ee3f61021b18c1fea5d8652df2d010e4b871eec88985b8f098b3a5d862b93085a0bd28970005"
 }
