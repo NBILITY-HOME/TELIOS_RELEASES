@@ -25,7 +25,10 @@ set -euo pipefail
 DEPOT_PUBLIC="NBILITY-HOME/TELIOS_RELEASES"
 MANIFESTE_API="https://api.github.com/repos/$DEPOT_PUBLIC/contents/latest.json?ref=main"
 MANIFESTE_URL="https://raw.githubusercontent.com/$DEPOT_PUBLIC/main/latest.json"
-INSTALLATEUR_URL="https://github.com/$DEPOT_PUBLIC/raw/main/install.sh"
+# L'adresse directe, et non « github.com/…/raw/… » : celle-ci n'est qu'une
+# redirection, qui a répondu 500 le 07/10/2026 pendant que le fichier, lui,
+# restait servi normalement à l'adresse directe.
+INSTALLATEUR_URL="https://raw.githubusercontent.com/$DEPOT_PUBLIC/main/install.sh"
 # Clé publique de l'éditeur : la même que `telios/maj.py` (un test l'impose).
 # Elle voyage avec ce script, servi en HTTPS par GitHub : c'est la racine de
 # confiance de la première installation.

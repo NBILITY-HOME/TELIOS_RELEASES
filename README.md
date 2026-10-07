@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="images/banniere.svg" width="100%" alt="TELIOS 2.14.5 — Une ligne, et le poste est prêt. Compatible Linux Mint 21+ et Ubuntu 22.04+.">
+  <img src="images/banniere.svg" width="100%" alt="TELIOS 2.14.6 — Une ligne, et le poste est prêt. Compatible Linux Mint 21+ et Ubuntu 22.04+.">
 </p>
 
 # TELIOS — sécuriser un parc mobile, et pouvoir le prouver
 
-**Dernière version : TELIOS 2.14.5, publiée le 07/10/2026** — signature TELIOS vérifiée ·
-[notes de version](https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/tag/v2.14.5)
+**Dernière version : TELIOS 2.14.6, publiée le 07/10/2026** — signature TELIOS vérifiée ·
+[notes de version](https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/tag/v2.14.6)
 
 TELIOS est l'outil de NBILITY pour auditer, préparer et assainir des
 smartphones Android depuis un poste Linux Mint ou Ubuntu. Il s'adresse aux
@@ -42,7 +42,7 @@ Une seule ligne, à coller dans un terminal (menu → Terminal, ou Ctrl+Alt+T),
 **sans sudo** :
 
 ```bash
-wget -O install.sh https://github.com/NBILITY-HOME/TELIOS_RELEASES/raw/main/install.sh && bash install.sh
+wget -O install.sh https://raw.githubusercontent.com/NBILITY-HOME/TELIOS_RELEASES/main/install.sh && bash install.sh
 ```
 
 <p align="center">
@@ -61,7 +61,7 @@ wget -O install.sh https://github.com/NBILITY-HOME/TELIOS_RELEASES/raw/main/inst
    Ouvrez un terminal (menu → Terminal, ou Ctrl+Alt+T), puis collez cette ligne, **sans sudo** :
 
    ```bash
-   wget -O install.sh https://github.com/NBILITY-HOME/TELIOS_RELEASES/raw/main/install.sh && bash install.sh
+   wget -O install.sh https://raw.githubusercontent.com/NBILITY-HOME/TELIOS_RELEASES/main/install.sh && bash install.sh
    ```
 3. **Laisser faire l'installateur**
    - Il vérifie le socle (Python 3.8+, PyGObject, GTK 4) et propose de l'installer s'il manque ; le mot de passe est demandé une seule fois.
