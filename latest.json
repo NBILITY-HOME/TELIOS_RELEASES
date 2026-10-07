@@ -1,8 +1,8 @@
 {
-  "version": "2.14.11",
+  "version": "2.14.12",
   "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.11/telios-2.14.11.tar.gz",
-  "sha256": "404431586f26804407e82002c799dc64ad118287cd354a426ec320fd11c150ea",
-  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; clé du serveur remis à neuf et retrait du code court, validés par la suite de tests et contre le serveur réel.\nNouveautés :\n  • licence — clé du serveur remis à neuf, et retrait du code court",
-  "signature": "a1f27cef2cf3582da57495b6d4ce611894b0a12006d52f35b6d539301b58f1ca7e55178059116b7bd392bccf3f89b956cac4d5782dafd6c036b9b5ee5e75f509"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.12/telios-2.14.12.tar.gz",
+  "sha256": "15c426f33079ad2527b9efb3991a784014d795b0d738826eb567ede41db48dec",
+  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; vitrine du dépôt public seule (adresses d'images versionnées), validée par la suite de tests.\nCorrections :\n  • vitrine — chaque image du README porte la version dans son adresse",
+  "signature": "1705d3b1c59f8d18d15ec74ec4c55cac28cb82356052f60f0bc73accc6463e49bc0f5e79e0664f86fae233033fc144056419100858bf9293597366ce7229c00d"
 }
