@@ -1,8 +1,8 @@
 {
-  "version": "2.14.19",
+  "version": "2.14.20",
   "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.19/telios-2.14.19.tar.gz",
-  "sha256": "0adb5cb1460c612aed78f96beeb630cd2d4fb9bdd9c3ffea3a3fd19204b1c7ad",
-  "notes": "Vos tokens en temps réel : chaque achat ou crédit apparaît aussitôt dans TELIOS, sans redémarrage.",
-  "signature": "10e47c5608169d7efd6464f13df0bf98e3c2ae25d2184dbadcb8a36053bb438e58816b8cc0a126cf6538c0968531017f42c4177fa4866f906a0932f603ce4606"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.20/telios-2.14.20.tar.gz",
+  "sha256": "c1584bd7b25602a07d62d37faf37ad09318967e109d6377952faf2f7b4629227",
+  "notes": "Une question, un projet ? Le bouton « Nous contacter » vous mène directement à l'équipe NBILITY.",
+  "signature": "1a8f0ff6bb5b2704d5b4acf938fbb6c65839c9f843f12d6fec62e35e390f70732a2b00655484d9c56ce1ee59106e487c8968927917ff4c7235f1c1df5dbc0a00"
 }
