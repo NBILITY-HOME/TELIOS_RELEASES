@@ -1,8 +1,8 @@
 {
-  "version": "2.14.14",
+  "version": "2.14.15",
   "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.14/telios-2.14.14.tar.gz",
-  "sha256": "a18550940765cb30a1564c89a4375218ed17796fc36d8c3397749e7233f83292",
-  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; mise en page de la carte Entreprise, validée par la suite de tests.",
-  "signature": "6eb4666c2ce36c57c3f49f847f41f3b527c3f9d4c5ddc210e438d5c7ec4db14aa9994e9287ed844d351f639a9a3c01781f25da5b8451782769c2e46c224c080c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.15/telios-2.14.15.tar.gz",
+  "sha256": "698309bdc84dfdd2b940b3c2c0d67f91e3d2b30563939276231b9c353e75c358",
+  "notes": "Réglages plus clairs : votre entreprise et son contact d'un coup d'œil, et des mises à jour présentées avec élégance.",
+  "signature": "19b043ad26b1c17098aae2b3eb2f59912e3909f7f371572f5b6ab7a8a3670cd5b657e9556791b2a2e815cf47fb220756d29229470d0b826784186e2a889caa00"
 }
