@@ -1,8 +1,8 @@
 {
-  "version": "2.14.4",
-  "publie_le": "2026-10-06",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.4/telios-2.14.4.tar.gz",
-  "sha256": "02543680e2d56329ce2370d078d2d95c80aab327a859ec5a84036d76df363707",
-  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché.\nNouveautés :\n  • installation — la validation finale dit ce qu'elle fait et montre qu'elle avance",
-  "signature": "749d2e20cc0458d0f1364b20886aa2019e8e79a97e9b25ea5e14b273bf11672892ef66ae14aaa401c6f0f1cf3e3ce070f5ca1764edeffab17ad79fcac7913f0a"
+  "version": "2.14.5",
+  "publie_le": "2026-10-07",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.5/telios-2.14.5.tar.gz",
+  "sha256": "23fb7ed5dbdd7cae56d49540c8ef18589de39c2fea63536a5e153d29cbd7e66b",
+  "notes": "Recette sur appareil : non effectuée — livrée sans recette sur appareil, avec l'accord de l'éditeur : POC, aucun téléphone d'essai branché.\nNouveautés :\n  • licence — les soldes en tuiles, icônes vectorielles et entrée en scène\n  • publication — vitrine du dépôt public — bannière versionnée et six étapes\nCorrections :\n  • licence — clé du serveur réinstallé le 6 octobre au soir, et un message qui ne trompe plus",
+  "signature": "bbfd58f06b1e313fe38323d17569291cd09314714a962072facc28397e920fe09d4bfab7e922a9918d1eb93d2ad2f5124ddd0d1059cb28506b812c5ee31a3702"
 }
