@@ -1,8 +1,8 @@
 {
-  "version": "2.14.7",
+  "version": "2.14.8",
   "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.7/telios-2.14.7.tar.gz",
-  "sha256": "e74f7900f79ccb0df5e40fb63173f0213a5962d04cb68e563089ab10f50b8f66",
-  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; sceau d'intégrité et audit Flotte/EMM payant validés par la suite de tests.\nNouveautés :\n  • licence — l'audit d'appareil dit son onglet dans les faits envoyés au serveur\n  • sécurité — sceau d'intégrité signé — un TELIOS retouché ne demande plus de licence\n  • licence — l'audit d'appareil de Flotte et d'EMM consomme une licence\nTests :\n  • licence — audit des tokens — aucun moteur payant sans licence du serveur",
-  "signature": "49ffbc59414d593ac2c9cd82926e6e0e836cfc1e100e21498501fbd90129f43bb63fa660dcda5bdfb3b732e65b4bf167e493493283b2945da0ca6ae867e7e40b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.8/telios-2.14.8.tar.gz",
+  "sha256": "3c552e99d1f44fbbe342ce17853c21bfcf35910c0f185e177e1ebc8c0164fbe8",
+  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; retrait d'une liste de la page Licence, validé par la suite de tests.",
+  "signature": "72c7b2a783e29e28461094f41977e24afe3889d13be317cc4d967c25aa7c215676a92a7b95e9b5c6acaae45f569852f5940cb1399bc47345e2027de099d5bb0c"
 }
