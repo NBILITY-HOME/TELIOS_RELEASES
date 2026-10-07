@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="images/banniere.svg" width="100%" alt="TELIOS 2.14.9 — Une ligne, et le poste est prêt. Compatible Linux Mint 21+ et Ubuntu 22.04+.">
+  <img src="images/banniere.svg" width="100%" alt="TELIOS 2.14.10 — Une ligne, et le poste est prêt. Compatible Linux Mint 21+ et Ubuntu 22.04+.">
 </p>
 
 # TELIOS — sécuriser un parc mobile, et pouvoir le prouver
 
-**Dernière version : TELIOS 2.14.9, publiée le 07/10/2026** — signature TELIOS vérifiée ·
-[notes de version](https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/tag/v2.14.9)
+**Dernière version : TELIOS 2.14.10, publiée le 07/10/2026** — signature TELIOS vérifiée ·
+[notes de version](https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/tag/v2.14.10)
 
 TELIOS est l'outil de NBILITY pour auditer, préparer et assainir des
 smartphones Android depuis un poste Linux Mint ou Ubuntu. Il s'adresse aux

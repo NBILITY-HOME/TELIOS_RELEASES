@@ -1,8 +1,8 @@
 {
-  "version": "2.14.9",
+  "version": "2.14.10",
   "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.9/telios-2.14.9.tar.gz",
-  "sha256": "05371bfcc4768c597b3071d295663ab0c9fdda1b3e7ec728044bc33c1b32464e",
-  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; mise en page de la carte Tokens et essais, validée par la suite de tests.",
-  "signature": "4c27b4eee4a254215e9708e4970fab2a2234ead9303eebeab11fc75c57b0f2cf0dce060d3e0a9a48da8e76c3f7eb3d0128d8e1d4ef61615004489257c6395906"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.10/telios-2.14.10.tar.gz",
+  "sha256": "4b7a28893f6adceda7cdd208cd7a95bcfde1426312332f6f5bcb2c71d400a531",
+  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; correctif de mise en page de la page Licence, validé par la suite de tests.\nCorrections :\n  • licence — la carte Tokens et essais n'étire plus la page jusqu'en bas",
+  "signature": "aedab4d6f9d94e9aa90a33727c01b6dda70e62dc4542f9283d90c276c2c3ba68c326eaf8de333dde3f42549c65386b58ce8f4f530fca99a79d7fb80b26354a01"
 }
