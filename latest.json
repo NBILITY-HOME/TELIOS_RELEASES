@@ -1,8 +1,8 @@
 {
-  "version": "2.14.13",
+  "version": "2.14.14",
   "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.13/telios-2.14.13.tar.gz",
-  "sha256": "23f0c85469604c0a04df2cdb0d18903dddd131aa574cb24552c3d2e6460d32ce",
-  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; vitrine du dépôt public seule (bannière nommée par version), validée par la suite de tests.\nCorrections :\n  • vitrine — la bannière change de nom à chaque version",
-  "signature": "330a29e4eb1ee4a8e0284b9f54660d39d893bea3a5d185cb24eaaee6ea858fa3425ef774a3cbb4d082ac488d230c72dc60eacb67610dc9bb15d5f22d85bbec0a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.14/telios-2.14.14.tar.gz",
+  "sha256": "a18550940765cb30a1564c89a4375218ed17796fc36d8c3397749e7233f83292",
+  "notes": "Recette sur appareil : non effectuée — pas de téléphone d'essai disponible ; mise en page de la carte Entreprise, validée par la suite de tests.",
+  "signature": "6eb4666c2ce36c57c3f49f847f41f3b527c3f9d4c5ddc210e438d5c7ec4db14aa9994e9287ed844d351f639a9a3c01781f25da5b8451782769c2e46c224c080c"
 }
