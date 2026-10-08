@@ -1,8 +1,8 @@
 {
-  "version": "2.14.21",
+  "version": "2.14.22",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.21/telios-2.14.21.tar.gz",
-  "sha256": "16d46e69db9f168537a021dee8b1b13e9719fdec799613f964ef1f0ec8087bc4",
-  "notes": "Le rejeu de vos manipulations devient plus fiable : chaque saisie est relue dans son champ, et TELIOS explique clairement pourquoi un téléphone refuse une action.",
-  "signature": "305ca69f19fc6139eeb2d549ee43236b610003b1ad4de5d273c385a207f3fca73a5e2cb987a60f400a19b438cd8294c7f16d9a6163bf48f6e98dd46e2f6d8601"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.22/telios-2.14.22.tar.gz",
+  "sha256": "7aa7dcb3c1f9e2f73667d0710e05e9a9de17047a01de3db77657999708f5ec01",
+  "notes": "Une connexion au serveur de licences plus sereine : TELIOS gère seul les pauses du serveur et vous dit précisément où en est votre solde.",
+  "signature": "2ce7e8f4df31532aa1aecc03bd3f56c23f52713d8af7ed7ee671e0fad7bbbe68371ef00ea1887e15dbc9002d772559950c1324d3ea724a887cdcff3c4920650e"
 }
