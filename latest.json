@@ -1,8 +1,8 @@
 {
-  "version": "2.14.23",
+  "version": "2.14.24",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.23/telios-2.14.23.tar.gz",
-  "sha256": "f7c5523e686b9287f692625c7014c5b47be5306dd1ad67cfbe828ed843937e79",
-  "notes": "Un rejeu encore plus sûr : chaque preuve est comparée à son texte, les listes et les longs formulaires se rejouent fidèlement, et TELIOS vous explique chaque séance.",
-  "signature": "b579622a744a5f80e0e1ef2df41fbb11a550ca653d694520e81e9d565c4974ac28defd3cb5a6069381da843bdb343e8da30a71b70599a94665d3a21c91464a01"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.24/telios-2.14.24.tar.gz",
+  "sha256": "5be46020bcb6a9ac94e2ddad7f72874cb5e2a6c4bdf1f9b9b765b6684e5345c8",
+  "notes": "Rejeu des formulaires longs fiabilisé : TELIOS referme le clavier et fait défiler la bonne zone, sans jamais toucher aux champs déjà remplis.",
+  "signature": "2fec0f42c80b4da1803155fe96729562fb7e0e4fc77915007d921fecda26189425291de94506307eebd5c2edcee46b9ddbd0dd1f016e4cd954431a74307fb900"
 }
