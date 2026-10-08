@@ -1,8 +1,8 @@
 {
-  "version": "2.14.28",
+  "version": "2.14.29",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.28/telios-2.14.28.tar.gz",
-  "sha256": "ead404db433fd68c14b36f5222c378fa5449429acf202fa50130bfeff4f1cd0c",
-  "notes": "Le client TELIOS Android se met à jour en un clic, directement depuis la page Présentation UAT, et le smartphone est aussitôt revérifié.",
-  "signature": "d966c173f1d6884560b6a18cc788439ec3b0f4f5ffdd4f0240485aabb67acdb7b23dfc362939cc173c1fd0abe78a39ae6af5cb454e054b26d7fda20168682d05"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.29/telios-2.14.29.tar.gz",
+  "sha256": "634ab5b59506ebe7d9237f8b091c809d10947309775359ee7567a16b9f2f44ea",
+  "notes": "Enregistrement UAT repensé : un parcours en quatre étapes qui s'illumine au fil de la séance, et tout le smartphone préparé en un seul endroit, APK compris.",
+  "signature": "ed9baa72543a9a4777157ccee60c0a41576012ff4205186f8183fc439c0939cd84e404df88e71d631103e5f48e7d24f97fbf39552c7440d240baa4c1ac36670f"
 }
