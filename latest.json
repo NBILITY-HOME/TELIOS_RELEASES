@@ -1,8 +1,8 @@
 {
-  "version": "2.14.26",
+  "version": "2.14.27",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.26/telios-2.14.26.tar.gz",
-  "sha256": "e8dc01bc309c61d6ac64eee33fe53fcdabcbb448e20dacc68d8fe73281834881",
-  "notes": "Sur le téléphone, l'application TELIOS affiche sa version et un emblème animé : service prêt, séance en cours ou service à activer, vous le voyez d'un coup d'œil.",
-  "signature": "8de1f254dba0b1f4f56a9a2a4d261e6762f5600fe699cc93f96296af412d9450977301746e3801ade4750fe7bdde9410328959122aada514ea5b7d98c8bd0e0c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.27/telios-2.14.27.tar.gz",
+  "sha256": "ff5292814224014d7d073243f0ca9a193f13e3ad9fd812ee2f15214dda8ab341",
+  "notes": "Nouvelle page Présentation UAT : votre smartphone vérifié d'un coup d'œil, version du client comprise, et le parcours de test en trois étapes claires.",
+  "signature": "1532926d80efbce8ed045a2151d5cae7b4245a618cb13b48338d58bae6b1b28a44e327d8639a66600cf12eea42de75274aa3715bd4d8ad6d8c74f4b74096e609"
 }
