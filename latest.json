@@ -1,8 +1,8 @@
 {
-  "version": "2.15.4",
+  "version": "2.15.5",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.4/telios-2.15.4.tar.gz",
-  "sha256": "598ab77b65cd11de3f3460cdc18b98f1fc0f62661b58fa0c3628717c51d2a005",
-  "notes": "Le parcours d'enregistrement se comprend d'un coup d'œil : chaque étape dit à quoi elle sert, et le survol l'explique en une phrase.",
-  "signature": "77d5c33fb4c7b3e9dd29ce61a2a78a398f4dcaf70e3d31390bb081589bbf1a25b26b8860607b75f2d66f2fbeca06a5d3a721202950f43abee666cf96aafbe804"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.5/telios-2.15.5.tar.gz",
+  "sha256": "e32ab3b89eb70a3a9e15af15ac67643edc9b561686d0e279b66a09816d6873e4",
+  "notes": "Vos manipulations sur les applications Android modernes sont désormais enregistrées jusqu'au dernier geste, et la preuve de réussite est toujours prise en compte.",
+  "signature": "0fd623031dd823d3bd5c64cec6e7ef66a1d6a4807edfd75230e627c702404a47cb2ebbd1de31e25cd5bc5c34de6f940a1a56702a910ff30856b7aff5573db30a"
 }
