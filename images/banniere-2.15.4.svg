@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="t d">
-<title id="t">TELIOS 2.15.3 — Une ligne, et le poste est prêt.</title>
-<desc id="d">Dernière version publiée : TELIOS 2.15.3, publiée le 08/10/2026. Signature TELIOS vérifiée. Compatible Linux Mint 21+ et Ubuntu 22.04+.</desc>
+<title id="t">TELIOS 2.15.4 — Une ligne, et le poste est prêt.</title>
+<desc id="d">Dernière version publiée : TELIOS 2.15.4, publiée le 08/10/2026. Signature TELIOS vérifiée. Compatible Linux Mint 21+ et Ubuntu 22.04+.</desc>
 <defs>
   <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 40) scale(760 520)">
     <stop offset="0" stop-color="#C7692F" stop-opacity=".55"/><stop offset="1" stop-color="#C7692F" stop-opacity="0"/></radialGradient>
@@ -26,7 +26,7 @@
     <rect x="-6" y="-6" width="358" height="248" rx="14" fill="#C7692F" fill-opacity=".14"/>
     <rect width="346" height="236" rx="10" fill="url(#carte)" stroke="#C7692F" stroke-opacity=".75"/>
     <text x="28" y="46" font-size="13" font-weight="700" letter-spacing="2" fill="#9AAAC6">DERNIÈRE VERSION PUBLIÉE</text>
-    <text x="26" y="104" font-size="44" font-weight="800" fill="#FFFFFF">TELIOS <tspan fill="#E08A4F">2.15.3</tspan></text>
+    <text x="26" y="104" font-size="44" font-weight="800" fill="#FFFFFF">TELIOS <tspan fill="#E08A4F">2.15.4</tspan></text>
     <text x="28" y="138" font-size="16" fill="#B9C4DA">publiée le 08/10/2026</text>
     <circle cx="38" cy="182" r="10" fill="#3FB97F"/><path transform="translate(31.0 175.0) scale(0.583)" d="M5 12l5 5L20 7" fill="none" stroke="#0B1220" stroke-width="5.14" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="58" y="188" font-size="16" font-weight="700" fill="#3FB97F">Signature TELIOS vérifiée</text>

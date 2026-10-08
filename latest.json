@@ -1,8 +1,8 @@
 {
-  "version": "2.15.3",
+  "version": "2.15.4",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.3/telios-2.15.3.tar.gz",
-  "sha256": "7015914794e22a18b4e0f957fafccf53970447c22078b9203cd6c6e65323f080",
-  "notes": "Enregistrer un test devient limpide : un bouton « Désigner le résultat attendu » explique en une phrase comment TELIOS vérifiera la réussite.",
-  "signature": "c61e1a0937b79320b42cea8887422efbbbb5cdd46374b1cdea4b2c45a52ca0153073bce9aa07443ca07463e595ea9d78245bd48bed11b5b2236696f005141903"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.4/telios-2.15.4.tar.gz",
+  "sha256": "598ab77b65cd11de3f3460cdc18b98f1fc0f62661b58fa0c3628717c51d2a005",
+  "notes": "Le parcours d'enregistrement se comprend d'un coup d'œil : chaque étape dit à quoi elle sert, et le survol l'explique en une phrase.",
+  "signature": "77d5c33fb4c7b3e9dd29ce61a2a78a398f4dcaf70e3d31390bb081589bbf1a25b26b8860607b75f2d66f2fbeca06a5d3a721202950f43abee666cf96aafbe804"
 }
