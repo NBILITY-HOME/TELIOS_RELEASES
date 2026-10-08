@@ -1,8 +1,8 @@
 {
-  "version": "2.14.20",
-  "publie_le": "2026-10-07",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.20/telios-2.14.20.tar.gz",
-  "sha256": "c1584bd7b25602a07d62d37faf37ad09318967e109d6377952faf2f7b4629227",
-  "notes": "Une question, un projet ? Le bouton « Nous contacter » vous mène directement à l'équipe NBILITY.",
-  "signature": "1a8f0ff6bb5b2704d5b4acf938fbb6c65839c9f843f12d6fec62e35e390f70732a2b00655484d9c56ce1ee59106e487c8968927917ff4c7235f1c1df5dbc0a00"
+  "version": "2.14.21",
+  "publie_le": "2026-10-08",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.21/telios-2.14.21.tar.gz",
+  "sha256": "16d46e69db9f168537a021dee8b1b13e9719fdec799613f964ef1f0ec8087bc4",
+  "notes": "Le rejeu de vos manipulations devient plus fiable : chaque saisie est relue dans son champ, et TELIOS explique clairement pourquoi un téléphone refuse une action.",
+  "signature": "305ca69f19fc6139eeb2d549ee43236b610003b1ad4de5d273c385a207f3fca73a5e2cb987a60f400a19b438cd8294c7f16d9a6163bf48f6e98dd46e2f6d8601"
 }
