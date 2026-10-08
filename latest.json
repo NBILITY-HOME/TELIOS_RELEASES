@@ -1,8 +1,8 @@
 {
-  "version": "2.15.0",
+  "version": "2.15.1",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.0/telios-2.15.0.tar.gz",
-  "sha256": "9192c6927a7203e103b4d7dbf75df4954400711ce41b2e06df4f681302fdda69",
-  "notes": "TELIOS 2.15 : l'espace UAT entièrement repensé — smartphone vérifié d'un coup d'œil, client préparé en un clic, et séance guidée étape par étape.",
-  "signature": "1ed66409abf1957a4ba01081227efcab45c398b528a221b2c82aefeabe1b99349d19667bf0468c685de4106fc46a8d81924f3dde73fa83d5313ba9f5add01c09"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.1/telios-2.15.1.tar.gz",
+  "sha256": "169ddad7280c7edd5b5f64a2e1daa5b4247a64f686704c665f797f766d079b52",
+  "notes": "Les applications Android modernes s'enregistrent désormais au doigt : boutons, listes et champs sont reconnus, et la preuve de réussite peut se désigner sur un simple texte.",
+  "signature": "20c9865cc09e8bfb599251fd62fdf1353a34ebc79a8515c3de7d54c87863bdf19fc903b02c4178d2876a06ceac3f19f2bef91117c309ffdf1e9bf36e7a17b60a"
 }
