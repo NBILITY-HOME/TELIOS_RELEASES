@@ -1,8 +1,8 @@
 {
-  "version": "2.14.24",
+  "version": "2.14.25",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.24/telios-2.14.24.tar.gz",
-  "sha256": "5be46020bcb6a9ac94e2ddad7f72874cb5e2a6c4bdf1f9b9b765b6684e5345c8",
-  "notes": "Rejeu des formulaires longs fiabilisé : TELIOS referme le clavier et fait défiler la bonne zone, sans jamais toucher aux champs déjà remplis.",
-  "signature": "2fec0f42c80b4da1803155fe96729562fb7e0e4fc77915007d921fecda26189425291de94506307eebd5c2edcee46b9ddbd0dd1f016e4cd954431a74307fb900"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.25/telios-2.14.25.tar.gz",
+  "sha256": "9c53988478c2158b630246c015982bf998a782d50383ab91b887c9164d524676",
+  "notes": "Vos preuves de réussite sont désormais relues en entier, même les plus longues : chaque rejeu sur Android vérifie exactement ce que l'application affiche.",
+  "signature": "8642e2ea686c449fe0ece451280d33ddd591a1e5a727c391dbef7b3eb226efb2516a22480b43abe62ef8371a662f2af93fc657c09eab4461f964c62f7e14e805"
 }
