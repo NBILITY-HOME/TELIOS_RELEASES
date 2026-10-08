@@ -1,8 +1,8 @@
 {
-  "version": "2.15.7",
+  "version": "2.15.8",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.7/telios-2.15.7.tar.gz",
-  "sha256": "426bdec37bb0b1db7b46690bedc604cf7de859a25792304fd46bcb8fb50f3654",
-  "notes": "L'enregistrement au doigt devient instantané : même la plus brève des tapes sur une application moderne est désormais reconnue, et rien ne se perd si le câble lâche.",
-  "signature": "c58277d9e2485b012b66c2dd818d286827c2bea56b29f39e83c693f694a4bb235f87ba64335160df7a4cd27fde54008ed4dc19a65a46055d6f24899004db9d0d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.8/telios-2.15.8.tar.gz",
+  "sha256": "8cb1edaa3e9396f8b440a4ed2d00961458c1577dcba747aecde3612512aaa797",
+  "notes": "Rejeux plus sûrs : TELIOS attend que l'écran soit immobile avant de toucher, et l'enregistrement reprend à pleine vitesse dès que le téléphone est rebranché.",
+  "signature": "c192c8a4540304e7a3e9b8809c504fed14533c3ff9ea9a80f07473ad65bda687b6292d9a9944764a1d4f600b122044c74fb35d3df9044ae1a586d303f1efe808"
 }
