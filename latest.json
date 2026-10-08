@@ -1,8 +1,8 @@
 {
-  "version": "2.14.25",
+  "version": "2.14.26",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.25/telios-2.14.25.tar.gz",
-  "sha256": "9c53988478c2158b630246c015982bf998a782d50383ab91b887c9164d524676",
-  "notes": "Vos preuves de réussite sont désormais relues en entier, même les plus longues : chaque rejeu sur Android vérifie exactement ce que l'application affiche.",
-  "signature": "8642e2ea686c449fe0ece451280d33ddd591a1e5a727c391dbef7b3eb226efb2516a22480b43abe62ef8371a662f2af93fc657c09eab4461f964c62f7e14e805"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.26/telios-2.14.26.tar.gz",
+  "sha256": "e8dc01bc309c61d6ac64eee33fe53fcdabcbb448e20dacc68d8fe73281834881",
+  "notes": "Sur le téléphone, l'application TELIOS affiche sa version et un emblème animé : service prêt, séance en cours ou service à activer, vous le voyez d'un coup d'œil.",
+  "signature": "8de1f254dba0b1f4f56a9a2a4d261e6762f5600fe699cc93f96296af412d9450977301746e3801ade4750fe7bdde9410328959122aada514ea5b7d98c8bd0e0c"
 }
