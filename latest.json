@@ -1,8 +1,8 @@
 {
-  "version": "2.14.27",
+  "version": "2.14.28",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.27/telios-2.14.27.tar.gz",
-  "sha256": "ff5292814224014d7d073243f0ca9a193f13e3ad9fd812ee2f15214dda8ab341",
-  "notes": "Nouvelle page Présentation UAT : votre smartphone vérifié d'un coup d'œil, version du client comprise, et le parcours de test en trois étapes claires.",
-  "signature": "1532926d80efbce8ed045a2151d5cae7b4245a618cb13b48338d58bae6b1b28a44e327d8639a66600cf12eea42de75274aa3715bd4d8ad6d8c74f4b74096e609"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.28/telios-2.14.28.tar.gz",
+  "sha256": "ead404db433fd68c14b36f5222c378fa5449429acf202fa50130bfeff4f1cd0c",
+  "notes": "Le client TELIOS Android se met à jour en un clic, directement depuis la page Présentation UAT, et le smartphone est aussitôt revérifié.",
+  "signature": "d966c173f1d6884560b6a18cc788439ec3b0f4f5ffdd4f0240485aabb67acdb7b23dfc362939cc173c1fd0abe78a39ae6af5cb454e054b26d7fda20168682d05"
 }
