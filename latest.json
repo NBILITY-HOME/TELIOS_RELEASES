@@ -1,8 +1,8 @@
 {
-  "version": "2.15.6",
-  "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.6/telios-2.15.6.tar.gz",
-  "sha256": "85f47089c1d1dbea3d983cd6863a1cabe8f4750244ef2a440433451392842c37",
-  "notes": "Vos enregistrements sur téléphone sont plus sûrs : si le câble est débranché pendant une séance, TELIOS vous le dit aussitôt au lieu de perdre vos gestes en silence.",
-  "signature": "f71a7afbc3f0d4b96103da8af97e98ae3219417aff8790d7868077c14f0b3301da5a3bedf978b3132e2d37eaa69255e148e181fd48f277c2602bd6a7b054e705"
+  "version": "2.15.7",
+  "publie_le": "2026-10-09",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.7/telios-2.15.7.tar.gz",
+  "sha256": "426bdec37bb0b1db7b46690bedc604cf7de859a25792304fd46bcb8fb50f3654",
+  "notes": "L'enregistrement au doigt devient instantané : même la plus brève des tapes sur une application moderne est désormais reconnue, et rien ne se perd si le câble lâche.",
+  "signature": "c58277d9e2485b012b66c2dd818d286827c2bea56b29f39e83c693f694a4bb235f87ba64335160df7a4cd27fde54008ed4dc19a65a46055d6f24899004db9d0d"
 }
