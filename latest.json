@@ -1,8 +1,8 @@
 {
-  "version": "2.15.2",
+  "version": "2.15.3",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.2/telios-2.15.2.tar.gz",
-  "sha256": "040fd32ae4a98ab4834bfe810478396202e97a58772f0f9d98bd84ba96ddc649",
-  "notes": "Des messages clairs au centre de l'écran, et une séance d'enregistrement qui se suit d'un regard : chronomètre, gestes captés, et deux issues bien visibles.",
-  "signature": "673c84e0bb9f0afd6aeb396aa0dd89d73ef5f8f4759e0ddcacfce640db1f126faf4a4e64eecaf212cfa060a2d9ae1bc775852ff787bef02e608861e1bdf9790e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.3/telios-2.15.3.tar.gz",
+  "sha256": "7015914794e22a18b4e0f957fafccf53970447c22078b9203cd6c6e65323f080",
+  "notes": "Enregistrer un test devient limpide : un bouton « Désigner le résultat attendu » explique en une phrase comment TELIOS vérifiera la réussite.",
+  "signature": "c61e1a0937b79320b42cea8887422efbbbb5cdd46374b1cdea4b2c45a52ca0153073bce9aa07443ca07463e595ea9d78245bd48bed11b5b2236696f005141903"
 }
