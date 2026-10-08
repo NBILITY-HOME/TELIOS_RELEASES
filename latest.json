@@ -1,8 +1,8 @@
 {
-  "version": "2.14.22",
+  "version": "2.14.23",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.22/telios-2.14.22.tar.gz",
-  "sha256": "7aa7dcb3c1f9e2f73667d0710e05e9a9de17047a01de3db77657999708f5ec01",
-  "notes": "Une connexion au serveur de licences plus sereine : TELIOS gère seul les pauses du serveur et vous dit précisément où en est votre solde.",
-  "signature": "2ce7e8f4df31532aa1aecc03bd3f56c23f52713d8af7ed7ee671e0fad7bbbe68371ef00ea1887e15dbc9002d772559950c1324d3ea724a887cdcff3c4920650e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.23/telios-2.14.23.tar.gz",
+  "sha256": "f7c5523e686b9287f692625c7014c5b47be5306dd1ad67cfbe828ed843937e79",
+  "notes": "Un rejeu encore plus sûr : chaque preuve est comparée à son texte, les listes et les longs formulaires se rejouent fidèlement, et TELIOS vous explique chaque séance.",
+  "signature": "b579622a744a5f80e0e1ef2df41fbb11a550ca653d694520e81e9d565c4974ac28defd3cb5a6069381da843bdb343e8da30a71b70599a94665d3a21c91464a01"
 }
