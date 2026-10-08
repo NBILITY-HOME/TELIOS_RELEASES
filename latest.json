@@ -1,8 +1,8 @@
 {
-  "version": "2.14.29",
+  "version": "2.15.0",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.14.29/telios-2.14.29.tar.gz",
-  "sha256": "634ab5b59506ebe7d9237f8b091c809d10947309775359ee7567a16b9f2f44ea",
-  "notes": "Enregistrement UAT repensé : un parcours en quatre étapes qui s'illumine au fil de la séance, et tout le smartphone préparé en un seul endroit, APK compris.",
-  "signature": "ed9baa72543a9a4777157ccee60c0a41576012ff4205186f8183fc439c0939cd84e404df88e71d631103e5f48e7d24f97fbf39552c7440d240baa4c1ac36670f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.0/telios-2.15.0.tar.gz",
+  "sha256": "9192c6927a7203e103b4d7dbf75df4954400711ce41b2e06df4f681302fdda69",
+  "notes": "TELIOS 2.15 : l'espace UAT entièrement repensé — smartphone vérifié d'un coup d'œil, client préparé en un clic, et séance guidée étape par étape.",
+  "signature": "1ed66409abf1957a4ba01081227efcab45c398b528a221b2c82aefeabe1b99349d19667bf0468c685de4106fc46a8d81924f3dde73fa83d5313ba9f5add01c09"
 }
