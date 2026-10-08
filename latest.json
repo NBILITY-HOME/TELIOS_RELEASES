@@ -1,8 +1,8 @@
 {
-  "version": "2.15.1",
+  "version": "2.15.2",
   "publie_le": "2026-10-08",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.1/telios-2.15.1.tar.gz",
-  "sha256": "169ddad7280c7edd5b5f64a2e1daa5b4247a64f686704c665f797f766d079b52",
-  "notes": "Les applications Android modernes s'enregistrent désormais au doigt : boutons, listes et champs sont reconnus, et la preuve de réussite peut se désigner sur un simple texte.",
-  "signature": "20c9865cc09e8bfb599251fd62fdf1353a34ebc79a8515c3de7d54c87863bdf19fc903b02c4178d2876a06ceac3f19f2bef91117c309ffdf1e9bf36e7a17b60a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.2/telios-2.15.2.tar.gz",
+  "sha256": "040fd32ae4a98ab4834bfe810478396202e97a58772f0f9d98bd84ba96ddc649",
+  "notes": "Des messages clairs au centre de l'écran, et une séance d'enregistrement qui se suit d'un regard : chronomètre, gestes captés, et deux issues bien visibles.",
+  "signature": "673c84e0bb9f0afd6aeb396aa0dd89d73ef5f8f4759e0ddcacfce640db1f126faf4a4e64eecaf212cfa060a2d9ae1bc775852ff787bef02e608861e1bdf9790e"
 }
