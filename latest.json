@@ -1,8 +1,8 @@
 {
-  "version": "2.15.10",
+  "version": "2.15.11",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.10/telios-2.15.10.tar.gz",
-  "sha256": "6757ef8b7d2fba2c6c034fe8fe71c4587b46d2d5cbdc5cb65c2f75b77f3f44df",
-  "notes": "Des validations plus justes : cases cochées et interrupteurs sont reconnus comme des actions réussies, et un bouton désactivé est signalé au lieu d'être touché pour rien.",
-  "signature": "9eecaa6dc024df631083fe08a59dfe0be274cb51ab1192086d66aeea9a6bc9fb6b9caa0377716ed449bcb30aed936fe27a336145bba30de49f50eed5980ddf02"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.11/telios-2.15.11.tar.gz",
+  "sha256": "a0098a0440ae5722ccc584c8eda29a1c278c9e0620473a34d0d410011b08b211",
+  "notes": "Les applications modernes sont mieux comprises : un bouton désactivé est reconnu partout, et les messages brefs qui suivent un appui sont bien repérés.",
+  "signature": "248b9139e5d9641603dbe09e4caa1e9e49ce202fbf3a5ccc18d03255a631c330f408f902e163f24ad10d31420ba643509d3f3654bd596cfe15de535d7ae64d0b"
 }
