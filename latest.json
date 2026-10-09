@@ -1,8 +1,8 @@
 {
-  "version": "2.15.8",
+  "version": "2.15.9",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.8/telios-2.15.8.tar.gz",
-  "sha256": "8cb1edaa3e9396f8b440a4ed2d00961458c1577dcba747aecde3612512aaa797",
-  "notes": "Rejeux plus sûrs : TELIOS attend que l'écran soit immobile avant de toucher, et l'enregistrement reprend à pleine vitesse dès que le téléphone est rebranché.",
-  "signature": "c192c8a4540304e7a3e9b8809c504fed14533c3ff9ea9a80f07473ad65bda687b6292d9a9944764a1d4f600b122044c74fb35d3df9044ae1a586d303f1efe808"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.9/telios-2.15.9.tar.gz",
+  "sha256": "96163f4c2fea46d99c8cfeb0dd6b35fa4b648dc77791173a3b3ddca8e9997a6a",
+  "notes": "Des rapports de validation encore plus fiables : chaque appui est vérifié à l'écran, et le moindre geste sans effet est signalé noir sur blanc.",
+  "signature": "947f4583bc9d94eb37090560d2dfb0aad7b08923e7e542962606ec4ca55f0cc5217e37ea2caaee7bd5973d7b13db1a6a7722ba68f4ae7ea2bb5ad89ee1122c05"
 }
