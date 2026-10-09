@@ -1,8 +1,8 @@
 {
-  "version": "2.15.11",
+  "version": "2.15.12",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.11/telios-2.15.11.tar.gz",
-  "sha256": "a0098a0440ae5722ccc584c8eda29a1c278c9e0620473a34d0d410011b08b211",
-  "notes": "Les applications modernes sont mieux comprises : un bouton désactivé est reconnu partout, et les messages brefs qui suivent un appui sont bien repérés.",
-  "signature": "248b9139e5d9641603dbe09e4caa1e9e49ce202fbf3a5ccc18d03255a631c330f408f902e163f24ad10d31420ba643509d3f3654bd596cfe15de535d7ae64d0b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.12/telios-2.15.12.tar.gz",
+  "sha256": "66561ec777ede25be30b5b4626b1f34b37c40e7bda5b8d00a30a94b9c30ea583",
+  "notes": "Nouveau : vos tests sur téléphone savent scanner des codes-barres, par douchette ou par l'appareil photo, et les rejouer à l'identique.",
+  "signature": "a00fb6c6dcfe6385153c7ccc963bc2d9ca0f95797c9183bb216969697a64b6759deeb256774373d72f761c5ecb50992af5144d6f2834cdc39df69a76fc229603"
 }
