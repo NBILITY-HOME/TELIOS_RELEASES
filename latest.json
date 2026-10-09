@@ -1,8 +1,8 @@
 {
-  "version": "2.15.12",
+  "version": "2.15.13",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.12/telios-2.15.12.tar.gz",
-  "sha256": "66561ec777ede25be30b5b4626b1f34b37c40e7bda5b8d00a30a94b9c30ea583",
-  "notes": "Nouveau : vos tests sur téléphone savent scanner des codes-barres, par douchette ou par l'appareil photo, et les rejouer à l'identique.",
-  "signature": "a00fb6c6dcfe6385153c7ccc963bc2d9ca0f95797c9183bb216969697a64b6759deeb256774373d72f761c5ecb50992af5144d6f2834cdc39df69a76fc229603"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.13/telios-2.15.13.tar.gz",
+  "sha256": "62b69ce1dc16fe13b29f38b122940bdab6af807b16e7f0e6401fd4083974dd8f",
+  "notes": "Scans de codes-barres plus fiables : le code s'affiche en plein écran pour l'appareil photo, et chaque scan se rejoue dans le bon champ, au bon moment.",
+  "signature": "f71e85368d92f52b5deb23241420c1dc11c148fd44f45ab0add33fcaecc0d8fd1d4c2e9709d8e3b257482ae1260c7678aeab5c7347954e0da0cd64db81c3ea07"
 }
