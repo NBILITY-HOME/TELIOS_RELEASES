@@ -1,8 +1,8 @@
 {
-  "version": "2.15.18",
-  "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.18/telios-2.15.18.tar.gz",
-  "sha256": "abadfb890921824b19c56410042d1c71630171eda67998654be3de90651281d7",
-  "notes": "La pastille TELIOS sur le téléphone devient votre témoin : verte, orange en enregistrement, rouge si l'accessibilité est coupée ; et le Retour par geste est désormais reconnu.",
-  "signature": "a8273928b07c6f03e9581555252f214bfae9978e7b2aabe159ad10c0fb1e99a88a778fbf18a4ebf8612f9c2b2f09782a0c227ce9ac912d67d7069e9a6f45e604"
+  "version": "2.15.19",
+  "publie_le": "2026-10-10",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.19/telios-2.15.19.tar.gz",
+  "sha256": "22455f58bea9358b86160fa0b77de1c83e7f573d062b9e313deee1e809cb7205",
+  "notes": "Les gestes de navigation et les codes GS1 des boîtes de médicaments sont désormais enregistrés et rejoués fidèlement, et l'application du téléphone indique clairement qu'elle attend la connexion du poste.",
+  "signature": "9c1607cfef2ef8346b57631015217da671be60fdaac863a1adb55aa6c533a550d9c8e811ba9d00b1d00b9b998dc94fc1be78d4051b4bc90d0a0c63c17b5e0107"
 }
