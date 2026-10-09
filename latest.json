@@ -1,8 +1,8 @@
 {
-  "version": "2.15.17",
+  "version": "2.15.18",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.17/telios-2.15.17.tar.gz",
-  "sha256": "0c3e5cb22d7d34c56d26f317a55a5cbdf0164eb340f14aee100e4aae34254897",
-  "notes": "Une pastille TELIOS sur le téléphone montre d'un coup d'œil si l'enregistrement tourne, et TELIOS repère le raccourci d'accessibilité qui pourrait l'interrompre.",
-  "signature": "542f7d4b0d5b2887cc9e0ad4d8aef03ab621ee7e9c609d40e9ed4003420a2183d8e2e29fff18656a30fb314aff58c02d10bd13db7f281455bf9487bf7ff2eb0c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.18/telios-2.15.18.tar.gz",
+  "sha256": "abadfb890921824b19c56410042d1c71630171eda67998654be3de90651281d7",
+  "notes": "La pastille TELIOS sur le téléphone devient votre témoin : verte, orange en enregistrement, rouge si l'accessibilité est coupée ; et le Retour par geste est désormais reconnu.",
+  "signature": "a8273928b07c6f03e9581555252f214bfae9978e7b2aabe159ad10c0fb1e99a88a778fbf18a4ebf8612f9c2b2f09782a0c227ce9ac912d67d7069e9a6f45e604"
 }
