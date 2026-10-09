@@ -1,8 +1,8 @@
 {
-  "version": "2.15.15",
+  "version": "2.15.16",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.15/telios-2.15.15.tar.gz",
-  "sha256": "9f73574e9d95d0945c5e0dce5131bc771f1278fae8f5a6fd653fc4bd875e30e6",
-  "notes": "Des rapports de validation plus complets : chaque réserve y figure en clair, et TELIOS vous prévient quand le téléphone est en navigation par gestes.",
-  "signature": "54145eb6f122b0cabf5cb044698447d4a515341fdee9a5ef0164862ae3e8ba229a9e48bd73ae50ec35a25d9a0fe4cafce28c360960bfc559d8c4df55748e6101"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.16/telios-2.15.16.tar.gz",
+  "sha256": "d11585402ddc0817e8de81b3b3cc7d5699c5660a2194122ddbb5777632ac8bd3",
+  "notes": "Nouveau : TELIOS affiche les codes Data Matrix, y compris le GS1 des boîtes de médicaments, pour tester vos applications qui scannent par l'appareil photo.",
+  "signature": "41ec07b84f0bacfe5c3b47dc63e80616afe52dfc13851230a383980a7cb9196475662e51c61ef1fc0b0c962982cbac1186293271f01e0c43997192054ee71106"
 }
