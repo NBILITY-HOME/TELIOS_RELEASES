@@ -1,8 +1,8 @@
 {
-  "version": "2.15.20",
+  "version": "2.15.21",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.20/telios-2.15.20.tar.gz",
-  "sha256": "d9fda4756cdb75a38d9f32ccdf28dcb10de7c11a1dba78e16a02b106d545fc57",
-  "notes": "Les gestes de navigation et les codes GS1 des boîtes de médicaments sont désormais enregistrés et rejoués fidèlement, et l'application du téléphone indique clairement qu'elle attend la connexion du poste.",
-  "signature": "ce9823157d44061c27b6def33e37c085070ecc55c6ad855a123b4677a274ae40445e2dd57407ec8adbac27fbced8412acc60f33525b96d6008002c7ab0b8c30d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.21/telios-2.15.21.tar.gz",
+  "sha256": "f5f3f93df96118056b664233f66294f6b19524ba0061170f8ed71d997526184e",
+  "notes": "Les rejeux de TELIOS ne sont plus jamais gênés par la pastille du téléphone : elle s'efface le temps du rejeu et revient d'elle-même ensuite.",
+  "signature": "eec1bbd0fe2d25d1b05df86fbd2b1a3b8d246566439886f71fb90b087aaf7285a41cc9873dc2ee086fd9d2b195886c961ae41e84d50574902d12337c08b56a04"
 }
