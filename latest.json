@@ -1,8 +1,8 @@
 {
-  "version": "2.15.19",
+  "version": "2.15.20",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.19/telios-2.15.19.tar.gz",
-  "sha256": "22455f58bea9358b86160fa0b77de1c83e7f573d062b9e313deee1e809cb7205",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.20/telios-2.15.20.tar.gz",
+  "sha256": "d9fda4756cdb75a38d9f32ccdf28dcb10de7c11a1dba78e16a02b106d545fc57",
   "notes": "Les gestes de navigation et les codes GS1 des boîtes de médicaments sont désormais enregistrés et rejoués fidèlement, et l'application du téléphone indique clairement qu'elle attend la connexion du poste.",
-  "signature": "9c1607cfef2ef8346b57631015217da671be60fdaac863a1adb55aa6c533a550d9c8e811ba9d00b1d00b9b998dc94fc1be78d4051b4bc90d0a0c63c17b5e0107"
+  "signature": "ce9823157d44061c27b6def33e37c085070ecc55c6ad855a123b4677a274ae40445e2dd57407ec8adbac27fbced8412acc60f33525b96d6008002c7ab0b8c30d"
 }
