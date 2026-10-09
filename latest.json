@@ -1,8 +1,8 @@
 {
-  "version": "2.15.9",
+  "version": "2.15.10",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.9/telios-2.15.9.tar.gz",
-  "sha256": "96163f4c2fea46d99c8cfeb0dd6b35fa4b648dc77791173a3b3ddca8e9997a6a",
-  "notes": "Des rapports de validation encore plus fiables : chaque appui est vérifié à l'écran, et le moindre geste sans effet est signalé noir sur blanc.",
-  "signature": "947f4583bc9d94eb37090560d2dfb0aad7b08923e7e542962606ec4ca55f0cc5217e37ea2caaee7bd5973d7b13db1a6a7722ba68f4ae7ea2bb5ad89ee1122c05"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.10/telios-2.15.10.tar.gz",
+  "sha256": "6757ef8b7d2fba2c6c034fe8fe71c4587b46d2d5cbdc5cb65c2f75b77f3f44df",
+  "notes": "Des validations plus justes : cases cochées et interrupteurs sont reconnus comme des actions réussies, et un bouton désactivé est signalé au lieu d'être touché pour rien.",
+  "signature": "9eecaa6dc024df631083fe08a59dfe0be274cb51ab1192086d66aeea9a6bc9fb6b9caa0377716ed449bcb30aed936fe27a336145bba30de49f50eed5980ddf02"
 }
