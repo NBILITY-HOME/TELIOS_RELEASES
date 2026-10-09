@@ -1,8 +1,8 @@
 {
-  "version": "2.15.13",
+  "version": "2.15.14",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.13/telios-2.15.13.tar.gz",
-  "sha256": "62b69ce1dc16fe13b29f38b122940bdab6af807b16e7f0e6401fd4083974dd8f",
-  "notes": "Scans de codes-barres plus fiables : le code s'affiche en plein écran pour l'appareil photo, et chaque scan se rejoue dans le bon champ, au bon moment.",
-  "signature": "f71e85368d92f52b5deb23241420c1dc11c148fd44f45ab0add33fcaecc0d8fd1d4c2e9709d8e3b257482ae1260c7678aeab5c7347954e0da0cd64db81c3ea07"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.14/telios-2.15.14.tar.gz",
+  "sha256": "0a1ec873c24f1214bade729c14fc6ba441c58be3418f09d908db5fc1fb055dc7",
+  "notes": "Les codes-barres s'affichent à la bonne taille sur tous les écrans, en plein écran, pour une lecture immédiate par l'appareil photo du téléphone.",
+  "signature": "77f2c30863e1eb1934dad1839f4b82b28137dab423e6875b3f25712819024a246705108b2521bdf1134723f37415a69f1ac82d096c436c8d1c5cca0899523504"
 }
