@@ -1,8 +1,8 @@
 {
-  "version": "2.15.16",
+  "version": "2.15.17",
   "publie_le": "2026-10-09",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.16/telios-2.15.16.tar.gz",
-  "sha256": "d11585402ddc0817e8de81b3b3cc7d5699c5660a2194122ddbb5777632ac8bd3",
-  "notes": "Nouveau : TELIOS affiche les codes Data Matrix, y compris le GS1 des boîtes de médicaments, pour tester vos applications qui scannent par l'appareil photo.",
-  "signature": "41ec07b84f0bacfe5c3b47dc63e80616afe52dfc13851230a383980a7cb9196475662e51c61ef1fc0b0c962982cbac1186293271f01e0c43997192054ee71106"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.17/telios-2.15.17.tar.gz",
+  "sha256": "0c3e5cb22d7d34c56d26f317a55a5cbdf0164eb340f14aee100e4aae34254897",
+  "notes": "Une pastille TELIOS sur le téléphone montre d'un coup d'œil si l'enregistrement tourne, et TELIOS repère le raccourci d'accessibilité qui pourrait l'interrompre.",
+  "signature": "542f7d4b0d5b2887cc9e0ad4d8aef03ab621ee7e9c609d40e9ed4003420a2183d8e2e29fff18656a30fb314aff58c02d10bd13db7f281455bf9487bf7ff2eb0c"
 }
