@@ -1,8 +1,8 @@
 {
-  "version": "2.15.22",
+  "version": "2.15.23",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.22/telios-2.15.22.tar.gz",
-  "sha256": "7fee8bc802b1b1137a7a218dc0f16508442af7a3dca263279a3707782dfd44df",
-  "notes": "Les gestes de navigation sont reconnus plus finement : même un retour rapide à l'écran d'accueil est enregistré, et TELIOS vous signale tout geste qu'il n'aurait pas pu reproduire.",
-  "signature": "be5970c14074e32bb74a550e05a27ab7e354f9a5a54c7617bca5849a8e6e64e6059470baefa28a95fcf9b9b2c40d8a87f2b8d763c932dbbeadb11978a378450c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.23/telios-2.15.23.tar.gz",
+  "sha256": "2381220f42f94647ba2675576429d70c8ac892aa8d7f4a28daef0192af87f722",
+  "notes": "TELIOS est désormais éprouvé sur Android 16 : vos customisations enregistrées sur un téléphone se rejouent à l'identique sur les modèles les plus récents.",
+  "signature": "00d106bcd74741ac8236fdbd5376dcec412eafd729c52b5827b350a0fb267939c149571d475265bd34b0eb24db2a6893be3624dc637b15320496c4e621ae5e0c"
 }
