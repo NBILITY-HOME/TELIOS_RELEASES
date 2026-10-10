@@ -1,8 +1,8 @@
 {
-  "version": "2.15.26",
+  "version": "2.15.27",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.26/telios-2.15.26.tar.gz",
-  "sha256": "7ae59452432d21e0a3a39f06b73505108c8d6c78e2e95e2baeb2aa02afb68fee",
-  "notes": "Quand un enregistrement ne peut pas démarrer, TELIOS vous en donne désormais la vraie raison : vous corrigez du premier coup, sans chercher.",
-  "signature": "66ecf7cdabb76b0675c7e654080639d5e8cbbee2415a9fd0cedbb87bc5787a2fe39c02349f4b57320f2f5ad5b246e1c4ec4ce8f65366e74a7c0713d6e752f306"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.27/telios-2.15.27.tar.gz",
+  "sha256": "6efedbab78e59a57e582ea8bf9ada22c09f183c39700ca61a32bb1903d8319cb",
+  "notes": "TELIOS gagne en fiabilité en coulisses : vous travaillez exactement comme avant, en toute sérénité.",
+  "signature": "3be1407532f15b6460e8645bb00762d95e0763dc9f410e5e03ae715c05ca05188defdb13f3a6502c194b8febc59cde37b7a8cc98a0ce0d05aa7aea6faaf4560d"
 }
