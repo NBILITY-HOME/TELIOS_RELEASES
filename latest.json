@@ -1,8 +1,8 @@
 {
-  "version": "2.15.24",
+  "version": "2.15.25",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.24/telios-2.15.24.tar.gz",
-  "sha256": "95852774eb4bb2ddb49d833ac013354f1614526964eb3d017bf8ba4c3609986f",
-  "notes": "Activez TELIOS sur le téléphone en un geste depuis le poste, même sur Android 16 : plus besoin de fouiller dans les réglages.",
-  "signature": "d0e81e1c12ebe72ebf803df364e8cb59d92b353665cc968a961509c88ca45c3d63b4ad560231e2740888e9838a48521b1eaa9f8f9f3912eee6af14f1ddb15c02"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.25/telios-2.15.25.tar.gz",
+  "sha256": "18fce9a76c4c4a6a8eb1790be5716e8aa6f262478385af740de346da0be59b81",
+  "notes": "TELIOS reconnaît désormais à coup sûr le retour à l'accueil et l'ouverture des applications récentes, et ne confond plus deux boutons aux noms voisins.",
+  "signature": "45a48aaacb4a08c5491e0ef9c6ef1da3e35fcaf4fd350edb4c3912f00e6d64b95d8a72b25084f8c58f6ddee57231750b81fe1570ce68495533d0562eb536bb09"
 }
