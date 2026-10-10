@@ -1,8 +1,8 @@
 {
-  "version": "2.15.33",
+  "version": "2.15.34",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.33/telios-2.15.33.tar.gz",
-  "sha256": "0075e02c684f921e06009b8b676acd1e861438697f569b14522d71e764307155",
-  "notes": "Des écrans plus nets et plus compacts : TELIOS affiche l'essentiel d'un seul coup d'œil, sans avoir à faire défiler.",
-  "signature": "82b3349aa3bae62d65cd1bdd2252a83d6ed96c0069c0b663910e5d7347473d6f8c9b6f2912068a7457c9df5e4b61725cc06bdee1aecf1392b44d506cbeb0b903"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.34/telios-2.15.34.tar.gz",
+  "sha256": "f47191edbb11f22931d547782f7931791e01680c53989bb71b5cae9c40a46c9f",
+  "notes": "TELIOS continue de gagner en fiabilité : une application toujours plus solide, pour travailler l'esprit tranquille.",
+  "signature": "3b8b6fea4511eaef317d67f1347ca4d9dba36c92d55d1310e3c000cdb856b981012c84e2dd784ee9bdff97e94db74796e23699d64c8c640d86e22f813e22720c"
 }
