@@ -1,8 +1,8 @@
 {
-  "version": "2.15.30",
+  "version": "2.15.31",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.30/telios-2.15.30.tar.gz",
-  "sha256": "7c69f3d23e241f1a38b46eeebe96f18167d6646b311f67a1c71466ccfc3729d8",
-  "notes": "TELIOS continue de gagner en stabilité : une application toujours plus sûre, pour travailler l'esprit tranquille.",
-  "signature": "eb657ea59c2a45dcf33f61d250ee24698445839310bd57649aaa7080c01dc4ba2076ad9373c996f999096c892fd8db173bbcd2e64ab287870a59e181fb7f4305"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.31/telios-2.15.31.tar.gz",
+  "sha256": "9781735adafeb29187f9ccd541dc33543b8f9f1f94205c80975e2b85a345a5bf",
+  "notes": "Vos saisies rejouées sont plus sûres, même sur un téléphone chargé : TELIOS attend que le champ soit prêt avant d'écrire, et vérifie ce qu'il a écrit.",
+  "signature": "e60dd37f1b2e80d125ed8df61d80888052578125a45b090f093462190016f795ac6ec54f32da8cf3919fad04c4403c05bd03fcd59ad03e31cc4e1223e6697705"
 }
