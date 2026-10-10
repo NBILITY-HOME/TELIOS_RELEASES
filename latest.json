@@ -1,8 +1,8 @@
 {
-  "version": "2.15.29",
+  "version": "2.15.30",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.29/telios-2.15.29.tar.gz",
-  "sha256": "02251305711e2ca25d3c929e80a906cf40f6b761144df1035c6eb0163efb268e",
-  "notes": "Un simple appui sur la pastille TELIOS ouvre l'application : vous voyez d'un coup d'œil que la protection est active, sans rien chercher.",
-  "signature": "cd24b1b8b41e60a511efcf9ee27ee6757c0147eddd0d10f8a96518bb50028405ec3c3394c3cfc530945709007af632dde1b3e7c464dc0fd1a4d135bc96043d02"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.30/telios-2.15.30.tar.gz",
+  "sha256": "7c69f3d23e241f1a38b46eeebe96f18167d6646b311f67a1c71466ccfc3729d8",
+  "notes": "TELIOS continue de gagner en stabilité : une application toujours plus sûre, pour travailler l'esprit tranquille.",
+  "signature": "eb657ea59c2a45dcf33f61d250ee24698445839310bd57649aaa7080c01dc4ba2076ad9373c996f999096c892fd8db173bbcd2e64ab287870a59e181fb7f4305"
 }
