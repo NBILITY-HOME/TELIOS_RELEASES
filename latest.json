@@ -1,8 +1,8 @@
 {
-  "version": "2.15.31",
-  "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.31/telios-2.15.31.tar.gz",
-  "sha256": "9781735adafeb29187f9ccd541dc33543b8f9f1f94205c80975e2b85a345a5bf",
-  "notes": "Vos saisies rejouées sont plus sûres, même sur un téléphone chargé : TELIOS attend que le champ soit prêt avant d'écrire, et vérifie ce qu'il a écrit.",
-  "signature": "e60dd37f1b2e80d125ed8df61d80888052578125a45b090f093462190016f795ac6ec54f32da8cf3919fad04c4403c05bd03fcd59ad03e31cc4e1223e6697705"
+  "version": "2.15.32",
+  "publie_le": "2026-10-11",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.32/telios-2.15.32.tar.gz",
+  "sha256": "e8c9d629278c913fa5d10680756c8603db31ab777d1ab9e2813d461e102bd766",
+  "notes": "Des écrans plus nets et plus compacts : TELIOS affiche l'essentiel d'un seul coup d'œil, sans avoir à faire défiler.",
+  "signature": "db46b5b6af2f20b641c8ba22f78e464eb360511f6a4f2627e2e741592e34d7d47b65918e54d6b4fb2662dad2c189049207739acb0ec24f6609c7ab8d11657c00"
 }
