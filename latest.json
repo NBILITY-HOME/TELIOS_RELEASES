@@ -1,8 +1,8 @@
 {
-  "version": "2.15.27",
+  "version": "2.15.28",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.27/telios-2.15.27.tar.gz",
-  "sha256": "6efedbab78e59a57e582ea8bf9ada22c09f183c39700ca61a32bb1903d8319cb",
-  "notes": "TELIOS gagne en fiabilité en coulisses : vous travaillez exactement comme avant, en toute sérénité.",
-  "signature": "3be1407532f15b6460e8645bb00762d95e0763dc9f410e5e03ae715c05ca05188defdb13f3a6502c194b8febc59cde37b7a8cc98a0ce0d05aa7aea6faaf4560d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.28/telios-2.15.28.tar.gz",
+  "sha256": "fd4bfb031b96b860067cfcf58d5963767603516ed9cfd129d45eac9a257ca3dd",
+  "notes": "Une interface toujours plus soignée et plus fluide : TELIOS gagne en confort au quotidien, sans rien changer à vos habitudes.",
+  "signature": "dfc9e9c69dde2a3c89972ed89a1f0800e351f8964da7efef589ab195aae8d716ca5d07f7066f695907cbf1bfece70a19fba7785e5c9391a65d3c9780ad55df0f"
 }
