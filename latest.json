@@ -1,8 +1,8 @@
 {
-  "version": "2.15.25",
+  "version": "2.15.26",
   "publie_le": "2026-10-10",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.25/telios-2.15.25.tar.gz",
-  "sha256": "18fce9a76c4c4a6a8eb1790be5716e8aa6f262478385af740de346da0be59b81",
-  "notes": "TELIOS reconnaît désormais à coup sûr le retour à l'accueil et l'ouverture des applications récentes, et ne confond plus deux boutons aux noms voisins.",
-  "signature": "45a48aaacb4a08c5491e0ef9c6ef1da3e35fcaf4fd350edb4c3912f00e6d64b95d8a72b25084f8c58f6ddee57231750b81fe1570ce68495533d0562eb536bb09"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.26/telios-2.15.26.tar.gz",
+  "sha256": "7ae59452432d21e0a3a39f06b73505108c8d6c78e2e95e2baeb2aa02afb68fee",
+  "notes": "Quand un enregistrement ne peut pas démarrer, TELIOS vous en donne désormais la vraie raison : vous corrigez du premier coup, sans chercher.",
+  "signature": "66ecf7cdabb76b0675c7e654080639d5e8cbbee2415a9fd0cedbb87bc5787a2fe39c02349f4b57320f2f5ad5b246e1c4ec4ce8f65366e74a7c0713d6e752f306"
 }
