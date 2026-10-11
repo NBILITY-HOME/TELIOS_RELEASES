@@ -1,8 +1,8 @@
 {
-  "version": "2.15.42",
+  "version": "2.15.43",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.42/telios-2.15.42.tar.gz",
-  "sha256": "d9abfabce227e97325dca1f04d931066775afe92b00e4ac8d7cc105996e75067",
-  "notes": "Petites retouches de confort : une interface plus lisible et des boutons plus faciles à viser.",
-  "signature": "bb3996ec981d5a69da5426184a6d2cd87010e9e1837576a571b8b07af442744eca60aacd3a80a543d41883d0e052ef2f6be3a3dd79598e44a4d603b6b61be907"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.43/telios-2.15.43.tar.gz",
+  "sha256": "7852aa4bfff71b2ca7d5194c7ce6c936cb707666d37e05052def62f03968cc88",
+  "notes": "La page Dépendances gagne en clarté : ses blocs s'alignent et chaque outil se lit d'un coup d'œil.",
+  "signature": "7136aae53f1b4f76193d4d631ead8dcf6f2b3aa0623faf1870b9b288fc8ce043e8836e43edd0ca44d7b973f5f06b91a0a1423b2152e190bb0e2ccfeacd35c703"
 }
