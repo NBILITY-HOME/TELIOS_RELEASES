@@ -1,8 +1,8 @@
 {
-  "version": "2.15.52",
+  "version": "2.15.53",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.52/telios-2.15.52.tar.gz",
-  "sha256": "ef1b7424f51a581daa8dbfd8ec196c12882da31024da78428f0f813d4b898f5c",
-  "notes": "Gérez vos appareils de test d'un clic : la bonne version s'installe ou se met à jour, et un paquet abîmé se répare aussitôt.",
-  "signature": "ccc54eaedbbd8feec7150826c41c2cab0a4dd83a8592334579347dde068da3db21b965ce92351a89f70c30d7b98685a486d666a0e81f8adce80e9e9907432e04"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.53/telios-2.15.53.tar.gz",
+  "sha256": "b5c49f94182691b989e3451282077074381a894fd2de1235df2237dcb2054bd6",
+  "notes": "Une touche de bleu nuit signale désormais vos séries de tests en cours, sans rien perdre de la lisibilité de l'écran.",
+  "signature": "7ff24c8b0cdd523ea113e79c679067ca20a35f2e04b035d6fa2c1eddfd10412f430ca1cd433bb096858757a0b9fd8bd3bface8d01735ea4ee2e0f57418402706"
 }
