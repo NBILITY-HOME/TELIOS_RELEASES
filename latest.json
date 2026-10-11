@@ -1,8 +1,8 @@
 {
-  "version": "2.15.46",
+  "version": "2.15.47",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.46/telios-2.15.46.tar.gz",
-  "sha256": "6c3cdbe6733a0655801bacb5087761f86a6fc2bf03481a83cd0cb640de593c9d",
-  "notes": "Chaque série de tests se conclut par un procès-verbal PDF clair, ouvert d'un clic, avec ses chiffres alignés en un tableau lisible.",
-  "signature": "74b666ab127717ea3566eafd591caffd55c224061b8c28db6830def281cee3614f604550df3865da23b03f239fc29e9d20329f8b97426b656d8810a14dfbea02"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.47/telios-2.15.47.tar.gz",
+  "sha256": "20ac6342c09444c96a6c8a1aff286cabac25fe893ad1410e4173f2d2e3c18bc1",
+  "notes": "TELIOS protège vos opérations en cours : une mise à jour attend désormais la fin d'une longue série de tests avant de s'installer.",
+  "signature": "0abbecf35a6aebaa21ef008705048f17b533da6d2c5460e923f962e6bb81cd13a24d15d8ed8dfc7dc562c076506abf2db6b99545d88a6bdd4e116c75451fe703"
 }
