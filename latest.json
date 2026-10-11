@@ -1,8 +1,8 @@
 {
-  "version": "2.15.36",
+  "version": "2.15.37",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.36/telios-2.15.36.tar.gz",
-  "sha256": "42716738f883d977ee5556f9da15245b6e7257223bfaa1ef277ec8d1c8e63c33",
-  "notes": "Vos téléphones sont désormais nommés clairement, version d'Android comprise : vous savez d'un coup d'œil sur quel appareil vous travaillez.",
-  "signature": "48b16cf1f67b433d0a4ff95be5a58ae993e559eb350a0e6f382999937d3a6a4ea484ca174b388097ba50e7455d7a432c3721c388692161c0a66928ac264a7e04"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.37/telios-2.15.37.tar.gz",
+  "sha256": "fee96e80da151d48474ad8b148f80cb2b7409dc5e8a34cd0a091b03f646caf3a",
+  "notes": "Les tests d'applications enregistrés au doigt suivent désormais fidèlement les fenêtres surgissantes, les listes déroulantes, les cadrans horaires et la saisie en dialogue, en Material comme en Compose.",
+  "signature": "0d2ff240bf8f667e7bfc59acc9d3f06ed6ace612ed9ad80a31f81225a4c64a4a3d2449d58e80fbf7f09aa8cc99fe526d36fe26920f5169166f83084d8370af03"
 }
