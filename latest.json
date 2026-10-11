@@ -1,8 +1,8 @@
 {
-  "version": "2.15.51",
+  "version": "2.15.52",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.51/telios-2.15.51.tar.gz",
-  "sha256": "b5e144429f3e7617d270cc259fea55b4603d6033d492d5602b82a8153da604dd",
-  "notes": "Vos appareils de test restent à jour même branchés pendant une longue série : tout est revérifié à la fin.",
-  "signature": "602fdafc82b3df11d35df73cae108ecaef73be92d99adcb92a7b5c25468572e658ee163962af368ea103f9440301fb5475fb2264d9b1ca88dc2e790f54c34b07"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.52/telios-2.15.52.tar.gz",
+  "sha256": "ef1b7424f51a581daa8dbfd8ec196c12882da31024da78428f0f813d4b898f5c",
+  "notes": "Gérez vos appareils de test d'un clic : la bonne version s'installe ou se met à jour, et un paquet abîmé se répare aussitôt.",
+  "signature": "ccc54eaedbbd8feec7150826c41c2cab0a4dd83a8592334579347dde068da3db21b965ce92351a89f70c30d7b98685a486d666a0e81f8adce80e9e9907432e04"
 }
