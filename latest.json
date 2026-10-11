@@ -1,8 +1,8 @@
 {
-  "version": "2.15.40",
+  "version": "2.15.41",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.40/telios-2.15.40.tar.gz",
-  "sha256": "4ba6d6f9647da4d57763f7f08f0b6e31b33e292fbc9ba023665d8ab1495ff7e4",
-  "notes": "Vos tests d'applications gagnent en fiabilité : une vérification faite trop tôt est désormais signalée, pour que chaque test réussi le soit vraiment.",
-  "signature": "bd3d4d8b40a3fa71b227a3f4d570bb41f5e440fb8b437ff3c1e02317611add0f1e222aea045d296ad9025a0680f05e57b8df69acadf6aae22ac74833c2a5c909"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.41/telios-2.15.41.tar.gz",
+  "sha256": "2bb711670a8476c6cf11832b08325ca658ee30bc5f35afda4d18f3c4b48fec37",
+  "notes": "Les tests d'applications savent désormais rejouer un appui long et régler un curseur à la valeur voulue, en Material comme en Compose : vos parcours les plus fins se valident sans retouche.",
+  "signature": "18691e355fcffe0d8ce5ae1eeb243ed87017110bbd10771a5e3e7a54501620a26e7fbc649ea545d8f562a6a280d4f971127df940ddda1c68cbbff05885c86a00"
 }
