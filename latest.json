@@ -1,8 +1,8 @@
 {
-  "version": "2.15.37",
+  "version": "2.15.38",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.37/telios-2.15.37.tar.gz",
-  "sha256": "fee96e80da151d48474ad8b148f80cb2b7409dc5e8a34cd0a091b03f646caf3a",
-  "notes": "Les tests d'applications enregistrés au doigt suivent désormais fidèlement les fenêtres surgissantes, les listes déroulantes, les cadrans horaires et la saisie en dialogue, en Material comme en Compose.",
-  "signature": "0d2ff240bf8f667e7bfc59acc9d3f06ed6ace612ed9ad80a31f81225a4c64a4a3d2449d58e80fbf7f09aa8cc99fe526d36fe26920f5169166f83084d8370af03"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.38/telios-2.15.38.tar.gz",
+  "sha256": "503d0813007653b5bed7a9a86b801976fbaf929845b4b7ffca7dee704bbfb91c",
+  "notes": "Les tests d'applications rejouent plus fidèlement la saisie dans les fenêtres surgissantes : le clavier est refermé au bon moment, sans fermer la fenêtre.",
+  "signature": "c6d81fe255e693d9c5231b34648ca73480cb9caee52c39d7c885012e0f4a171fddc68bdedce6aa6b6fb7cbe81f960f140319aa52162070b82f9583fca45a5d08"
 }
