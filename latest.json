@@ -1,8 +1,8 @@
 {
-  "version": "2.15.48",
+  "version": "2.15.49",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.48/telios-2.15.48.tar.gz",
-  "sha256": "0fc6d20fdb0066e2391c42692bafe8699b8e91aabffc7c8997dd0de5fd94eb2a",
-  "notes": "Un affichage plus net pendant vos séries de tests : chaque bloc garde la taille de son contenu, sans défilement inutile.",
-  "signature": "960ae24a30d1bc82e18c12f426fc1cc09a360a1e3cf5b28f226898a3a1a9e7cbe6c67eb8fb5f9653cac320bbe4885f316b9f82c9bae652a7a5009eec17a5510e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.49/telios-2.15.49.tar.gz",
+  "sha256": "a778d0871e4519489d49bab2ce3d50102dd7130904b8d97ac385b5fadfa2f2d8",
+  "notes": "TELIOS garde vos appareils de test à jour tout seul : branchez-les, la bonne version les attend.",
+  "signature": "805ed16c20f185aa4e2fb343abb37bcd0f2662a1389bfbd259a47ce3585dab31684fabbad557d5850386b9fb06e6f26b60cb59b2b584b3ea770d87d2e609ba0f"
 }
