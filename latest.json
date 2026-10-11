@@ -1,8 +1,8 @@
 {
-  "version": "2.15.44",
+  "version": "2.15.45",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.44/telios-2.15.44.tar.gz",
-  "sha256": "1032fe438e1e104f378d99f59d7d5214d3d3198dd000520114db3737050dea50",
-  "notes": "TELIOS vous prévient désormais par une notification quand une longue série de tests se termine : plus besoin de surveiller l'écran.",
-  "signature": "575d5861bbe9853f37023f5b64ef95d7a3edd267c120f27a5e889495fa1b9b247ff19a3be4b39aaaf0df9debc383d6d389c861e0b2f2094c2e37184c6e853c03"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.45/telios-2.15.45.tar.gz",
+  "sha256": "66def6c6e1994481042bf0cb2d7e973f31bf61cb20c752425a3914f8c7e774e3",
+  "notes": "Des tableaux de suivi plus compacts : chaque résultat se lit d'un seul regard, sur une seule ligne.",
+  "signature": "de4e49ee8c0ccca10fc85ae38a3f37e2918cca6aa4daa387c7c0bad0ec512bb66489811c99d05ae118b5909e3c02f85536b29fca6741df8d33bbe739bff3a10b"
 }
