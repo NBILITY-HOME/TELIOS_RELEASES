@@ -1,8 +1,8 @@
 {
-  "version": "2.15.41",
+  "version": "2.15.42",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.41/telios-2.15.41.tar.gz",
-  "sha256": "2bb711670a8476c6cf11832b08325ca658ee30bc5f35afda4d18f3c4b48fec37",
-  "notes": "Les tests d'applications savent désormais rejouer un appui long et régler un curseur à la valeur voulue, en Material comme en Compose : vos parcours les plus fins se valident sans retouche.",
-  "signature": "18691e355fcffe0d8ce5ae1eeb243ed87017110bbd10771a5e3e7a54501620a26e7fbc649ea545d8f562a6a280d4f971127df940ddda1c68cbbff05885c86a00"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.42/telios-2.15.42.tar.gz",
+  "sha256": "d9abfabce227e97325dca1f04d931066775afe92b00e4ac8d7cc105996e75067",
+  "notes": "Petites retouches de confort : une interface plus lisible et des boutons plus faciles à viser.",
+  "signature": "bb3996ec981d5a69da5426184a6d2cd87010e9e1837576a571b8b07af442744eca60aacd3a80a543d41883d0e052ef2f6be3a3dd79598e44a4d603b6b61be907"
 }
