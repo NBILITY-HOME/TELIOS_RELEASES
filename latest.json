@@ -1,8 +1,8 @@
 {
-  "version": "2.15.43",
+  "version": "2.15.44",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.43/telios-2.15.43.tar.gz",
-  "sha256": "7852aa4bfff71b2ca7d5194c7ce6c936cb707666d37e05052def62f03968cc88",
-  "notes": "La page Dépendances gagne en clarté : ses blocs s'alignent et chaque outil se lit d'un coup d'œil.",
-  "signature": "7136aae53f1b4f76193d4d631ead8dcf6f2b3aa0623faf1870b9b288fc8ce043e8836e43edd0ca44d7b973f5f06b91a0a1423b2152e190bb0e2ccfeacd35c703"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.44/telios-2.15.44.tar.gz",
+  "sha256": "1032fe438e1e104f378d99f59d7d5214d3d3198dd000520114db3737050dea50",
+  "notes": "TELIOS vous prévient désormais par une notification quand une longue série de tests se termine : plus besoin de surveiller l'écran.",
+  "signature": "575d5861bbe9853f37023f5b64ef95d7a3edd267c120f27a5e889495fa1b9b247ff19a3be4b39aaaf0df9debc383d6d389c861e0b2f2094c2e37184c6e853c03"
 }
