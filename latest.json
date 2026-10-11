@@ -1,8 +1,8 @@
 {
-  "version": "2.15.49",
+  "version": "2.15.50",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.49/telios-2.15.49.tar.gz",
-  "sha256": "a778d0871e4519489d49bab2ce3d50102dd7130904b8d97ac385b5fadfa2f2d8",
-  "notes": "TELIOS garde vos appareils de test à jour tout seul : branchez-les, la bonne version les attend.",
-  "signature": "805ed16c20f185aa4e2fb343abb37bcd0f2662a1389bfbd259a47ce3585dab31684fabbad557d5850386b9fb06e6f26b60cb59b2b584b3ea770d87d2e609ba0f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.50/telios-2.15.50.tar.gz",
+  "sha256": "aeebd72e03a7db55f6336d57f53b1bb8b7ef52630b9b1bd1111b2be37f74c66f",
+  "notes": "Vos appareils de test reçoivent désormais à coup sûr la bonne version, dès qu'ils sont branchés.",
+  "signature": "54beb211ee841569deea41ef4c3fe7bac915045cd4d79c4375bc105485e2ade83b178c8df0babcc64448d8838ac7118a3f44018ae34bed6ad9e5b11b89dfad01"
 }
