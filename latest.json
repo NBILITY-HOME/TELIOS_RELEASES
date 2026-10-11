@@ -1,8 +1,8 @@
 {
-  "version": "2.15.35",
+  "version": "2.15.36",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.35/telios-2.15.35.tar.gz",
-  "sha256": "99ba76a1306af1a749da44ac5e1869a8afff977c24d695b081949908c6eb5943",
-  "notes": "TELIOS gagne encore en finition : une interface plus claire et plus agréable, au service de vos interventions.",
-  "signature": "f321af1a2e6821016bc02386583c672b0c56e5476e2664e64cf36e55f0738a272f3d84b73c25284a8706bbdc8c28249e13dea07dfdae7e98d4200010607e270f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.36/telios-2.15.36.tar.gz",
+  "sha256": "42716738f883d977ee5556f9da15245b6e7257223bfaa1ef277ec8d1c8e63c33",
+  "notes": "Vos téléphones sont désormais nommés clairement, version d'Android comprise : vous savez d'un coup d'œil sur quel appareil vous travaillez.",
+  "signature": "48b16cf1f67b433d0a4ff95be5a58ae993e559eb350a0e6f382999937d3a6a4ea484ca174b388097ba50e7455d7a432c3721c388692161c0a66928ac264a7e04"
 }
