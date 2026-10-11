@@ -1,8 +1,8 @@
 {
-  "version": "2.15.38",
+  "version": "2.15.39",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.38/telios-2.15.38.tar.gz",
-  "sha256": "503d0813007653b5bed7a9a86b801976fbaf929845b4b7ffca7dee704bbfb91c",
-  "notes": "Les tests d'applications rejouent plus fidèlement la saisie dans les fenêtres surgissantes : le clavier est refermé au bon moment, sans fermer la fenêtre.",
-  "signature": "c6d81fe255e693d9c5231b34648ca73480cb9caee52c39d7c885012e0f4a171fddc68bdedce6aa6b6fb7cbe81f960f140319aa52162070b82f9583fca45a5d08"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.39/telios-2.15.39.tar.gz",
+  "sha256": "75824ea45e095d538fee151b8fb9d8c08da7d997a90c518e116c731143db7018",
+  "notes": "Les tests d'applications savent désormais rejouer un appui long : menus contextuels et actions cachées sous le doigt sont testés comme vos équipes les utilisent.",
+  "signature": "2ed4c002d67df3e30ad180dc37308dee7ea4450bacd2557aa9fbbb50bac71302d630271f45fd6b8770b555be3d72c6345d063ea7ad6e045298160d06cf561702"
 }
