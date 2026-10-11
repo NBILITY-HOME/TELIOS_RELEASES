@@ -1,8 +1,8 @@
 {
-  "version": "2.15.39",
+  "version": "2.15.40",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.39/telios-2.15.39.tar.gz",
-  "sha256": "75824ea45e095d538fee151b8fb9d8c08da7d997a90c518e116c731143db7018",
-  "notes": "Les tests d'applications savent désormais rejouer un appui long : menus contextuels et actions cachées sous le doigt sont testés comme vos équipes les utilisent.",
-  "signature": "2ed4c002d67df3e30ad180dc37308dee7ea4450bacd2557aa9fbbb50bac71302d630271f45fd6b8770b555be3d72c6345d063ea7ad6e045298160d06cf561702"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.40/telios-2.15.40.tar.gz",
+  "sha256": "4ba6d6f9647da4d57763f7f08f0b6e31b33e292fbc9ba023665d8ab1495ff7e4",
+  "notes": "Vos tests d'applications gagnent en fiabilité : une vérification faite trop tôt est désormais signalée, pour que chaque test réussi le soit vraiment.",
+  "signature": "bd3d4d8b40a3fa71b227a3f4d570bb41f5e440fb8b437ff3c1e02317611add0f1e222aea045d296ad9025a0680f05e57b8df69acadf6aae22ac74833c2a5c909"
 }
