@@ -1,8 +1,8 @@
 {
-  "version": "2.15.45",
+  "version": "2.15.46",
   "publie_le": "2026-10-11",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.45/telios-2.15.45.tar.gz",
-  "sha256": "66def6c6e1994481042bf0cb2d7e973f31bf61cb20c752425a3914f8c7e774e3",
-  "notes": "Des tableaux de suivi plus compacts : chaque résultat se lit d'un seul regard, sur une seule ligne.",
-  "signature": "de4e49ee8c0ccca10fc85ae38a3f37e2918cca6aa4daa387c7c0bad0ec512bb66489811c99d05ae118b5909e3c02f85536b29fca6741df8d33bbe739bff3a10b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.46/telios-2.15.46.tar.gz",
+  "sha256": "6c3cdbe6733a0655801bacb5087761f86a6fc2bf03481a83cd0cb640de593c9d",
+  "notes": "Chaque série de tests se conclut par un procès-verbal PDF clair, ouvert d'un clic, avec ses chiffres alignés en un tableau lisible.",
+  "signature": "74b666ab127717ea3566eafd591caffd55c224061b8c28db6830def281cee3614f604550df3865da23b03f239fc29e9d20329f8b97426b656d8810a14dfbea02"
 }
