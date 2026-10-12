@@ -1,8 +1,8 @@
 {
-  "version": "2.15.58",
+  "version": "2.15.59",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.58/telios-2.15.58.tar.gz",
-  "sha256": "32a3be81e15f68760d4f92b799ede93d112ae903133fe58d62d839a3f7a2c90a",
-  "notes": "Un test en écart se relance désormais seul, en un clic, sur le téléphone concerné : le diagnostic prend une minute au lieu d'un quart d'heure.",
-  "signature": "e4c0ace026c41207ff35eb3963350613b69b266422bcf0df09ce3177c39e3026751800f25e571519c1333e104bb926beceedc33e0663b08b35bae4b654770c0d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.59/telios-2.15.59.tar.gz",
+  "sha256": "7d89c32c39e169a8d8a57989de4ec50848254804b73d840677d588012b7339b1",
+  "notes": "Relancez un test sans perdre le bilan de votre série : le résultat de la relance s'affiche juste à côté, à la seconde près.",
+  "signature": "5358c2cef6c500d5bb12d41dbbd42a349fe8002f264c60ba74da83158fffdd2efa27078f3f3f41189e5db0f3e253f90a4601da894e85aed63837afcf9430fa0b"
 }
