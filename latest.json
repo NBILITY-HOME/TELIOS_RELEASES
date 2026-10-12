@@ -1,8 +1,8 @@
 {
-  "version": "2.15.59",
+  "version": "2.15.60",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.59/telios-2.15.59.tar.gz",
-  "sha256": "7d89c32c39e169a8d8a57989de4ec50848254804b73d840677d588012b7339b1",
-  "notes": "Relancez un test sans perdre le bilan de votre série : le résultat de la relance s'affiche juste à côté, à la seconde près.",
-  "signature": "5358c2cef6c500d5bb12d41dbbd42a349fe8002f264c60ba74da83158fffdd2efa27078f3f3f41189e5db0f3e253f90a4601da894e85aed63837afcf9430fa0b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.60/telios-2.15.60.tar.gz",
+  "sha256": "83da89d9c72c45418b1949d3229c5a669677d72a3faec594bd3d02078efe874e",
+  "notes": "La mise à jour de vos appareils de test se fait désormais d'un seul endroit : une fenêtre claire, un bouton par téléphone, ou tout d'un coup.",
+  "signature": "0ca4e7126feda3f3fd3d0a9260b90150297b28b7499b4f6eff08f16b0e0ea8e8c582f5abe672cdef8911a3cea52a9d78650ddd059ae323d38063ff1343bbfa0d"
 }
