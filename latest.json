@@ -1,8 +1,8 @@
 {
-  "version": "2.15.55",
+  "version": "2.15.56",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.55/telios-2.15.55.tar.gz",
-  "sha256": "476e25c3192ca213111e2bf2dcfde4f1efc60d4b1441b124027b5dcc6dac2d73",
-  "notes": "Vos tests d'applications se rejouent mieux d'un téléphone à l'autre : les menus ⋮ sont reconnus quel que soit le constructeur.",
-  "signature": "5c78f8a7c2116efec9c49fa36b813f65b94c73d9c7396c7cd28c10b6346d78e749bfbf2d9c5ee186364cf4584f1814b8bcd2dc8f680227da420314a5829a6f0a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.56/telios-2.15.56.tar.gz",
+  "sha256": "497791dabc8444a07d829c0e5e9885fa1d1c9d2881436eef9d3553f550034c97",
+  "notes": "Suivez d'un coup d'œil la durée de chaque série de tests : le temps écoulé s'affiche pour chaque téléphone.",
+  "signature": "f506c7e25006b81223d28e649308b1ddfb6536ff969a44edbb7e36d57baeff30060e9a51c081497b46eefd2c8b57b5f070088496f2faeb00d5ec806b8112e907"
 }
