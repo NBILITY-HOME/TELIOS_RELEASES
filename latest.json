@@ -1,8 +1,8 @@
 {
-  "version": "2.15.61",
+  "version": "2.15.62",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.61/telios-2.15.61.tar.gz",
-  "sha256": "e05aa9d0ef23450484cd63704b4cfd57cc2886c054740f53161091d094b1724e",
-  "notes": "Vos consommations deviennent visibles et suivies plus finement, pour des statistiques fidèles à votre activité.",
-  "signature": "396ed3b9e1bd901686f7ff50c82a871a10e62d39ae74555b39f5980ae4afc6bd34e3af2fd94d3966b4fc1700c300f4c70688ebd4b80b2d74b951aefd8c169d0e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.62/telios-2.15.62.tar.gz",
+  "sha256": "7209832caf2c62f17d60b7f33fd3e9c0fdfc9c4a35770d92c4b35f04107a2c89",
+  "notes": "Une consommation plus juste : seules les séries de tests entièrement réussies sont décomptées.",
+  "signature": "7635cb6896ab18f0d4985c32af97cf5ad56a1a010f54d863553be1e82cb908a66afa6cb37f60676cd629d4971f0864f379201cdea0a29fa5a843b1558b5c260d"
 }
