@@ -1,8 +1,8 @@
 {
-  "version": "2.15.54",
+  "version": "2.15.55",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.54/telios-2.15.54.tar.gz",
-  "sha256": "ef7a3b7cb9be930304364607033de3c56f67cdeef5e9fbffff255d26d886e2ac",
-  "notes": "Chaque bouton indisponible vous dit désormais pourquoi : plus de devinette avant de lancer vos tests.",
-  "signature": "1f8dd5fe15f962602220d7ec65c4ba3f12c520de472b46a91304ac09070ac36915b71e4ada2baa8e976d013013c0e33adb05eb74bd42bc0ee65ac87934a93b07"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.55/telios-2.15.55.tar.gz",
+  "sha256": "476e25c3192ca213111e2bf2dcfde4f1efc60d4b1441b124027b5dcc6dac2d73",
+  "notes": "Vos tests d'applications se rejouent mieux d'un téléphone à l'autre : les menus ⋮ sont reconnus quel que soit le constructeur.",
+  "signature": "5c78f8a7c2116efec9c49fa36b813f65b94c73d9c7396c7cd28c10b6346d78e749bfbf2d9c5ee186364cf4584f1814b8bcd2dc8f680227da420314a5829a6f0a"
 }
