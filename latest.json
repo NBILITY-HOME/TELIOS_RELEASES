@@ -1,8 +1,8 @@
 {
-  "version": "2.15.56",
+  "version": "2.15.57",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.56/telios-2.15.56.tar.gz",
-  "sha256": "497791dabc8444a07d829c0e5e9885fa1d1c9d2881436eef9d3553f550034c97",
-  "notes": "Suivez d'un coup d'œil la durée de chaque série de tests : le temps écoulé s'affiche pour chaque téléphone.",
-  "signature": "f506c7e25006b81223d28e649308b1ddfb6536ff969a44edbb7e36d57baeff30060e9a51c081497b46eefd2c8b57b5f070088496f2faeb00d5ec806b8112e907"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.57/telios-2.15.57.tar.gz",
+  "sha256": "99c54b8993956a2a3e0a6a011230303c234ad334fb9226ceb34587844cfcf3ef",
+  "notes": "Des bilans de tests encore plus francs : un résultat n'affiche 100 % que lorsque tout a réellement réussi.",
+  "signature": "d4f725c619ad3c9d292c029b035d2fb9ec573af4b93611c87758a71b7c8f238bf27b77724e3cec85c93dad2a7ede111bdc5ec0061f736043c3e48f3de15eee0e"
 }
