@@ -1,8 +1,8 @@
 {
-  "version": "2.15.60",
+  "version": "2.15.61",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.60/telios-2.15.60.tar.gz",
-  "sha256": "83da89d9c72c45418b1949d3229c5a669677d72a3faec594bd3d02078efe874e",
-  "notes": "La mise à jour de vos appareils de test se fait désormais d'un seul endroit : une fenêtre claire, un bouton par téléphone, ou tout d'un coup.",
-  "signature": "0ca4e7126feda3f3fd3d0a9260b90150297b28b7499b4f6eff08f16b0e0ea8e8c582f5abe672cdef8911a3cea52a9d78650ddd059ae323d38063ff1343bbfa0d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.61/telios-2.15.61.tar.gz",
+  "sha256": "e05aa9d0ef23450484cd63704b4cfd57cc2886c054740f53161091d094b1724e",
+  "notes": "Vos consommations deviennent visibles et suivies plus finement, pour des statistiques fidèles à votre activité.",
+  "signature": "396ed3b9e1bd901686f7ff50c82a871a10e62d39ae74555b39f5980ae4afc6bd34e3af2fd94d3966b4fc1700c300f4c70688ebd4b80b2d74b951aefd8c169d0e"
 }
