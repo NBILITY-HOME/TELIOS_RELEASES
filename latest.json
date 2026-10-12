@@ -1,8 +1,8 @@
 {
-  "version": "2.15.57",
+  "version": "2.15.58",
   "publie_le": "2026-10-12",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.57/telios-2.15.57.tar.gz",
-  "sha256": "99c54b8993956a2a3e0a6a011230303c234ad334fb9226ceb34587844cfcf3ef",
-  "notes": "Des bilans de tests encore plus francs : un résultat n'affiche 100 % que lorsque tout a réellement réussi.",
-  "signature": "d4f725c619ad3c9d292c029b035d2fb9ec573af4b93611c87758a71b7c8f238bf27b77724e3cec85c93dad2a7ede111bdc5ec0061f736043c3e48f3de15eee0e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.58/telios-2.15.58.tar.gz",
+  "sha256": "32a3be81e15f68760d4f92b799ede93d112ae903133fe58d62d839a3f7a2c90a",
+  "notes": "Un test en écart se relance désormais seul, en un clic, sur le téléphone concerné : le diagnostic prend une minute au lieu d'un quart d'heure.",
+  "signature": "e4c0ace026c41207ff35eb3963350613b69b266422bcf0df09ce3177c39e3026751800f25e571519c1333e104bb926beceedc33e0663b08b35bae4b654770c0d"
 }
