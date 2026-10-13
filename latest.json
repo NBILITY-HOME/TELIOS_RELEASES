@@ -1,8 +1,8 @@
 {
-  "version": "2.15.63",
+  "version": "2.15.64",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.63/telios-2.15.63.tar.gz",
-  "sha256": "105cef0c4c8965bbc032f6739af605693674de5f16b6ab18336cd84529fe4514",
-  "notes": "Vos manipulations enregistrées se rejouent plus fidèlement : la bonne ligne d'une liste est toujours retrouvée, les boutons qui changent de libellé se rejouent, et la recherche à l'écran n'agit plus dans vos applications.",
-  "signature": "0294d9562b35a923aa2d11166b59494e37acef43dd7835e992a932339627e1f6402a0574a2d964ea4ea82d1a628f306110cabf7ea47fc5a1194e3b60cceca00e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.64/telios-2.15.64.tar.gz",
+  "sha256": "b5c777fe69c2b4a4edd415f5074856c5d2c4d4f5adfdc7eb3d5c05f20de2fa9c",
+  "notes": "TELIOS protège encore mieux vos enregistrements : une séance vérifie ses autorisations tout au long de son déroulement, et plus seulement au démarrage.",
+  "signature": "927c0e4eb6d9c0727add88b3aa5187d720f643ca98ccb33a80b8ffcdfa4acae186a6486da92d92b5f969aea40f3e8fd7b04b19bcbf755c081aa914f84e57d409"
 }
