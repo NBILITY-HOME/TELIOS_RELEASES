@@ -1,8 +1,8 @@
 {
-  "version": "2.15.75",
+  "version": "2.15.76",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.75/telios-2.15.75.tar.gz",
-  "sha256": "4a5fcfba6a62b218f2c844721a2ffe8c8a46b70357c167371d716e6643642567",
-  "notes": "Des documents encore plus rigoureux : chaque fiche liste toutes ses réserves, et un numéro de vérification n'est imprimé que s'il correspond exactement au résultat affiché.",
-  "signature": "ae9b451239ba7b2f5ad5fa8e918f825f38acfb4ced5b49cd5a56b7af6f5ebbf77bcd67f222fd8071a0bb80280bc6b00c39ad71ca2a55799608f966e10b5f1c01"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.76/telios-2.15.76.tar.gz",
+  "sha256": "15a6af7939e4bff2c9855da7d21e6811d817e68de57acac9c9451bd0501d2d93",
+  "notes": "Une page d'enregistrement repensée : des bonnes pratiques claires, et un bloc dédié pour rendre l'appareil en toute sérénité.",
+  "signature": "3241a80224f6da71507b3b944cf0da3b93a89dd2b28ccfedbcf6983f28c6f78869648fc2f1a1ba654328d494a1dea6bfcd5fcb911f11ed6447d32355f365b204"
 }
