@@ -1,8 +1,8 @@
 {
-  "version": "2.15.80",
+  "version": "2.15.81",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.80/telios-2.15.80.tar.gz",
-  "sha256": "3537b46eb883531fa6a0e106180e64653040247d2a82637d16746dbfb9ff0458",
-  "notes": "Une page de présentation plus épurée : le parcours va droit à l'essentiel, de l'enregistrement à la gestion de vos collections de campagne.",
-  "signature": "87db313c5e8011300948b3e16e327faef810b3f1d3c4667ba0fce31bd08f6028fc72f7e22475bd1e68281691e26e3dee3ecd0cf4e16903e5750eeb6748762404"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.81/telios-2.15.81.tar.gz",
+  "sha256": "c4179c5518c4a5bd1bb37d4655108df90050d916fcd880a2328519dcddf469a5",
+  "notes": "Un bilan du smartphone plus lisible : chaque contrôle va droit au but, le détail reste à portée de souris.",
+  "signature": "9cb9f312516b51e8e5476173af37da75a4231c876ac7e4242e9c83ca627003dbf3e3333bab90f83dc56e634a7731ec8005c846542f621c6e156b0f19f6f9ed03"
 }
