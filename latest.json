@@ -1,8 +1,8 @@
 {
-  "version": "2.15.67",
+  "version": "2.15.68",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.67/telios-2.15.67.tar.gz",
-  "sha256": "bc40daadc47d5761ce4a22040670d81bf8e05481f4a941244e03dd0ca718a1e2",
-  "notes": "Vos fiches de déploiement et rapports de validation indiquent désormais clairement si leur vérification en ligne est disponible : des documents toujours exacts pour vos clients.",
-  "signature": "f6fe898d1223a2524d5ea4cc2f9a9ebf32f4c672ada23d413b1b10515303a39838a276364cb0d0688c6527ccb513a9c574ff1a6c0739f293b87d32e5d984c508"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.68/telios-2.15.68.tar.gz",
+  "sha256": "0f8e568e807e1c7e45449e955ae24be2506e2161f8f36593a0348b394f0da325",
+  "notes": "Vos enregistrements de parcours sont plus sûrs : TELIOS vérifie que chaque séance a été captée en entier et vous prévient aussitôt si un geste a pu manquer.",
+  "signature": "b0548bb0aa63685b411eaa3f09e286ec4e4d08f2d44156fd37b2ba96a35c1ac2a2c423fc33c056e3c7433644b40e20c55bb2f032f56419628b7e0ddf82531609"
 }
