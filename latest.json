@@ -1,8 +1,8 @@
 {
-  "version": "2.15.81",
+  "version": "2.15.82",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.81/telios-2.15.81.tar.gz",
-  "sha256": "c4179c5518c4a5bd1bb37d4655108df90050d916fcd880a2328519dcddf469a5",
-  "notes": "Un bilan du smartphone plus lisible : chaque contrôle va droit au but, le détail reste à portée de souris.",
-  "signature": "9cb9f312516b51e8e5476173af37da75a4231c876ac7e4242e9c83ca627003dbf3e3333bab90f83dc56e634a7731ec8005c846542f621c6e156b0f19f6f9ed03"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.82/telios-2.15.82.tar.gz",
+  "sha256": "8bb9c741bd98523808b1dd5261de8383378a9ba361d1f94c36a5185745677b2c",
+  "notes": "TELIOS affiche désormais son emblème animé dans la barre latérale, pour une interface encore plus élégante.",
+  "signature": "f632659aaae5842809fe3e7748004925a98330e2cf948e74f47cced3a81a6654c13c4cca7788b33753a46505434daf7ae5a559ce01c5bf3fb9d37c0f53d27e00"
 }
