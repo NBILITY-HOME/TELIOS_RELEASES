@@ -1,8 +1,8 @@
 {
-  "version": "2.16.5",
+  "version": "2.16.6",
   "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.5/telios-2.16.5.tar.gz",
-  "sha256": "f2d7319daaf6ca482c4e8c94b607c1db0755d0e7dc7b3ff58894d7fa924d274b",
-  "notes": "Validation UAT devient une salle de contrôle : suivez chaque étape du rejeu en direct, lisez le verdict d'un coup d'œil et ouvrez le rapport signé d'un clic.",
-  "signature": "7c80dafa538be22c445fe01a3e1d43f6aad338858506531ae94ba9daa59ab22ddc1d9090537b894567d7ca1393c2734ebf812c0a5c62c2950644a64c2568a50d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.6/telios-2.16.6.tar.gz",
+  "sha256": "aa7256b926ec6302c84981767a0da33b278107a88d94360ff637da0a0cdebd47",
+  "notes": "Validation UAT plus équilibrée : le rejeu en direct et ses boutons prennent leur juste place, pour une lecture plus nette d'un coup d'œil.",
+  "signature": "cc989f0d42bcb5ad3992b26dd4684065383bf8836fc3d31b3451a731cb71deaca1fc4f4aeb2f348dae5e48220b10304d601c50b3a2c9ba4b9591982215e0020a"
 }
