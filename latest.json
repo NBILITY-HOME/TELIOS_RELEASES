@@ -1,8 +1,8 @@
 {
-  "version": "2.15.68",
+  "version": "2.15.69",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.68/telios-2.15.68.tar.gz",
-  "sha256": "0f8e568e807e1c7e45449e955ae24be2506e2161f8f36593a0348b394f0da325",
-  "notes": "Vos enregistrements de parcours sont plus sûrs : TELIOS vérifie que chaque séance a été captée en entier et vous prévient aussitôt si un geste a pu manquer.",
-  "signature": "b0548bb0aa63685b411eaa3f09e286ec4e4d08f2d44156fd37b2ba96a35c1ac2a2c423fc33c056e3c7433644b40e20c55bb2f032f56419628b7e0ddf82531609"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.69/telios-2.15.69.tar.gz",
+  "sha256": "f64955ee292040f8251065dc9738a1a4d95d02e7eae80dfc788c966f84565912",
+  "notes": "Vos scénarios sont mieux protégés : chaque modification crée une nouvelle version et les précédentes restent disponibles, sans jamais rien effacer par erreur.",
+  "signature": "90091b60c9ec2f0d389c29ee1f5950813061f2b7f5fb5dac2e3d9721c3defb3da8f1abf020a912388c425dfa077b75b716d63b6a7616a0578e54d728f1d8c204"
 }
