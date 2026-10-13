@@ -1,8 +1,8 @@
 {
-  "version": "2.15.64",
+  "version": "2.15.65",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.64/telios-2.15.64.tar.gz",
-  "sha256": "b5c777fe69c2b4a4edd415f5074856c5d2c4d4f5adfdc7eb3d5c05f20de2fa9c",
-  "notes": "TELIOS protège encore mieux vos enregistrements : une séance vérifie ses autorisations tout au long de son déroulement, et plus seulement au démarrage.",
-  "signature": "927c0e4eb6d9c0727add88b3aa5187d720f643ca98ccb33a80b8ffcdfa4acae186a6486da92d92b5f969aea40f3e8fd7b04b19bcbf755c081aa914f84e57d409"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.65/telios-2.15.65.tar.gz",
+  "sha256": "001b2c247fdf027f20af0427fc3995c3a2d930db4926c208ade64a930f883288",
+  "notes": "Chaque version de TELIOS est désormais vérifiée de bout en bout avant de vous parvenir : plus de 1 600 contrôles automatiques passent sur plusieurs versions de Python avant toute publication.",
+  "signature": "5d136afac3a7cd5b2fe1d4b190ce1afa1da4b3fff0a75aa2db94c2ba8b0a22f4a7ba2e653c33a1f085e851a0906502e975118435a468e536ddecdf106bb44e02"
 }
