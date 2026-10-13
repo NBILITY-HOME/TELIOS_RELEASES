@@ -1,8 +1,8 @@
 {
-  "version": "2.15.65",
+  "version": "2.15.66",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.65/telios-2.15.65.tar.gz",
-  "sha256": "001b2c247fdf027f20af0427fc3995c3a2d930db4926c208ade64a930f883288",
-  "notes": "Chaque version de TELIOS est désormais vérifiée de bout en bout avant de vous parvenir : plus de 1 600 contrôles automatiques passent sur plusieurs versions de Python avant toute publication.",
-  "signature": "5d136afac3a7cd5b2fe1d4b190ce1afa1da4b3fff0a75aa2db94c2ba8b0a22f4a7ba2e653c33a1f085e851a0906502e975118435a468e536ddecdf106bb44e02"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.66/telios-2.15.66.tar.gz",
+  "sha256": "262fc2d3f2953c1ab56925d8788ad2fa526d6977c9651acd1cf17e34c6850cd0",
+  "notes": "Vos déploiements sur plusieurs téléphones gagnent en fiabilité : chaque fiche signale clairement les points à revoir, et un appareil qui ne répond plus n'interrompt plus le reste du lot.",
+  "signature": "96dca8a3b0f3711b21dadfd90bffb150f5663af98955489b3b22655409d26868d11738810a1b8b90cbc60e8caf58b890eeecd472ecef9d68512d17abae0caf06"
 }
