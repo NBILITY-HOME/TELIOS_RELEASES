@@ -1,8 +1,8 @@
 {
-  "version": "2.15.74",
+  "version": "2.15.75",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.74/telios-2.15.74.tar.gz",
-  "sha256": "d62ae007fe9b606f53ffcf32d651fab48b5afa40b8663e1812e3688c1c8f2c84",
-  "notes": "Les mots de passe rejoués sont désormais contrôlés : TELIOS vérifie que le bon code a bien été tapé, sans jamais l'afficher.",
-  "signature": "3d888f7850cb2f5de33c979d2fe1991441ac6e514d6ec2f4475d8d86bac711bea18b2d73c84b560ef1a75d5e3491340255b11d4f031785555736aa35b08cae04"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.75/telios-2.15.75.tar.gz",
+  "sha256": "4a5fcfba6a62b218f2c844721a2ffe8c8a46b70357c167371d716e6643642567",
+  "notes": "Des documents encore plus rigoureux : chaque fiche liste toutes ses réserves, et un numéro de vérification n'est imprimé que s'il correspond exactement au résultat affiché.",
+  "signature": "ae9b451239ba7b2f5ad5fa8e918f825f38acfb4ced5b49cd5a56b7af6f5ebbf77bcd67f222fd8071a0bb80280bc6b00c39ad71ca2a55799608f966e10b5f1c01"
 }
