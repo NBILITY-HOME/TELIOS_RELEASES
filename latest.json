@@ -1,8 +1,8 @@
 {
-  "version": "2.15.69",
+  "version": "2.15.70",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.69/telios-2.15.69.tar.gz",
-  "sha256": "f64955ee292040f8251065dc9738a1a4d95d02e7eae80dfc788c966f84565912",
-  "notes": "Vos scénarios sont mieux protégés : chaque modification crée une nouvelle version et les précédentes restent disponibles, sans jamais rien effacer par erreur.",
-  "signature": "90091b60c9ec2f0d389c29ee1f5950813061f2b7f5fb5dac2e3d9721c3defb3da8f1abf020a912388c425dfa077b75b716d63b6a7616a0578e54d728f1d8c204"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.70/telios-2.15.70.tar.gz",
+  "sha256": "8219b5d9234e6b1e876b7a79fe185135330e404f6ab7dd6289f29609a3958cc0",
+  "notes": "TELIOS gagne encore en fiabilité : chaque écran de validation est désormais contrôlé de bout en bout avant chaque version, pour des résultats toujours dignes de confiance.",
+  "signature": "e346c917c68e7a41299af0d99d9d50e4145dffe229b04ad3cc91be3556fe4617e8302c9715993f65d8a6e9397f09846d5255f2e6e0ca5c13075a44078947930f"
 }
