@@ -1,8 +1,8 @@
 {
-  "version": "2.15.66",
+  "version": "2.15.67",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.66/telios-2.15.66.tar.gz",
-  "sha256": "262fc2d3f2953c1ab56925d8788ad2fa526d6977c9651acd1cf17e34c6850cd0",
-  "notes": "Vos déploiements sur plusieurs téléphones gagnent en fiabilité : chaque fiche signale clairement les points à revoir, et un appareil qui ne répond plus n'interrompt plus le reste du lot.",
-  "signature": "96dca8a3b0f3711b21dadfd90bffb150f5663af98955489b3b22655409d26868d11738810a1b8b90cbc60e8caf58b890eeecd472ecef9d68512d17abae0caf06"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.67/telios-2.15.67.tar.gz",
+  "sha256": "bc40daadc47d5761ce4a22040670d81bf8e05481f4a941244e03dd0ca718a1e2",
+  "notes": "Vos fiches de déploiement et rapports de validation indiquent désormais clairement si leur vérification en ligne est disponible : des documents toujours exacts pour vos clients.",
+  "signature": "f6fe898d1223a2524d5ea4cc2f9a9ebf32f4c672ada23d413b1b10515303a39838a276364cb0d0688c6527ccb513a9c574ff1a6c0739f293b87d32e5d984c508"
 }
