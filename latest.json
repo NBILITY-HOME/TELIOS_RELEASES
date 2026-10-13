@@ -1,8 +1,8 @@
 {
-  "version": "2.15.82",
+  "version": "2.15.83",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.82/telios-2.15.82.tar.gz",
-  "sha256": "8bb9c741bd98523808b1dd5261de8383378a9ba361d1f94c36a5185745677b2c",
-  "notes": "TELIOS affiche désormais son emblème animé dans la barre latérale, pour une interface encore plus élégante.",
-  "signature": "f632659aaae5842809fe3e7748004925a98330e2cf948e74f47cced3a81a6654c13c4cca7788b33753a46505434daf7ae5a559ce01c5bf3fb9d37c0f53d27e00"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.83/telios-2.15.83.tar.gz",
+  "sha256": "af8a92d68cc73602dfda1f33a0a800630b32d11d6a9fc03c88910904b029340c",
+  "notes": "L'emblème animé de TELIOS gagne en présence dans la barre latérale, pour une interface plus affirmée.",
+  "signature": "f52c9f41bc689854dcb8c782a9aefeaad316b4fd75e8d7a1763a21bc9d5b18c6abeb8169316ab8c78ebcc45888848fd14b252154b258f08355e6f65dff10d404"
 }
