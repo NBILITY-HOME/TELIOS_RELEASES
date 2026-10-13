@@ -1,8 +1,8 @@
 {
-  "version": "2.16.4",
+  "version": "2.16.5",
   "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.4/telios-2.16.4.tar.gz",
-  "sha256": "165e9d08528cad0fccebfdde7cb2b743b61a511f3048cd17881d0c4dedf75fb6",
-  "notes": "Enregistrement UAT encore plus lisible : des repères de blocs plus visibles et une section Compléments techniques clairement nommée.",
-  "signature": "2456bbc2c775049b873c4e9a17d8119f525d2d6a7ee1a810a29d6f2186b42cc30d32ca56537428f94d846e80c65ffe179e46178117d4bbeb43b6440356ef2d05"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.5/telios-2.16.5.tar.gz",
+  "sha256": "f2d7319daaf6ca482c4e8c94b607c1db0755d0e7dc7b3ff58894d7fa924d274b",
+  "notes": "Validation UAT devient une salle de contrôle : suivez chaque étape du rejeu en direct, lisez le verdict d'un coup d'œil et ouvrez le rapport signé d'un clic.",
+  "signature": "7c80dafa538be22c445fe01a3e1d43f6aad338858506531ae94ba9daa59ab22ddc1d9090537b894567d7ca1393c2734ebf812c0a5c62c2950644a64c2568a50d"
 }
