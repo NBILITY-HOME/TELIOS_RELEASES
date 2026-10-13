@@ -1,8 +1,8 @@
 {
-  "version": "2.16.3",
+  "version": "2.16.4",
   "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.3/telios-2.16.3.tar.gz",
-  "sha256": "2782af0dcd65d521e965dc8f3f7cbf215ec220f0c4afe0ea1b9771e43ec0e92a",
-  "notes": "La page Enregistrement UAT tient désormais d'un seul coup d'œil : tout est visible sans faire défiler, même pendant une séance.",
-  "signature": "ffb14115d572538b99fdfc0e18f2e913b9d295d6ebb43dcd17965f248c1961e2df15d1c8592acd5f50c17b101b3311eba20f629c1cb12174facd46dc04342403"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.4/telios-2.16.4.tar.gz",
+  "sha256": "165e9d08528cad0fccebfdde7cb2b743b61a511f3048cd17881d0c4dedf75fb6",
+  "notes": "Enregistrement UAT encore plus lisible : des repères de blocs plus visibles et une section Compléments techniques clairement nommée.",
+  "signature": "2456bbc2c775049b873c4e9a17d8119f525d2d6a7ee1a810a29d6f2186b42cc30d32ca56537428f94d846e80c65ffe179e46178117d4bbeb43b6440356ef2d05"
 }
