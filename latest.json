@@ -1,8 +1,8 @@
 {
-  "version": "2.15.70",
+  "version": "2.15.71",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.70/telios-2.15.70.tar.gz",
-  "sha256": "8219b5d9234e6b1e876b7a79fe185135330e404f6ab7dd6289f29609a3958cc0",
-  "notes": "TELIOS gagne encore en fiabilité : chaque écran de validation est désormais contrôlé de bout en bout avant chaque version, pour des résultats toujours dignes de confiance.",
-  "signature": "e346c917c68e7a41299af0d99d9d50e4145dffe229b04ad3cc91be3556fe4617e8302c9715993f65d8a6e9397f09846d5255f2e6e0ca5c13075a44078947930f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.71/telios-2.15.71.tar.gz",
+  "sha256": "672334adc74248528f7882c9658affdea4647e3750d2c28bdc6f3b72829dbf9b",
+  "notes": "Vos rapports sont encore plus fidèles : si un téléphone se déconnecte en cours de route, TELIOS indique précisément ce qui a déjà été fait sur l'appareil.",
+  "signature": "0eb03a0756679ecd89ae8b6cbd7746e3b8f7c0d676bedc072009daa28f047fe2ea474485324f929fa26d680d4e007bdad469675a671d9346c1c2eb84943e7a00"
 }
