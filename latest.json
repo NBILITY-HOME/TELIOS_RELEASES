@@ -1,8 +1,8 @@
 {
-  "version": "2.16.2",
-  "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.2/telios-2.16.2.tar.gz",
-  "sha256": "3dd1272f6334df3d0edbc4a926b8e65697dd6a0898c8391a34a0e7417737dcbf",
-  "notes": "Enregistrement UAT entièrement repensé : choisissez votre téléphone d'un clic, mettez son client à jour sur place et suivez chaque séance en direct, gestes et chronomètre sous les yeux.",
-  "signature": "de52191b976830c80019201f036956f3dfc4c36043ceadeabb5a4f59fabae6acb2dc2e81dbe7105bf9339fb15429458923460287423b4e0281a0d48bac631700"
+  "version": "2.16.3",
+  "publie_le": "2026-10-14",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.3/telios-2.16.3.tar.gz",
+  "sha256": "2782af0dcd65d521e965dc8f3f7cbf215ec220f0c4afe0ea1b9771e43ec0e92a",
+  "notes": "La page Enregistrement UAT tient désormais d'un seul coup d'œil : tout est visible sans faire défiler, même pendant une séance.",
+  "signature": "ffb14115d572538b99fdfc0e18f2e913b9d295d6ebb43dcd17965f248c1961e2df15d1c8592acd5f50c17b101b3311eba20f629c1cb12174facd46dc04342403"
 }
