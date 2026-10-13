@@ -1,8 +1,8 @@
 {
-  "version": "2.15.79",
+  "version": "2.15.80",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.79/telios-2.15.79.tar.gz",
-  "sha256": "c6afc8c5785b95771acb6342f52fcc29c3cf09171aeab93ffa4cb0454f1314f6",
-  "notes": "Une présentation plus claire : TELIOS vous explique simplement comment autoriser son client sur les téléphones récents.",
-  "signature": "725c6f39e341e854582582aeec9ba8ae58316cd64736f29b19cb09be599cf3119e82a599e256e9d9cfb17a3ee10af94f63e4de7db46ac67baa80a04b8f9d860c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.80/telios-2.15.80.tar.gz",
+  "sha256": "3537b46eb883531fa6a0e106180e64653040247d2a82637d16746dbfb9ff0458",
+  "notes": "Une page de présentation plus épurée : le parcours va droit à l'essentiel, de l'enregistrement à la gestion de vos collections de campagne.",
+  "signature": "87db313c5e8011300948b3e16e327faef810b3f1d3c4667ba0fce31bd08f6028fc72f7e22475bd1e68281691e26e3dee3ecd0cf4e16903e5750eeb6748762404"
 }
