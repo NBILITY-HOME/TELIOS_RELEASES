@@ -1,8 +1,8 @@
 {
-  "version": "2.15.83",
+  "version": "2.16.0",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.83/telios-2.15.83.tar.gz",
-  "sha256": "af8a92d68cc73602dfda1f33a0a800630b32d11d6a9fc03c88910904b029340c",
-  "notes": "L'emblème animé de TELIOS gagne en présence dans la barre latérale, pour une interface plus affirmée.",
-  "signature": "f52c9f41bc689854dcb8c782a9aefeaad316b4fd75e8d7a1763a21bc9d5b18c6abeb8169316ab8c78ebcc45888848fd14b252154b258f08355e6f65dff10d404"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.0/telios-2.16.0.tar.gz",
+  "sha256": "7cf5acec3d127f49f8a3897d05056492e5976b486a38aca7361c9711af5dd837",
+  "notes": "TELIOS 2.16 : l'espace Validation UAT franchit un cap — enregistrements plus fiables, mots de passe protégés et jamais affichés, bilan clair de chaque séance.",
+  "signature": "eee99359bce2f722fc90da436b28f50fdb53d5d0d0dc1d925cf5160d6b466e8622171a7e45e520bbe7b33e0fee54fd631aa5e48d7fc5efb56c23dde94933af04"
 }
