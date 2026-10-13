@@ -1,8 +1,8 @@
 {
-  "version": "2.15.72",
+  "version": "2.15.73",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.72/telios-2.15.72.tar.gz",
-  "sha256": "236806b198eb7c650d7a1520f19671abe23700bc31573f2d70e66ad8105d8311",
-  "notes": "Vos validations sont plus exigeantes : TELIOS ne confond plus jamais un message de réussite avec un message qui dit le contraire.",
-  "signature": "351a3b0b79c1074578c5e218eb6fec03c4de7cf54a902259f6ac9194b5bbf1679051419a5212e58b2fddf555152d2216b527daebeed2c4c7e6815cb63111640c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.73/telios-2.15.73.tar.gz",
+  "sha256": "0e3a0512278c576a056207b38c46a9a6e377debabab904aefc133b6951e43d0f",
+  "notes": "Enregistrer un parcours devient plus simple : servez-vous du téléphone, terminez sur l'écran de réussite, et TELIOS vous propose ce qu'il vérifiera, mots de passe compris, toujours chiffrés.",
+  "signature": "8aca049a2c6bb7a8eda251536403c0e5434a88b932f6d0f80cd13816168cf338cd941e5e15ecaf39b34bb4f5f841f429a5fb6495d27d9027b6dbb79083a37d00"
 }
