@@ -1,8 +1,8 @@
 {
-  "version": "2.16.0",
+  "version": "2.16.1",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.0/telios-2.16.0.tar.gz",
-  "sha256": "7cf5acec3d127f49f8a3897d05056492e5976b486a38aca7361c9711af5dd837",
-  "notes": "TELIOS 2.16 : l'espace Validation UAT franchit un cap — enregistrements plus fiables, mots de passe protégés et jamais affichés, bilan clair de chaque séance.",
-  "signature": "eee99359bce2f722fc90da436b28f50fdb53d5d0d0dc1d925cf5160d6b466e8622171a7e45e520bbe7b33e0fee54fd631aa5e48d7fc5efb56c23dde94933af04"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.1/telios-2.16.1.tar.gz",
+  "sha256": "f3994613dd3eaa701d20ac7e1dacd9dbf642400881504b15ba5efa94038178f3",
+  "notes": "Chaque validation reçoit désormais son propre numéro de vérification, daté et rattaché à son scénario : vos fiches se vérifient en ligne sans ambiguïté.",
+  "signature": "2248f4183764d682e03c89411c4d4b9d3dc671190797082b951726da90d69ff3ca90b2173b95179f23ab37efa56b7a926dfe1b0aecf138894e0b5e9482b6d108"
 }
