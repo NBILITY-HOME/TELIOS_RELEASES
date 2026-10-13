@@ -1,8 +1,8 @@
 {
-  "version": "2.15.77",
+  "version": "2.15.78",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.77/telios-2.15.77.tar.gz",
-  "sha256": "f5d4aeb39b3d0a0ddf1b9f53dfa0f0f8d3c88495937d69aa66492ea5634814d8",
-  "notes": "Gardez un œil sur vos parcours : la page d'enregistrement affiche désormais un bilan de vos enregistrements et les derniers en date.",
-  "signature": "e5f0ef2599c27543a5654ea7e2a57ace4e744cd266123d5e4ed4b53f8ff38f526fa9d46f12c7bd8eb4256404f54f20875225f4e7d4b37c483c935087d073480a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.78/telios-2.15.78.tar.gz",
+  "sha256": "4a932c8b5f8e36ebdabd5f65e06860777935bcd49228c18067d82d9605f97abc",
+  "notes": "Une séance encore plus guidée : choisissez l'appareil, puis lancez l'enregistrement d'un geste, chaque étape s'éclairant au bon moment.",
+  "signature": "9dc598df1adb12228a81da466336dd27ef8365bbe03dcabb8839bf99ec5b51446ba9873426eca0787eeb5c0bdd1533efca6c4d81902d7f5d77039de554b93105"
 }
