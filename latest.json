@@ -1,8 +1,8 @@
 {
-  "version": "2.15.78",
+  "version": "2.15.79",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.78/telios-2.15.78.tar.gz",
-  "sha256": "4a932c8b5f8e36ebdabd5f65e06860777935bcd49228c18067d82d9605f97abc",
-  "notes": "Une séance encore plus guidée : choisissez l'appareil, puis lancez l'enregistrement d'un geste, chaque étape s'éclairant au bon moment.",
-  "signature": "9dc598df1adb12228a81da466336dd27ef8365bbe03dcabb8839bf99ec5b51446ba9873426eca0787eeb5c0bdd1533efca6c4d81902d7f5d77039de554b93105"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.79/telios-2.15.79.tar.gz",
+  "sha256": "c6afc8c5785b95771acb6342f52fcc29c3cf09171aeab93ffa4cb0454f1314f6",
+  "notes": "Une présentation plus claire : TELIOS vous explique simplement comment autoriser son client sur les téléphones récents.",
+  "signature": "725c6f39e341e854582582aeec9ba8ae58316cd64736f29b19cb09be599cf3119e82a599e256e9d9cfb17a3ee10af94f63e4de7db46ac67baa80a04b8f9d860c"
 }
