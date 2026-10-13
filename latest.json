@@ -1,8 +1,8 @@
 {
-  "version": "2.16.1",
+  "version": "2.16.2",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.1/telios-2.16.1.tar.gz",
-  "sha256": "f3994613dd3eaa701d20ac7e1dacd9dbf642400881504b15ba5efa94038178f3",
-  "notes": "Chaque validation reçoit désormais son propre numéro de vérification, daté et rattaché à son scénario : vos fiches se vérifient en ligne sans ambiguïté.",
-  "signature": "2248f4183764d682e03c89411c4d4b9d3dc671190797082b951726da90d69ff3ca90b2173b95179f23ab37efa56b7a926dfe1b0aecf138894e0b5e9482b6d108"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.2/telios-2.16.2.tar.gz",
+  "sha256": "3dd1272f6334df3d0edbc4a926b8e65697dd6a0898c8391a34a0e7417737dcbf",
+  "notes": "Enregistrement UAT entièrement repensé : choisissez votre téléphone d'un clic, mettez son client à jour sur place et suivez chaque séance en direct, gestes et chronomètre sous les yeux.",
+  "signature": "de52191b976830c80019201f036956f3dfc4c36043ceadeabb5a4f59fabae6acb2dc2e81dbe7105bf9339fb15429458923460287423b4e0281a0d48bac631700"
 }
