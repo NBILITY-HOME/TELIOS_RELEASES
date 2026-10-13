@@ -1,8 +1,8 @@
 {
-  "version": "2.15.73",
+  "version": "2.15.74",
   "publie_le": "2026-10-13",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.73/telios-2.15.73.tar.gz",
-  "sha256": "0e3a0512278c576a056207b38c46a9a6e377debabab904aefc133b6951e43d0f",
-  "notes": "Enregistrer un parcours devient plus simple : servez-vous du téléphone, terminez sur l'écran de réussite, et TELIOS vous propose ce qu'il vérifiera, mots de passe compris, toujours chiffrés.",
-  "signature": "8aca049a2c6bb7a8eda251536403c0e5434a88b932f6d0f80cd13816168cf338cd941e5e15ecaf39b34bb4f5f841f429a5fb6495d27d9027b6dbb79083a37d00"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.15.74/telios-2.15.74.tar.gz",
+  "sha256": "d62ae007fe9b606f53ffcf32d651fab48b5afa40b8663e1812e3688c1c8f2c84",
+  "notes": "Les mots de passe rejoués sont désormais contrôlés : TELIOS vérifie que le bon code a bien été tapé, sans jamais l'afficher.",
+  "signature": "3d888f7850cb2f5de33c979d2fe1991441ac6e514d6ec2f4475d8d86bac711bea18b2d73c84b560ef1a75d5e3491340255b11d4f031785555736aa35b08cae04"
 }
