@@ -1,8 +1,8 @@
 {
-  "version": "2.16.6",
+  "version": "2.16.7",
   "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.6/telios-2.16.6.tar.gz",
-  "sha256": "aa7256b926ec6302c84981767a0da33b278107a88d94360ff637da0a0cdebd47",
-  "notes": "Validation UAT plus équilibrée : le rejeu en direct et ses boutons prennent leur juste place, pour une lecture plus nette d'un coup d'œil.",
-  "signature": "cc989f0d42bcb5ad3992b26dd4684065383bf8836fc3d31b3451a731cb71deaca1fc4f4aeb2f348dae5e48220b10304d601c50b3a2c9ba4b9591982215e0020a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.7/telios-2.16.7.tar.gz",
+  "sha256": "a01d145fe404c83fd35d4bc98f63207d2ab2451bd3b2f3bc4583f612cd207784",
+  "notes": "Vos réglages Wi-Fi, Bluetooth, luminosité, code et localisation apparaissent désormais réussis dans vos rapports dès que le téléphone les a confirmés.",
+  "signature": "4520bca5e35968cd62e74015478252fda04f86caada2d3f9d0d84f1e9e74dc62928423ad7f8f107dc3ed1517b15ff36f1de278bb749117fa17fe06626efe580f"
 }
