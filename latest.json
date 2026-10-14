@@ -1,8 +1,8 @@
 {
-  "version": "2.16.7",
+  "version": "2.16.8",
   "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.7/telios-2.16.7.tar.gz",
-  "sha256": "a01d145fe404c83fd35d4bc98f63207d2ab2451bd3b2f3bc4583f612cd207784",
-  "notes": "Vos réglages Wi-Fi, Bluetooth, luminosité, code et localisation apparaissent désormais réussis dans vos rapports dès que le téléphone les a confirmés.",
-  "signature": "4520bca5e35968cd62e74015478252fda04f86caada2d3f9d0d84f1e9e74dc62928423ad7f8f107dc3ed1517b15ff36f1de278bb749117fa17fe06626efe580f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.8/telios-2.16.8.tar.gz",
+  "sha256": "6a43f5cfde4dbe6406ca90fd91aaa46dd81847dba4a4b5b81a2f7b99918e4a45",
+  "notes": "Régler la luminosité à un niveau précis fonctionne désormais sur tous vos téléphones, même après une mise à jour d'Android.",
+  "signature": "474857437f0e53372e0e18dfa91dea000cca2074f31a65a8cece95d0cbfd501629e37d437e07f582f6924c8ec78ca3ba27554419fe147e13e0b3cc433967e90b"
 }
