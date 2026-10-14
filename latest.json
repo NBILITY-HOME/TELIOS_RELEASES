@@ -1,8 +1,8 @@
 {
-  "version": "2.16.12",
+  "version": "2.16.13",
   "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.12/telios-2.16.12.tar.gz",
-  "sha256": "a2b0d21cc042d174454d0d7affc89d26901a354a09656b58011b0765362564af",
-  "notes": "TELIOS connecte vos téléphones au Wi-Fi de l’entreprise de façon plus sûre, même sur un réseau lent à répondre.",
-  "signature": "91d2d4f7cf619f17358d03b9f12906e7879eb3c0d08cce4286bef8fa2ed4020bd8f91f8255ac4e5d1602568f9a61fc27dea5f99453630e1bfd3c4e5c29f04505"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.13/telios-2.16.13.tar.gz",
+  "sha256": "f20195c2a38c184172cebb2e090cb0f2548e3fbf16e4d17bb30718f8600559bd",
+  "notes": "TELIOS rejoue vos manipulations plus vite et plus sûrement, même sur les téléphones lents à réagir.",
+  "signature": "425f0b3ecd21b53ab02c4aefd74e2d21b103a0d749fe41d7e4d62f57ac9729bfdeb02436cd5e8362f8208f515132b0635317563be935f888da988e7a90837f08"
 }
