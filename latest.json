@@ -1,8 +1,8 @@
 {
-  "version": "2.16.9",
+  "version": "2.16.10",
   "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.9/telios-2.16.9.tar.gz",
-  "sha256": "a14fd0f361eba8e3dc93e8c23815f724b8b3dc4575c2b36b170be661216ed26c",
-  "notes": "La page Mises à jour fait peau neuve : suivez chaque étape d'une installation, de la signature vérifiée jusqu'au redémarrage, en toute transparence.",
-  "signature": "7ac584eb973f4c02b0c87ed3fc312ea74921429a16868ab42a31b49ef55b135d8934e5ddbc6490a07a0c658deecd60a814199c370fddb1a23e1778f70746cb00"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.10/telios-2.16.10.tar.gz",
+  "sha256": "474c92e48aad71abdf96df7066fa4b4791c859967b099023d93dba462282c093",
+  "notes": "TELIOS connecte désormais vos téléphones au Wi-Fi de l'entreprise même quand Android le refusait à l'outil : une fenêtre officielle, validée pour vous, et vérifiée.",
+  "signature": "aef6a1c9dae0823423914c58e8dd5f82134324d5ff93ec6de14c09d46d49f210dd0370befbf31df0e1f5bb606abbf91d26be6323ba49e7fc1911d2bab292a10b"
 }
