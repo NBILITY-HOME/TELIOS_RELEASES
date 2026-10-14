@@ -1,8 +1,8 @@
 {
-  "version": "2.16.13",
-  "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.13/telios-2.16.13.tar.gz",
-  "sha256": "f20195c2a38c184172cebb2e090cb0f2548e3fbf16e4d17bb30718f8600559bd",
-  "notes": "TELIOS rejoue vos manipulations plus vite et plus sûrement, même sur les téléphones lents à réagir.",
-  "signature": "425f0b3ecd21b53ab02c4aefd74e2d21b103a0d749fe41d7e4d62f57ac9729bfdeb02436cd5e8362f8208f515132b0635317563be935f888da988e7a90837f08"
+  "version": "2.16.14",
+  "publie_le": "2026-10-15",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.14/telios-2.16.14.tar.gz",
+  "sha256": "7f250fb25183a0773115168af17cd41eb00fed377851f858220925de7649ceab",
+  "notes": "Vos personnalisations se rejouent plus vite et tapent enfin accents et émojis ; TELIOS vérifie chaque bouton au moment même de le toucher.",
+  "signature": "36f3723ec89a6ab9ec389c263dce79983e953e0fe4e3d004245015142f42aeb18d7b8143482d88c22c3ffef684517ba40ae244ad6fdadefea51c7b283920350e"
 }
