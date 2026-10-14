@@ -1,8 +1,8 @@
 {
-  "version": "2.16.11",
+  "version": "2.16.12",
   "publie_le": "2026-10-14",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.11/telios-2.16.11.tar.gz",
-  "sha256": "11773ec1d053d29b9a9488d7a20566129fda5abcbffe0537cd1325320cbfdd46",
-  "notes": "TELIOS rejoue vos manipulations bien plus vite : le téléphone lit lui-même son écran, sans jamais exposer un mot de passe.",
-  "signature": "0dcdf6fc9ecab8f3f7c9b0051bd45cad338bb1b51c23f41c682f0ded2c8a45f62e7342fa4b4225e8a1963756701f1daff5259633007e1f11ec82d5e1a1fe620b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.12/telios-2.16.12.tar.gz",
+  "sha256": "a2b0d21cc042d174454d0d7affc89d26901a354a09656b58011b0765362564af",
+  "notes": "TELIOS connecte vos téléphones au Wi-Fi de l’entreprise de façon plus sûre, même sur un réseau lent à répondre.",
+  "signature": "91d2d4f7cf619f17358d03b9f12906e7879eb3c0d08cce4286bef8fa2ed4020bd8f91f8255ac4e5d1602568f9a61fc27dea5f99453630e1bfd3c4e5c29f04505"
 }
