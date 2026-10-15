@@ -1,8 +1,8 @@
 {
-  "version": "2.16.14",
+  "version": "2.16.15",
   "publie_le": "2026-10-15",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.14/telios-2.16.14.tar.gz",
-  "sha256": "7f250fb25183a0773115168af17cd41eb00fed377851f858220925de7649ceab",
-  "notes": "Vos personnalisations se rejouent plus vite et tapent enfin accents et émojis ; TELIOS vérifie chaque bouton au moment même de le toucher.",
-  "signature": "36f3723ec89a6ab9ec389c263dce79983e953e0fe4e3d004245015142f42aeb18d7b8143482d88c22c3ffef684517ba40ae244ad6fdadefea51c7b283920350e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.15/telios-2.16.15.tar.gz",
+  "sha256": "45020414752dd762240b7008e4017d0ad26cded58ab72d28556d6756c638b75a",
+  "notes": "Vos personnalisations remplissent les formulaires du premier coup, même quand le clavier fait bouger l'écran.",
+  "signature": "4e9dfef293e8f61b966abb07f8d88c4a365de200919ede9667a0d44d21ac6ccde23f9a8a501baf30480b2f4608ed6e776f64f21256322bee000640a1b1ef9606"
 }
