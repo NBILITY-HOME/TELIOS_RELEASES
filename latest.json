@@ -1,8 +1,8 @@
 {
-  "version": "2.16.18",
-  "publie_le": "2026-10-15",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.18/telios-2.16.18.tar.gz",
-  "sha256": "c8370d273be62a30b25b329be0623b07d70ec48b8c5a481ebba9cecc1c38c46d",
-  "notes": "Vos formulaires se remplissent du premier coup, même dans les fenêtres qui s'ouvrent en s'animant.",
-  "signature": "5d0027790702879bb2098605c0b116df323f1e7afe09dced6b3e7a9955ad595a3cdf543911ce10a66a9196930e529d32160bb1d13f5e3331c9e92708935ba003"
+  "version": "2.16.19",
+  "publie_le": "2026-10-16",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.19/telios-2.16.19.tar.gz",
+  "sha256": "e9a3ee463d4950b6fd305e9b0cc2edf472a6f5a7086be00b10e328393349f9d6",
+  "notes": "Des notifications plus claires : elles s'affichent sous les onglets, en couleur selon qu'il s'agit d'une information, d'une réussite ou d'une alerte, et ne s'attardent plus.",
+  "signature": "89fe2d81dc2fddf922942745d6f304ba89640e36c2f2fc68f54625a4072a921a582b9ec6524da88cf5b0a904ca071105e3d44bb5eca8067b88598acea8cdd60f"
 }
