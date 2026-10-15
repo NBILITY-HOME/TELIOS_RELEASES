@@ -1,8 +1,8 @@
 {
-  "version": "2.16.19",
+  "version": "2.16.20",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.19/telios-2.16.19.tar.gz",
-  "sha256": "e9a3ee463d4950b6fd305e9b0cc2edf472a6f5a7086be00b10e328393349f9d6",
-  "notes": "Des notifications plus claires : elles s'affichent sous les onglets, en couleur selon qu'il s'agit d'une information, d'une réussite ou d'une alerte, et ne s'attardent plus.",
-  "signature": "89fe2d81dc2fddf922942745d6f304ba89640e36c2f2fc68f54625a4072a921a582b9ec6524da88cf5b0a904ca071105e3d44bb5eca8067b88598acea8cdd60f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.20/telios-2.16.20.tar.gz",
+  "sha256": "14fa5a3f983aa7b0a6daa191b5610a277690f4918484b1a37fcb2a03f0715b8a",
+  "notes": "Vos téléphones rejoignent le Wi-Fi du premier coup, même juste après l'avoir rallumé.",
+  "signature": "f7dd9d0471e96291d82ef739db569724e3ea2f4a2f58e1aadac21e44314d49e7baef52424b16bc7e5c3b1b14aa4e3a16ab227abad234561009db8e574f8f880f"
 }
