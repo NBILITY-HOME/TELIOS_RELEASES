@@ -1,8 +1,8 @@
 {
-  "version": "2.16.15",
+  "version": "2.16.16",
   "publie_le": "2026-10-15",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.15/telios-2.16.15.tar.gz",
-  "sha256": "45020414752dd762240b7008e4017d0ad26cded58ab72d28556d6756c638b75a",
-  "notes": "Vos personnalisations remplissent les formulaires du premier coup, même quand le clavier fait bouger l'écran.",
-  "signature": "4e9dfef293e8f61b966abb07f8d88c4a365de200919ede9667a0d44d21ac6ccde23f9a8a501baf30480b2f4608ed6e776f64f21256322bee000640a1b1ef9606"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.16/telios-2.16.16.tar.gz",
+  "sha256": "9b0dbdd2db3043b650c80784790d1074c730fb50fa7dc89a95b3d083fcbc5d46",
+  "notes": "Toutes vos manipulations se rejouent désormais jusqu'à trois fois plus vite, du composeur aux campagnes de validation.",
+  "signature": "bd02dc60b8f8cd4dc3e8144b32ab772c6d6aafd4042136ce63f9a49b43e44b27efdfadbf51695d1b0b34429ad86b1fd0ca81085b9d14326d48bdf651bb841a09"
 }
