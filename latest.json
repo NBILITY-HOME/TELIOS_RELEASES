@@ -1,8 +1,8 @@
 {
-  "version": "2.16.16",
+  "version": "2.16.17",
   "publie_le": "2026-10-15",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.16/telios-2.16.16.tar.gz",
-  "sha256": "9b0dbdd2db3043b650c80784790d1074c730fb50fa7dc89a95b3d083fcbc5d46",
-  "notes": "Toutes vos manipulations se rejouent désormais jusqu'à trois fois plus vite, du composeur aux campagnes de validation.",
-  "signature": "bd02dc60b8f8cd4dc3e8144b32ab772c6d6aafd4042136ce63f9a49b43e44b27efdfadbf51695d1b0b34429ad86b1fd0ca81085b9d14326d48bdf651bb841a09"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.17/telios-2.16.17.tar.gz",
+  "sha256": "49c8b2bd559976208a924e9c546fd984655bb83e23655619aea3d4d1572c2a70",
+  "notes": "Vos manipulations passent du premier coup, même quand une fenêtre s'ouvre en s'animant.",
+  "signature": "46fd0e02e25843b3eddff22b2155418bb471c10e526224a04d0c8138a215217ac41d170dac632f8500baced5412c38fb2f5263312a9b4592a0185361dd2bc00b"
 }
