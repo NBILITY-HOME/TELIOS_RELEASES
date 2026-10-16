@@ -1,8 +1,8 @@
 {
-  "version": "2.16.30",
+  "version": "2.16.31",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.30/telios-2.16.30.tar.gz",
-  "sha256": "e3a08d731e548131dacec1a14d41eb47f415b9292dfec3037ce9c7f708a50bb8",
-  "notes": "Un détail d'application plus harmonieux : des actions bien réparties et des informations qui respirent.",
-  "signature": "2eb94632459a283b14dd6c6796e1f2e28496db30817d67e7c635e7a65684761d7d63ad255b501bd7e9c864965b126d05d7d6ad4276a86ad59d2d514e799aac0c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.31/telios-2.16.31.tar.gz",
+  "sha256": "b6cc819ed12f48985c42a61ae0406c05b69c5675be6959405f0aab9b7180b8a4",
+  "notes": "L'aide sur les états Android se repère d'un coup d'œil dans le détail d'une application.",
+  "signature": "c865f486e26dbd43755d404f49b275ae54bd375ca5590fd2f5e8b3da88c4b70bc036a0328cb87e7bf84c806efc173cc391ff8e66233164af9df8e7d23b355e06"
 }
