@@ -1,8 +1,8 @@
 {
-  "version": "2.16.27",
+  "version": "2.16.28",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.27/telios-2.16.27.tar.gz",
-  "sha256": "c853c64c6e5425ada92eb97ea4147e115b45e3751399af7010559871e5b7cdb4",
-  "notes": "La carte du téléphone adopte le même smartphone dessiné que le Banc UAT : elle s'illumine quand l'analyse est prête et s'anime pendant l'inventaire.",
-  "signature": "452d4ec4e7c5b0835283b834fc9ae4b77ff586409acc60eb19e6f9d57274253033ba38f2117967c8988c15bdfb64de769e60d55aabd26720c32869bf9e7b800b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.28/telios-2.16.28.tar.gz",
+  "sha256": "89a2e85f9e50d5e8330284dcc052d67246a6a0655aa4686d4c9d07ee4dfa180f",
+  "notes": "Un détail d'application mieux équilibré : les informations clés bien placées à côté du cadran de risque, et des actions nommées en toutes lettres.",
+  "signature": "63870f27cc3abe88d8a303cda52a58918bcc3182f2b5d4c24454826b074e885f3923f1ab4129f08f21227acd9f9961b0a75938d1ed41043e99ba0d06040f9e07"
 }
