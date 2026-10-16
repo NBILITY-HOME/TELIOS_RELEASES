@@ -1,8 +1,8 @@
 {
-  "version": "2.17.2",
+  "version": "2.17.3",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.2/telios-2.17.2.tar.gz",
-  "sha256": "e8f99a8d1669fa239c1d8e2b3b74d2222bae63350676d8575eed6f7439a15034",
-  "notes": "Filtrez les applications par niveau de risque et exportez votre sélection en PDF : l'audit porte son QR code, vérifiable en un instant sur telios.nbility.fr.",
-  "signature": "ac6020a38fa27c6137698c1284d9ebbc41b4e894e619e6f46c7f147bf50bf88ddef8b23c6f24deff2d1699b1f8e2561e8cc82b31a526b351b0997f0c7bde2607"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.3/telios-2.17.3.tar.gz",
+  "sha256": "4aa89803e8c1b7948192f9f2f3df06f4df6fddd7ea506505b153cf24cfd55257",
+  "notes": "Export EMM va droit au but : choisissez une blacklist, elle part entière vers Workspace ONE ou Intune. Et dans Smartphone, les filtres de niveau rejoignent le titre, et le clic droit se signale de lui-même.",
+  "signature": "c2407289c061713eb32016a4c1e7c18194dacaa91c8de8059a6f0de5dcae2498dc97381c58cd7cf71328d6d0ee62b28454fa7b2157ee74e18cd4d4d91d9f100a"
 }
