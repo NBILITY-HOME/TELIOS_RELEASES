@@ -1,8 +1,8 @@
 {
-  "version": "2.16.22",
+  "version": "2.16.23",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.22/telios-2.16.22.tar.gz",
-  "sha256": "1006472c1c348e3098eb09752ba80ec2bacd817930a5d97eee86755797c25fec",
-  "notes": "Retrouvez toutes vos fiches d'analyse dans le nouvel Historique APK : sceau vérifié à l'ouverture, numéro de vérification à portée de clic, comparaison entre deux versions.",
-  "signature": "291490ac643aaa25f7b12e325b383562db6be9ff81b5fa4c343a2c0380fd0a484e942961991f9dbef923d3cf46244f32f3ca8a6a3ccebb85b48850ba59e2f90f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.23/telios-2.16.23.tar.gz",
+  "sha256": "306cb08bb66f12a900eb922e4793907de3fe158207f573bdf40636dfcad46ed1",
+  "notes": "Un tableau de bord d'analyse plus clair : l'état du téléphone d'un coup d'œil, la progression en direct et le niveau d'intrusion de chaque application sur une jauge.",
+  "signature": "71b54243d670681ae5274449e3d3bd1d88f84a16f6684b1ac6b7569ffd94185c123d5a8b94a9abe61c1a6804c5915f6d36158fbaebc176a556d2973ed9969a00"
 }
