@@ -1,8 +1,8 @@
 {
-  "version": "2.16.24",
+  "version": "2.16.25",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.24/telios-2.16.24.tar.gz",
-  "sha256": "a36ef26ffeb47d7ba32c20c3a7e99cb3d664f934f11f29ed211bf171a032c123",
-  "notes": "Analyse des pisteurs fiable avec plusieurs téléphones branchés : chaque action — pisteurs, téléchargement de l'APK, fiche — s'adresse au téléphone que vous avez analysé, et tout incident s'affiche aussitôt à l'écran.",
-  "signature": "99572251d90439355f43cc77ea7eab6748cb9be1c028f865b4c1ec27d5a889bdcdb4b18fa45e2d198762d83ae1937bcad2c2a3816c0701807d0626e82242da05"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.25/telios-2.16.25.tar.gz",
+  "sha256": "92f4b58656583909d0187611dee7bdc0100d86abc6c4e069f4fdf3b27c93a128",
+  "notes": "Une page Analyse App plus épurée : le téléphone choisi et le bouton pour le libérer sont réunis dans une seule carte.",
+  "signature": "1994af158fb6465c60b410a1046e2069ffe3c19c9ddceac77adfeb1a3fd022417f5f93714a39a3315c7f9080b9c90f7325b17c81949ef9121f4c94bf11226503"
 }
