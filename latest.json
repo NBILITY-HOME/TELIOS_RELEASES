@@ -1,8 +1,8 @@
 {
-  "version": "2.16.26",
+  "version": "2.16.27",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.26/telios-2.16.26.tar.gz",
-  "sha256": "2b0e30c7cb4b6da42ec94d744734e130b8a910db16076e690977356ff9bbca29",
-  "notes": "Un détail d'application plus clair : un cadran de risque gradué aux vrais seuils, l'analyse des pisteurs suivie en direct dans la carte et ce qui a changé depuis la dernière analyse.",
-  "signature": "9dc0ab8f44ea4528dad205b5c42ea8915f55f13fda054467da92ac9b1e25409f854968eaf171d0d21fa44e744687c73e4d8f56a18484100baa3296286a18890d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.27/telios-2.16.27.tar.gz",
+  "sha256": "c853c64c6e5425ada92eb97ea4147e115b45e3751399af7010559871e5b7cdb4",
+  "notes": "La carte du téléphone adopte le même smartphone dessiné que le Banc UAT : elle s'illumine quand l'analyse est prête et s'anime pendant l'inventaire.",
+  "signature": "452d4ec4e7c5b0835283b834fc9ae4b77ff586409acc60eb19e6f9d57274253033ba38f2117967c8988c15bdfb64de769e60d55aabd26720c32869bf9e7b800b"
 }
