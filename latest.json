@@ -1,8 +1,8 @@
 {
-  "version": "2.16.28",
+  "version": "2.16.29",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.28/telios-2.16.28.tar.gz",
-  "sha256": "89a2e85f9e50d5e8330284dcc052d67246a6a0655aa4686d4c9d07ee4dfa180f",
-  "notes": "Un détail d'application mieux équilibré : les informations clés bien placées à côté du cadran de risque, et des actions nommées en toutes lettres.",
-  "signature": "63870f27cc3abe88d8a303cda52a58918bcc3182f2b5d4c24454826b074e885f3923f1ab4129f08f21227acd9f9961b0a75938d1ed41043e99ba0d06040f9e07"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.29/telios-2.16.29.tar.gz",
+  "sha256": "adcdb62188c1c01d5672c0c1714ce32c3ae2a372bd2443f1e9559aa53efbb2b0",
+  "notes": "La page Analyse App s'adapte à la taille de votre écran : la liste des applications et leur détail se partagent la largeur à parts égales.",
+  "signature": "e81b80a851b089288f1de9c6d51de0e3ff6dc29c4018846376080c371e1ae990f3cb5a0209e41f09a14da7fc9dbc81112233b063064ab0932b34a67ff257b604"
 }
