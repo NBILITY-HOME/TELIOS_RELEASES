@@ -1,8 +1,8 @@
 {
-  "version": "2.17.9",
-  "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.9/telios-2.17.9.tar.gz",
-  "sha256": "06844281a7a7bf2f6d578c3078c2e18129a37508d5b13c3b24d5042e38ff6188",
-  "notes": "L’enregistrement UAT gagne en élégance : votre téléphone s’affiche dans une tuile à sa juste taille, même quand il est seul branché.",
-  "signature": "fb71b309a56ad84e57798ef8e598d30e76fd0c40f56ffc8d60aa4af26872ebd628db220d5196c807788f92e52f9b28df1fd27d5e43cd058b6e24f9097e8ed102"
+  "version": "2.17.10",
+  "publie_le": "2026-10-17",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.10/telios-2.17.10.tar.gz",
+  "sha256": "a86246d2518da6053579e6b06be30499599d1479d0eaf10b05fafcae379856c9",
+  "notes": "Vos scénarios ont désormais leur bibliothèque : des cartes claires, une recherche, des filtres, et chaque scénario se relit, se duplique, s’édite ou se déploie en un clic.",
+  "signature": "2d785093e553cb74f44cd8240dd82279a0d4298aa060681d2ea5ef9be5bc7eb45afc9a8ff4f315862e6c9013440b869050fe15a76a4e9a2bd405f4eb3e0d530d"
 }
