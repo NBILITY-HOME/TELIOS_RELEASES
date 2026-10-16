@@ -1,8 +1,8 @@
 {
-  "version": "2.17.4",
+  "version": "2.17.5",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.4/telios-2.17.4.tar.gz",
-  "sha256": "03a3979f0f62e3b2914306d6be9d45c5a60bbf6e66283584967c061e9ac70752",
-  "notes": "Ajouter une application à une blacklist devient un jeu d’enfant : une fenêtre claire montre le risque, les listes du client en cartes, et l’endroit exact où l’application va se ranger avant de valider.",
-  "signature": "12b1698b1297ec490d364c8daa53b63c22c8a010efaafa0d154767afee19a6978be354ad8cad8d783a32b93dfc4fa14a22eea9625cbb54f1b0daebf8e1860f01"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.5/telios-2.17.5.tar.gz",
+  "sha256": "6f4d1fad945652efd6d34ecc2fc34a43287dae5d78caec6808ca4a2923f65bb9",
+  "notes": "Export EMM fait peau neuve : une page claire qui tient d’un coup d’œil, une console à la fois, des fichiers au nom de chaque client et vos derniers exports à portée de clic.",
+  "signature": "7d384d81d10620487f542e74fda047bb77b5287c2918103080a01d2a762954234726839b624f3d89b3723e28d8840edee40d9ceed76762c6be0e1b3e66eea303"
 }
