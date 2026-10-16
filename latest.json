@@ -1,8 +1,8 @@
 {
-  "version": "2.16.20",
+  "version": "2.16.21",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.20/telios-2.16.20.tar.gz",
-  "sha256": "14fa5a3f983aa7b0a6daa191b5610a277690f4918484b1a37fcb2a03f0715b8a",
-  "notes": "Vos téléphones rejoignent le Wi-Fi du premier coup, même juste après l'avoir rallumé.",
-  "signature": "f7dd9d0471e96291d82ef739db569724e3ea2f4a2f58e1aadac21e44314d49e7baef52424b16bc7e5c3b1b14aa4e3a16ab227abad234561009db8e574f8f880f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.21/telios-2.16.21.tar.gz",
+  "sha256": "9dd1376a21704345fbf4f6a554fe09a2e6725347e29a544f47f3ca9ff43a588f",
+  "notes": "Une navigation plus claire : chaque menu de TELIOS affiche ses icônes en tuiles, et la page ouverte se repère d'un coup d'œil.",
+  "signature": "b3a24a70a007505e26acf8cf21ae06c0482c382b574ef992541b5f232bb5a4f0839191a592f92e05253671927818523c0a8e24f0a0fc18c445763edac0ddb500"
 }
