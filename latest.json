@@ -1,8 +1,8 @@
 {
-  "version": "2.17.3",
+  "version": "2.17.4",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.3/telios-2.17.3.tar.gz",
-  "sha256": "4aa89803e8c1b7948192f9f2f3df06f4df6fddd7ea506505b153cf24cfd55257",
-  "notes": "Export EMM va droit au but : choisissez une blacklist, elle part entière vers Workspace ONE ou Intune. Et dans Smartphone, les filtres de niveau rejoignent le titre, et le clic droit se signale de lui-même.",
-  "signature": "c2407289c061713eb32016a4c1e7c18194dacaa91c8de8059a6f0de5dcae2498dc97381c58cd7cf71328d6d0ee62b28454fa7b2157ee74e18cd4d4d91d9f100a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.4/telios-2.17.4.tar.gz",
+  "sha256": "03a3979f0f62e3b2914306d6be9d45c5a60bbf6e66283584967c061e9ac70752",
+  "notes": "Ajouter une application à une blacklist devient un jeu d’enfant : une fenêtre claire montre le risque, les listes du client en cartes, et l’endroit exact où l’application va se ranger avant de valider.",
+  "signature": "12b1698b1297ec490d364c8daa53b63c22c8a010efaafa0d154767afee19a6978be354ad8cad8d783a32b93dfc4fa14a22eea9625cbb54f1b0daebf8e1860f01"
 }
