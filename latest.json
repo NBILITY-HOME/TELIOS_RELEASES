@@ -1,8 +1,8 @@
 {
-  "version": "2.17.0",
+  "version": "2.17.1",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.0/telios-2.17.0.tar.gz",
-  "sha256": "ccd9bb697744c718874334fbe0dbc6de1de58ce02811d5145b4049d700e4a78e",
-  "notes": "Vos blacklists prennent vie dans Analyse App : un clic droit sur une application l'ajoute à la blacklist d'un client, chaque version reste retrouvable, et l'export vers Workspace ONE ou Intune se fait en trois étapes.",
-  "signature": "6eb4a42eed575eac1adbd78d26ef43f6d5f3c0272714b2660e9a54d7218e7781f9c674d2219836fe62c14a9de593c1f31cefb3a6e811174ba65989ae32df9b04"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.1/telios-2.17.1.tar.gz",
+  "sha256": "0fbefa301aa2aacd3c3f9dab553794541b7aa012ebbe6d51731a8b52377e1aea",
+  "notes": "Une liste d'applications plus soignée : chaque ligne respire, l'icône bien détachée du bord.",
+  "signature": "3b90e843e07fbdea8bdf49b50eca63658146e28a58e2455a450b461ece5b7f0e7ec7a3b80b9b236c45a44a180a8aa30116093e1bcd8db41b57436bb0e5c4c60e"
 }
