@@ -1,8 +1,8 @@
 {
-  "version": "2.16.25",
+  "version": "2.16.26",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.25/telios-2.16.25.tar.gz",
-  "sha256": "92f4b58656583909d0187611dee7bdc0100d86abc6c4e069f4fdf3b27c93a128",
-  "notes": "Une page Analyse App plus épurée : le téléphone choisi et le bouton pour le libérer sont réunis dans une seule carte.",
-  "signature": "1994af158fb6465c60b410a1046e2069ffe3c19c9ddceac77adfeb1a3fd022417f5f93714a39a3315c7f9080b9c90f7325b17c81949ef9121f4c94bf11226503"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.26/telios-2.16.26.tar.gz",
+  "sha256": "2b0e30c7cb4b6da42ec94d744734e130b8a910db16076e690977356ff9bbca29",
+  "notes": "Un détail d'application plus clair : un cadran de risque gradué aux vrais seuils, l'analyse des pisteurs suivie en direct dans la carte et ce qui a changé depuis la dernière analyse.",
+  "signature": "9dc0ab8f44ea4528dad205b5c42ea8915f55f13fda054467da92ac9b1e25409f854968eaf171d0d21fa44e744687c73e4d8f56a18484100baa3296286a18890d"
 }
