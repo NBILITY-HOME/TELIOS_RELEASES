@@ -1,8 +1,8 @@
 {
-  "version": "2.17.7",
+  "version": "2.17.8",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.7/telios-2.17.7.tar.gz",
-  "sha256": "cf16344ef829de2ab243328817b1e554bd4a85e05d248e079725143ce821a91d",
-  "notes": "Créer une blacklist devient un plaisir : une fenêtre soignée, un champ clair qui vérifie le nom en direct et vous évite les doublons, puis votre application rangée dedans d’un clic.",
-  "signature": "e36bb43d8013ba6306ecff3b840ffec323552f208bd8d03f1758d7068e4844d8f077a0f57cb6a2174b8f50a3c429f6ad7fada1da8a94e6144f064e79a13ab806"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.8/telios-2.17.8.tar.gz",
+  "sha256": "4cf3f83b96a1a018cf9be2fff7d75540cfc32b321a02aa9f2825770ecc55f51d",
+  "notes": "La page À propos fait peau neuve : tout ce que TELIOS sait faire aujourd’hui, et en toute transparence ce qui reste sur votre poste et ce que vérifie notre serveur.",
+  "signature": "9dba8a46603e4bd2d0d25cf54e49d97d184e88ae5f38d223eda6538b129da763b23e8add5e804b3758a940948ff52787788a4015b140bfb0b6b965eb5f308700"
 }
