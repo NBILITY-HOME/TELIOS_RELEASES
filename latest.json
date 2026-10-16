@@ -1,8 +1,8 @@
 {
-  "version": "2.17.1",
+  "version": "2.17.2",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.1/telios-2.17.1.tar.gz",
-  "sha256": "0fbefa301aa2aacd3c3f9dab553794541b7aa012ebbe6d51731a8b52377e1aea",
-  "notes": "Une liste d'applications plus soignée : chaque ligne respire, l'icône bien détachée du bord.",
-  "signature": "3b90e843e07fbdea8bdf49b50eca63658146e28a58e2455a450b461ece5b7f0e7ec7a3b80b9b236c45a44a180a8aa30116093e1bcd8db41b57436bb0e5c4c60e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.2/telios-2.17.2.tar.gz",
+  "sha256": "e8f99a8d1669fa239c1d8e2b3b74d2222bae63350676d8575eed6f7439a15034",
+  "notes": "Filtrez les applications par niveau de risque et exportez votre sélection en PDF : l'audit porte son QR code, vérifiable en un instant sur telios.nbility.fr.",
+  "signature": "ac6020a38fa27c6137698c1284d9ebbc41b4e894e619e6f46c7f147bf50bf88ddef8b23c6f24deff2d1699b1f8e2561e8cc82b31a526b351b0997f0c7bde2607"
 }
