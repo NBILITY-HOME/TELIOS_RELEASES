@@ -1,8 +1,8 @@
 {
-  "version": "2.17.10",
+  "version": "2.17.11",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.10/telios-2.17.10.tar.gz",
-  "sha256": "a86246d2518da6053579e6b06be30499599d1479d0eaf10b05fafcae379856c9",
-  "notes": "Vos scénarios ont désormais leur bibliothèque : des cartes claires, une recherche, des filtres, et chaque scénario se relit, se duplique, s’édite ou se déploie en un clic.",
-  "signature": "2d785093e553cb74f44cd8240dd82279a0d4298aa060681d2ea5ef9be5bc7eb45afc9a8ff4f315862e6c9013440b869050fe15a76a4e9a2bd405f4eb3e0d530d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.11/telios-2.17.11.tar.gz",
+  "sha256": "850dcee7e4f4b7086156b8cd767365888d619bdc528387927a7e1f3caf254cb3",
+  "notes": "Validation UAT reste nette : un enregistrement supprimé disparaît aussitôt de la page, nom compris, pour ne rejouer que ce qui existe vraiment.",
+  "signature": "7b6d12b3a338d75ca1f6f6399e277466a91a43fb0a2f47238b8225f3b9b7113eac7f2a4a313eeed678d5e08a21166805c42d7de1563f762ff931a8cbbca07904"
 }
