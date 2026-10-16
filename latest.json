@@ -1,8 +1,8 @@
 {
-  "version": "2.16.21",
+  "version": "2.16.22",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.21/telios-2.16.21.tar.gz",
-  "sha256": "9dd1376a21704345fbf4f6a554fe09a2e6725347e29a544f47f3ca9ff43a588f",
-  "notes": "Une navigation plus claire : chaque menu de TELIOS affiche ses icônes en tuiles, et la page ouverte se repère d'un coup d'œil.",
-  "signature": "b3a24a70a007505e26acf8cf21ae06c0482c382b574ef992541b5f232bb5a4f0839191a592f92e05253671927818523c0a8e24f0a0fc18c445763edac0ddb500"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.22/telios-2.16.22.tar.gz",
+  "sha256": "1006472c1c348e3098eb09752ba80ec2bacd817930a5d97eee86755797c25fec",
+  "notes": "Retrouvez toutes vos fiches d'analyse dans le nouvel Historique APK : sceau vérifié à l'ouverture, numéro de vérification à portée de clic, comparaison entre deux versions.",
+  "signature": "291490ac643aaa25f7b12e325b383562db6be9ff81b5fa4c343a2c0380fd0a484e942961991f9dbef923d3cf46244f32f3ca8a6a3ccebb85b48850ba59e2f90f"
 }
