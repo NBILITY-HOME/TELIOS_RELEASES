@@ -1,8 +1,8 @@
 {
-  "version": "2.16.31",
+  "version": "2.17.0",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.16.31/telios-2.16.31.tar.gz",
-  "sha256": "b6cc819ed12f48985c42a61ae0406c05b69c5675be6959405f0aab9b7180b8a4",
-  "notes": "L'aide sur les états Android se repère d'un coup d'œil dans le détail d'une application.",
-  "signature": "c865f486e26dbd43755d404f49b275ae54bd375ca5590fd2f5e8b3da88c4b70bc036a0328cb87e7bf84c806efc173cc391ff8e66233164af9df8e7d23b355e06"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.0/telios-2.17.0.tar.gz",
+  "sha256": "ccd9bb697744c718874334fbe0dbc6de1de58ce02811d5145b4049d700e4a78e",
+  "notes": "Vos blacklists prennent vie dans Analyse App : un clic droit sur une application l'ajoute à la blacklist d'un client, chaque version reste retrouvable, et l'export vers Workspace ONE ou Intune se fait en trois étapes.",
+  "signature": "6eb4a42eed575eac1adbd78d26ef43f6d5f3c0272714b2660e9a54d7218e7781f9c674d2219836fe62c14a9de593c1f31cefb3a6e811174ba65989ae32df9b04"
 }
