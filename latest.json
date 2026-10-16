@@ -1,8 +1,8 @@
 {
-  "version": "2.17.6",
+  "version": "2.17.7",
   "publie_le": "2026-10-16",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.6/telios-2.17.6.tar.gz",
-  "sha256": "893b23c32d5851135040a2a1314ca96e81cb786339de569084bab2e19e50d189",
-  "notes": "Vos blacklists se pilotent d’un regard : applications et versions côte à côte, une recherche qui filtre par téléphone, et chaque version qui montre ce qu’elle changerait avant de la restaurer.",
-  "signature": "aa6922502b057168a7806226544688333fa306a45e5f4773b154aa7cb5a889cc74eef93f0d56ea40a22dbd9e26ec9cdcffbda3980f6bad9a5369277cb3e3f809"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.7/telios-2.17.7.tar.gz",
+  "sha256": "cf16344ef829de2ab243328817b1e554bd4a85e05d248e079725143ce821a91d",
+  "notes": "Créer une blacklist devient un plaisir : une fenêtre soignée, un champ clair qui vérifie le nom en direct et vous évite les doublons, puis votre application rangée dedans d’un clic.",
+  "signature": "e36bb43d8013ba6306ecff3b840ffec323552f208bd8d03f1758d7068e4844d8f077a0f57cb6a2174b8f50a3c429f6ad7fada1da8a94e6144f064e79a13ab806"
 }
