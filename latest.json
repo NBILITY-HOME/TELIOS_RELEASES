@@ -1,8 +1,8 @@
 {
-  "version": "2.17.21",
+  "version": "2.17.22",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.21/telios-2.17.21.tar.gz",
-  "sha256": "ba965cd88ecf736f69455039b29230d738359463f2146bd2a6e75c1353394155",
-  "notes": "Vos enregistrements UAT sont plus fidèles : le bouton Retour d’Android 16 se rejoue, une recherche tapée retrouve le bon résultat, et les rapports nomment chaque geste comme vous l’avez vu à l’écran.",
-  "signature": "b5e4aebbc86a98cacf881151dd8235cd79e7e40c2ac2e278ec62d804303956b435d83b7d0e143244baaa996530da53567d5f60027f80ffe6a95d0bdaa60fba05"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.22/telios-2.17.22.tar.gz",
+  "sha256": "9e77f0fa9c19bbec04e3d1c6e141d645df2bf7a1e5e2b029f845ca85a9a1f2a3",
+  "notes": "TELIOS enregistre maintenant aussi les boutons protégés et les champs des applications modernes, comme Contacts : vos manipulations se rejouent sans retouche.",
+  "signature": "b6a4dcc0ac8100aa7e02c095b4ab43c4dbd5444e8101276293ee40d02d7ea839a27fcbfdc0b87f34d302280f3bdfcc37ffa3c7d2aac7b387596b1a5472390d06"
 }
