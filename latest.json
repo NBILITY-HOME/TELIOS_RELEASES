@@ -1,8 +1,8 @@
 {
-  "version": "2.17.16",
+  "version": "2.17.17",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.16/telios-2.17.16.tar.gz",
-  "sha256": "4372db7637be28e3c1e37013a95169bc0cf03a91cc177ea4d32014a1dbeae085",
-  "notes": "Vos rapports UAT parlent plus clairement : quand une réserve vient de l'enregistrement et non du rejeu, TELIOS le dit et vous indique comment la lever.",
-  "signature": "9af736cebf8ec554058591eb3c1a7dcfd539e480dcd66fffc14ab39a03fbbfaaeae51b0c847d9ffb5be4d0789ea48a269a15bffbc66ccefecb4bd7d29a5cd001"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.17/telios-2.17.17.tar.gz",
+  "sha256": "9d0c36759bc90cdd57118a48eeb23fca3240a5f1498b4ef726fc9bf43225c28e",
+  "notes": "Suivre un rejeu UAT devient un plaisir : les étapes défilent dans le téléphone, quatre indicateurs clairs vous tiennent informé, et le verdict tient d'un coup d'œil.",
+  "signature": "87caa8a7dc1a8d56023546516032ef2aa7d4c6094d40491df74913779e5b47c321148b8e0d04ec2287d32311363df86bcbaea165469b807eb2e2a6633b6c390c"
 }
