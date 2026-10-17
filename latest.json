@@ -1,8 +1,8 @@
 {
-  "version": "2.17.17",
+  "version": "2.17.18",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.17/telios-2.17.17.tar.gz",
-  "sha256": "9d0c36759bc90cdd57118a48eeb23fca3240a5f1498b4ef726fc9bf43225c28e",
-  "notes": "Suivre un rejeu UAT devient un plaisir : les étapes défilent dans le téléphone, quatre indicateurs clairs vous tiennent informé, et le verdict tient d'un coup d'œil.",
-  "signature": "87caa8a7dc1a8d56023546516032ef2aa7d4c6094d40491df74913779e5b47c321148b8e0d04ec2287d32311363df86bcbaea165469b807eb2e2a6633b6c390c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.18/telios-2.17.18.tar.gz",
+  "sha256": "945859a3b349801881cc4afce0920861f39adab8dbc161bfb650ad257d523273",
+  "notes": "Vos enregistrements UAT deviennent plus justes : TELIOS ne signale plus de retour à l'écran d'accueil quand vous êtes resté dans l'application.",
+  "signature": "c1083da81902f197610dfb4baa6e3ba5e728d94f51a448debdb6e3ac578bce04b8ccd792d0043630e97cf801431aaf610d675b4897122f4d3a9087ca9b254b03"
 }
