@@ -1,8 +1,8 @@
 {
-  "version": "2.17.23",
+  "version": "2.17.24",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.23/telios-2.17.23.tar.gz",
-  "sha256": "3a61c0d5e47baf756d594f69023fe8b2eaa800417aebfffb6d62da98fffb1648",
-  "notes": "Une page Validation UAT plus claire : le verdict s’affiche en tête avec son explication, et la progression comme l’état final prennent la couleur du résultat.",
-  "signature": "837c081410dc8b1e2a895db8dfa319246480ffcbf7fc9855df5951f554c54b743f84be294d0efaff1151f3e17dc1a1dc520d6c2c0fe2e8777a72164bb1091d0e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.24/telios-2.17.24.tar.gz",
+  "sha256": "4a7c2b83ed05d92bd1ea41bd2f9570e36ef5c2e68fd206d342ea69066bae1c27",
+  "notes": "Validation UAT plus claire et plus stable : ce qu’il faut faire s’affiche d’une ligne en tête, et la page garde la même disposition du choix de l’enregistrement jusqu’au verdict.",
+  "signature": "95eaba6e70af8029c38388aec36b41559444889312f36804087ffb6d5a787064e26ffcfdba56b8c9f3d8e612c5dd62965338c35d332cce5f13ae0d905b722d07"
 }
