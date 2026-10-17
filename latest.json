@@ -1,8 +1,8 @@
 {
-  "version": "2.17.12",
+  "version": "2.17.13",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.12/telios-2.17.12.tar.gz",
-  "sha256": "3b5b4be844fc756204d4c14871ab0d48e0552149febf31781e2196d18caa454f",
-  "notes": "Enregistrer un scénario UAT devient plus simple : un bouton rond lance la séance, une fenêtre claire montre les étapes en direct, et vous validez le résultat d'un geste avant de terminer.",
-  "signature": "5de29d7480cdbc0b1f45b293e7946dbdb4821307e06acd2e6b59c30bc9aa6d5fc0259ae8c0573c1d0b7f7b9d9047b72e67fe78fb40e7e7c4649aa9f88f1cd709"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.13/telios-2.17.13.tar.gz",
+  "sha256": "17d5bf20838e5a380cdc0edde8370e1eafb19e3d2a61939bf2d67ae6cbc7aaa9",
+  "notes": "Valider un scénario UAT devient limpide : TELIOS vous montre le geste à faire, et un bouton comme « Ouvrir » peut désormais prouver qu'une installation a réussi.",
+  "signature": "3a443bd68b41a3f9dc777ccc181017a53b79a39cbb373588b5f3b59b7da2539c74894a1f575fd47d406944d9305df19aa56b1133c9dd8f701ab62a6cbf22c001"
 }
