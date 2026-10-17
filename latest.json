@@ -1,8 +1,8 @@
 {
-  "version": "2.17.20",
+  "version": "2.17.21",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.20/telios-2.17.20.tar.gz",
-  "sha256": "7785fff4654711bd3cc58acd5e785df02542c6547b5aee6cf358e2a1b2cb568d",
-  "notes": "Vos enregistrements commencés depuis l'écran d'accueil, en ouvrant un dossier d'applications, sont désormais reconnus pour ce qu'ils sont : réussis, sans réserve injustifiée au verdict.",
-  "signature": "a3d731af7377c9d73e0a9edbfdd7bf55e591828d1ff67f9276202048d35897f2eece87e41a087deaa4dac9c358c030527fae35c0183397c4288de448da16a20b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.21/telios-2.17.21.tar.gz",
+  "sha256": "ba965cd88ecf736f69455039b29230d738359463f2146bd2a6e75c1353394155",
+  "notes": "Vos enregistrements UAT sont plus fidèles : le bouton Retour d’Android 16 se rejoue, une recherche tapée retrouve le bon résultat, et les rapports nomment chaque geste comme vous l’avez vu à l’écran.",
+  "signature": "b5e4aebbc86a98cacf881151dd8235cd79e7e40c2ac2e278ec62d804303956b435d83b7d0e143244baaa996530da53567d5f60027f80ffe6a95d0bdaa60fba05"
 }
