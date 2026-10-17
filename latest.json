@@ -1,8 +1,8 @@
 {
-  "version": "2.17.19",
+  "version": "2.17.20",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.19/telios-2.17.19.tar.gz",
-  "sha256": "eaffc8a8469d6bcf9c6510560aa03bde6407f43762d79e29bd26cc32259c8f96",
-  "notes": "Quand TELIOS émet une réserve sur un enregistrement, il en garde désormais le détail technique sur votre poste — sans aucun texte de l'écran : nous pourrons ainsi lever toute réserve injustifiée, vite et à coup sûr.",
-  "signature": "cb77ba759cc84e8414807108fe311636fe4f6a16ba4c2ed690966f39f1899f6e1cd1829cb83eab849213f6d88cd96c80c7cc1d7f6cb5c4cbb77d9d866fd97a06"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.20/telios-2.17.20.tar.gz",
+  "sha256": "7785fff4654711bd3cc58acd5e785df02542c6547b5aee6cf358e2a1b2cb568d",
+  "notes": "Vos enregistrements commencés depuis l'écran d'accueil, en ouvrant un dossier d'applications, sont désormais reconnus pour ce qu'ils sont : réussis, sans réserve injustifiée au verdict.",
+  "signature": "a3d731af7377c9d73e0a9edbfdd7bf55e591828d1ff67f9276202048d35897f2eece87e41a087deaa4dac9c358c030527fae35c0183397c4288de448da16a20b"
 }
