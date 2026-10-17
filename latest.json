@@ -1,8 +1,8 @@
 {
-  "version": "2.17.18",
+  "version": "2.17.19",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.18/telios-2.17.18.tar.gz",
-  "sha256": "945859a3b349801881cc4afce0920861f39adab8dbc161bfb650ad257d523273",
-  "notes": "Vos enregistrements UAT deviennent plus justes : TELIOS ne signale plus de retour à l'écran d'accueil quand vous êtes resté dans l'application.",
-  "signature": "c1083da81902f197610dfb4baa6e3ba5e728d94f51a448debdb6e3ac578bce04b8ccd792d0043630e97cf801431aaf610d675b4897122f4d3a9087ca9b254b03"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.19/telios-2.17.19.tar.gz",
+  "sha256": "eaffc8a8469d6bcf9c6510560aa03bde6407f43762d79e29bd26cc32259c8f96",
+  "notes": "Quand TELIOS émet une réserve sur un enregistrement, il en garde désormais le détail technique sur votre poste — sans aucun texte de l'écran : nous pourrons ainsi lever toute réserve injustifiée, vite et à coup sûr.",
+  "signature": "cb77ba759cc84e8414807108fe311636fe4f6a16ba4c2ed690966f39f1899f6e1cd1829cb83eab849213f6d88cd96c80c7cc1d7f6cb5c4cbb77d9d866fd97a06"
 }
