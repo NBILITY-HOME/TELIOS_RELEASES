@@ -1,8 +1,8 @@
 {
-  "version": "2.17.15",
+  "version": "2.17.16",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.15/telios-2.17.15.tar.gz",
-  "sha256": "b37ff420e47cdb872e1be14b6c1af26aa68a38f9627e11a20aca6e399ed6d4b7",
-  "notes": "Lancer un enregistrement UAT devient évident : un bouton clair, « Lancer l'enregistrement », mis en valeur d'un halo, vous attend dès que le téléphone est prêt.",
-  "signature": "a07ef7a22b73e1ba4ceb2f87b2e53754c553d1cf5efa3c466e65dbe95e1b0bd5ef7026068d5e945a506f0aee8f2c986dfdc3c9955c7d71a59c069d5a22dedc07"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.16/telios-2.17.16.tar.gz",
+  "sha256": "4372db7637be28e3c1e37013a95169bc0cf03a91cc177ea4d32014a1dbeae085",
+  "notes": "Vos rapports UAT parlent plus clairement : quand une réserve vient de l'enregistrement et non du rejeu, TELIOS le dit et vous indique comment la lever.",
+  "signature": "9af736cebf8ec554058591eb3c1a7dcfd539e480dcd66fffc14ab39a03fbbfaaeae51b0c847d9ffb5be4d0789ea48a269a15bffbc66ccefecb4bd7d29a5cd001"
 }
