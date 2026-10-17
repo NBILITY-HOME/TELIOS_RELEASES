@@ -1,8 +1,8 @@
 {
-  "version": "2.17.25",
+  "version": "2.17.26",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.25/telios-2.17.25.tar.gz",
-  "sha256": "721da156780b9e0cb831b9ce978c490b1d2d8353a10b9d1f93352b47660f208a",
-  "notes": "Validation UAT fait peau neuve : « Rejouer » devient un anneau qui se remplit au fil des étapes et prend la couleur du verdict, et le téléphone suit le rejeu d'un coup d'œil, sans barre de défilement.",
-  "signature": "929231949551428a449002aae041c5844389778580830bcf63e738240776208ed0ffd6dd42dcefbdf4e9679320d07a8290ca7b234d809a3eac82d8b2cea1d607"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.26/telios-2.17.26.tar.gz",
+  "sha256": "71b4a60c1172d2a5373b19f7ad5f5d32494dc34ee67b4d7448ce848ce2132a11",
+  "notes": "Vos validations d'applications installées depuis un store deviennent fiables : TELIOS attend la fin du téléchargement, quel que soit le réseau, et dit clairement s'il a fini, échoué ou s'il était encore en cours.",
+  "signature": "437c6c840e116d1827d89cb0f4d74bac9eb0e9c6e70b11717899ee3310eca9d9180cdfc7b6d10c583c365a205911cd42387e8171f51f09579e4b6b710ea06505"
 }
