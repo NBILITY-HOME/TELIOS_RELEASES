@@ -1,8 +1,8 @@
 {
-  "version": "2.17.11",
+  "version": "2.17.12",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.11/telios-2.17.11.tar.gz",
-  "sha256": "850dcee7e4f4b7086156b8cd767365888d619bdc528387927a7e1f3caf254cb3",
-  "notes": "Validation UAT reste nette : un enregistrement supprimé disparaît aussitôt de la page, nom compris, pour ne rejouer que ce qui existe vraiment.",
-  "signature": "7b6d12b3a338d75ca1f6f6399e277466a91a43fb0a2f47238b8225f3b9b7113eac7f2a4a313eeed678d5e08a21166805c42d7de1563f762ff931a8cbbca07904"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.12/telios-2.17.12.tar.gz",
+  "sha256": "3b5b4be844fc756204d4c14871ab0d48e0552149febf31781e2196d18caa454f",
+  "notes": "Enregistrer un scénario UAT devient plus simple : un bouton rond lance la séance, une fenêtre claire montre les étapes en direct, et vous validez le résultat d'un geste avant de terminer.",
+  "signature": "5de29d7480cdbc0b1f45b293e7946dbdb4821307e06acd2e6b59c30bc9aa6d5fc0259ae8c0573c1d0b7f7b9d9047b72e67fe78fb40e7e7c4649aa9f88f1cd709"
 }
