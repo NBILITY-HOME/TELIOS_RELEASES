@@ -1,8 +1,8 @@
 {
-  "version": "2.17.24",
-  "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.24/telios-2.17.24.tar.gz",
-  "sha256": "4a7c2b83ed05d92bd1ea41bd2f9570e36ef5c2e68fd206d342ea69066bae1c27",
-  "notes": "Validation UAT plus claire et plus stable : ce qu’il faut faire s’affiche d’une ligne en tête, et la page garde la même disposition du choix de l’enregistrement jusqu’au verdict.",
-  "signature": "95eaba6e70af8029c38388aec36b41559444889312f36804087ffb6d5a787064e26ffcfdba56b8c9f3d8e612c5dd62965338c35d332cce5f13ae0d905b722d07"
+  "version": "2.17.25",
+  "publie_le": "2026-10-18",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.25/telios-2.17.25.tar.gz",
+  "sha256": "721da156780b9e0cb831b9ce978c490b1d2d8353a10b9d1f93352b47660f208a",
+  "notes": "Validation UAT fait peau neuve : « Rejouer » devient un anneau qui se remplit au fil des étapes et prend la couleur du verdict, et le téléphone suit le rejeu d'un coup d'œil, sans barre de défilement.",
+  "signature": "929231949551428a449002aae041c5844389778580830bcf63e738240776208ed0ffd6dd42dcefbdf4e9679320d07a8290ca7b234d809a3eac82d8b2cea1d607"
 }
