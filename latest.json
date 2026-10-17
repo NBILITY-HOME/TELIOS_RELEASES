@@ -1,8 +1,8 @@
 {
-  "version": "2.17.14",
+  "version": "2.17.15",
   "publie_le": "2026-10-17",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.14/telios-2.17.14.tar.gz",
-  "sha256": "477f7a68c6f152c6ef223ec529635da79208e79482bc98ab5cf6ea85c67d97e4",
-  "notes": "Enregistrer un scénario UAT se fait désormais en trois étapes guidées : vous faites l'opération, vous choisissez d'un clic ce qui prouve la réussite, vous nommez. Clair du début à la fin.",
-  "signature": "253044a57a602c81ef2f610343239940af3b095ed64a92b920264377984e768e1dfae09b0a015f8a269e17cd4927379a66582841879c17303d593756c97dda09"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.15/telios-2.17.15.tar.gz",
+  "sha256": "b37ff420e47cdb872e1be14b6c1af26aa68a38f9627e11a20aca6e399ed6d4b7",
+  "notes": "Lancer un enregistrement UAT devient évident : un bouton clair, « Lancer l'enregistrement », mis en valeur d'un halo, vous attend dès que le téléphone est prêt.",
+  "signature": "a07ef7a22b73e1ba4ceb2f87b2e53754c553d1cf5efa3c466e65dbe95e1b0bd5ef7026068d5e945a506f0aee8f2c986dfdc3c9955c7d71a59c069d5a22dedc07"
 }
