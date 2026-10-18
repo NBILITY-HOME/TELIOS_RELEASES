@@ -1,8 +1,8 @@
 {
-  "version": "2.17.31",
+  "version": "2.17.32",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.31/telios-2.17.31.tar.gz",
-  "sha256": "e539e28644eaa91ab0b6828e7a45ebab494134095abb8256ae980d0e8e23ee82",
-  "notes": "Vos validations sur listes deviennent précises : chaque quantité saisie retrouve sa ligne, même après défilement. Et un écran qui affiche une horloge ne fait plus patienter : le verdict tombe en quelques secondes.",
-  "signature": "1f7421758cfcbb0c6321499d5ad2612213e3e175562b9bcd424e7eba81a75a169a5a77ab08de79010cdb663cbe1a675b807c3addf2ef55282cf45e000029af0e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.32/telios-2.17.32.tar.gz",
+  "sha256": "20c776fcbd96c2a4a3397cc97a99b01ed4707155ab8cafb4fcf7b44b5a3ee224",
+  "notes": "Chaque version de TELIOS est désormais éprouvée sur des téléphones de test préparés et vérifiés automatiquement : des validations encore plus fiables, livrées plus sereinement sur vos appareils.",
+  "signature": "76b2b0f58d10757c3309da003ee500462ac5fc05a42a949d49bc098086f3b7ca205ec9db6b33f9e30b77defb8796f49982e9ce77027aad55d744d28f2a8e3f02"
 }
