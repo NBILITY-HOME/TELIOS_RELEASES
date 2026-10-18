@@ -1,8 +1,8 @@
 {
-  "version": "2.17.30",
+  "version": "2.17.31",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.30/telios-2.17.30.tar.gz",
-  "sha256": "04195ea6f9fd4bea4b62d345e3606996d603c9e7269e19b53a223972ffce9e8f",
-  "notes": "Des validations encore plus sûres : TELIOS bascule de lui-même sur ADB quand le client du téléphone s'arrête, attend les champs lents à s'activer, et ne confond plus les lignes d'une liste.",
-  "signature": "31faf31fb079b43dc52a83ef4a4ab0d7129f12cf040ff24be1672a92290049ab7c7f31a89493a73d6fd9366760d2939791ff847f81bd7b8757184cd1082cd706"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.31/telios-2.17.31.tar.gz",
+  "sha256": "e539e28644eaa91ab0b6828e7a45ebab494134095abb8256ae980d0e8e23ee82",
+  "notes": "Vos validations sur listes deviennent précises : chaque quantité saisie retrouve sa ligne, même après défilement. Et un écran qui affiche une horloge ne fait plus patienter : le verdict tombe en quelques secondes.",
+  "signature": "1f7421758cfcbb0c6321499d5ad2612213e3e175562b9bcd424e7eba81a75a169a5a77ab08de79010cdb663cbe1a675b807c3addf2ef55282cf45e000029af0e"
 }
