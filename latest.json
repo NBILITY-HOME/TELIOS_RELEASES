@@ -1,8 +1,8 @@
 {
-  "version": "2.17.32",
+  "version": "2.17.33",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.32/telios-2.17.32.tar.gz",
-  "sha256": "20c776fcbd96c2a4a3397cc97a99b01ed4707155ab8cafb4fcf7b44b5a3ee224",
-  "notes": "Chaque version de TELIOS est désormais éprouvée sur des téléphones de test préparés et vérifiés automatiquement : des validations encore plus fiables, livrées plus sereinement sur vos appareils.",
-  "signature": "76b2b0f58d10757c3309da003ee500462ac5fc05a42a949d49bc098086f3b7ca205ec9db6b33f9e30b77defb8796f49982e9ce77027aad55d744d28f2a8e3f02"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.33/telios-2.17.33.tar.gz",
+  "sha256": "30d5e8d90fc23fcbf1cd5ca0d4e15a00476d58204f885f44559561502e6e4cb8",
+  "notes": "Vos validations gagnent en exactitude : chaque réglage glissé atteint la bonne valeur, et un geste que TELIOS ne sait pas reproduire arrête le scénario au lieu de passer inaperçu.",
+  "signature": "2e5a2cdd72a777e163c4a01e1b481e98d37a3db9f63bc6662c45b0a659799ccb0a4bfd86bb1e9ac87d2cc9aef3e23da42d86fc977773346539da58c0eb95ef0c"
 }
