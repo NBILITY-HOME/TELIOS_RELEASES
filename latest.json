@@ -1,8 +1,8 @@
 {
-  "version": "2.17.33",
+  "version": "2.17.34",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.33/telios-2.17.33.tar.gz",
-  "sha256": "30d5e8d90fc23fcbf1cd5ca0d4e15a00476d58204f885f44559561502e6e4cb8",
-  "notes": "Vos validations gagnent en exactitude : chaque réglage glissé atteint la bonne valeur, et un geste que TELIOS ne sait pas reproduire arrête le scénario au lieu de passer inaperçu.",
-  "signature": "2e5a2cdd72a777e163c4a01e1b481e98d37a3db9f63bc6662c45b0a659799ccb0a4bfd86bb1e9ac87d2cc9aef3e23da42d86fc977773346539da58c0eb95ef0c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.34/telios-2.17.34.tar.gz",
+  "sha256": "a26cf26ece7e164c3e612e318ee7f34b4df7b6201e79ea78a47092104d70f35e",
+  "notes": "Vos réglages par curseur deviennent vérifiables : TELIOS mémorise la valeur visée à l'enregistrement, pour confirmer au rejeu que le réglage est vraiment atteint.",
+  "signature": "6db9c2a634e87f9a18cf0674591980a0e31e558d35ca98c906275baf9fde7892a10c419c3992ab903c141320c75aa3c08d7b9428ef1afa42b344fc8a6168820a"
 }
