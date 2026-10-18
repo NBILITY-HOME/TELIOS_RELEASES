@@ -1,8 +1,8 @@
 {
-  "version": "2.17.27",
+  "version": "2.17.28",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.27/telios-2.17.27.tar.gz",
-  "sha256": "74889ebc2a88278006332df298dcc8c6eac72e2f76a4ce3ac37bf71e20cd8cda",
-  "notes": "Enregistrez une installation depuis un store : TELIOS mesure le temps du téléchargement et l'accorde au rejeu, avec une marge de sécurité, pour des validations fiables même sur un réseau lent.",
-  "signature": "238bc7588771853d7d13986cb70b1bb525a22b1dabde2e60cbe111da01780f370831e3718bc0bdfa87a64a57aaa23f7df19fff10516186bccc9487914963320f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.28/telios-2.17.28.tar.gz",
+  "sha256": "27f7c4038f6053715fe9dd870c87136ecd7256d3d52693e3f47b46cd25f11064",
+  "notes": "Nouveau dans Validation UAT : la chaîne de rejeux. Glissez vos enregistrements dans une constellation animée, nommez la chaîne, et rejouez toute une mise en service d'un seul geste.",
+  "signature": "3156ae85c75cdfe661bc178f28c4cdf471477de4128518ba4e5c1b805dc7a0e5376bc457f4a9c6bcfa6202c9563b3943087014e764a51e926f7d4e6b6028c10e"
 }
