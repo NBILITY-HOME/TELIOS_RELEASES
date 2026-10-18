@@ -1,8 +1,8 @@
 {
-  "version": "2.17.28",
+  "version": "2.17.29",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.28/telios-2.17.28.tar.gz",
-  "sha256": "27f7c4038f6053715fe9dd870c87136ecd7256d3d52693e3f47b46cd25f11064",
-  "notes": "Nouveau dans Validation UAT : la chaîne de rejeux. Glissez vos enregistrements dans une constellation animée, nommez la chaîne, et rejouez toute une mise en service d'un seul geste.",
-  "signature": "3156ae85c75cdfe661bc178f28c4cdf471477de4128518ba4e5c1b805dc7a0e5376bc457f4a9c6bcfa6202c9563b3943087014e764a51e926f7d4e6b6028c10e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.29/telios-2.17.29.tar.gz",
+  "sha256": "9d40cdfc91b63dd5667372b56d6dfda8848b09aa90847db606199a149a57ff2b",
+  "notes": "Votre chaîne de rejeux se réorganise à la souris : saisissez un maillon, posez-le à sa nouvelle place, et la constellation se recompose aussitôt.",
+  "signature": "da6b488d5202797e38e53c3e0f067077f7e48e8686563052986771978f44a737a6a4e34a8f3d67525f799c2a7b7e108f973bccf73342d7ec5215d8e108507707"
 }
