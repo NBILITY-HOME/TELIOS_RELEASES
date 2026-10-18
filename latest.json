@@ -1,8 +1,8 @@
 {
-  "version": "2.17.29",
+  "version": "2.17.30",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.29/telios-2.17.29.tar.gz",
-  "sha256": "9d40cdfc91b63dd5667372b56d6dfda8848b09aa90847db606199a149a57ff2b",
-  "notes": "Votre chaîne de rejeux se réorganise à la souris : saisissez un maillon, posez-le à sa nouvelle place, et la constellation se recompose aussitôt.",
-  "signature": "da6b488d5202797e38e53c3e0f067077f7e48e8686563052986771978f44a737a6a4e34a8f3d67525f799c2a7b7e108f973bccf73342d7ec5215d8e108507707"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.30/telios-2.17.30.tar.gz",
+  "sha256": "04195ea6f9fd4bea4b62d345e3606996d603c9e7269e19b53a223972ffce9e8f",
+  "notes": "Des validations encore plus sûres : TELIOS bascule de lui-même sur ADB quand le client du téléphone s'arrête, attend les champs lents à s'activer, et ne confond plus les lignes d'une liste.",
+  "signature": "31faf31fb079b43dc52a83ef4a4ab0d7129f12cf040ff24be1672a92290049ab7c7f31a89493a73d6fd9366760d2939791ff847f81bd7b8757184cd1082cd706"
 }
