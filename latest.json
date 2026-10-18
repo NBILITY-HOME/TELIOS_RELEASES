@@ -1,8 +1,8 @@
 {
-  "version": "2.17.35",
+  "version": "2.17.36",
   "publie_le": "2026-10-18",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.35/telios-2.17.35.tar.gz",
-  "sha256": "1729c9afaded8dc81957fad69e10eeac9340391e3a7586063afb029960cd4e97",
-  "notes": "Vos scénarios qui passent par des onglets se rejouent de nouveau sans accroc, et TELIOS vérifie encore mieux qu'aucune fenêtre ne reste ouverte sur vos téléphones.",
-  "signature": "e682fea257a65da227b5ec12dac0bbdfbe3a1e00aa3951f9a219f949df2f6d7f6501a88c182e83d6bb5ee0a7545926ac4652cd136b69bdcacfe30c46e6062d03"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.36/telios-2.17.36.tar.gz",
+  "sha256": "2ca5a244c336facf6052cdf5ef3501e47afa15faaf75175e9a24fbea60b693f8",
+  "notes": "L'analyse des applications fait peau neuve : tout se pilote depuis une seule barre, les filtres sautent aux yeux et la liste s'affiche par 10, 20, 50 ou en entier — de la place gagnée pour lire le détail de chaque application.",
+  "signature": "63c986582067c52f3b4ced51b5a4959a33d78703f4e82b2296608f055c3a3b33156bae4c967768f8c498d0b59f3195e2ea5d67b5d7663c183ca4f255e50c3a0d"
 }
