@@ -1,8 +1,8 @@
 {
-  "version": "2.17.41",
+  "version": "2.17.42",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.41/telios-2.17.41.tar.gz",
-  "sha256": "b7a097f406c463414b1aa160842ca4083753ded7b0c6ab6b5777c2f831d53586",
-  "notes": "Après une chaîne de rejeux, retrouvez le verdict de chaque enregistrement d'un simple clic sur son numéro, avec ses étapes, ses réserves et son rapport signé.",
-  "signature": "65e1cf470d70514ec858843719da7ae7f8778164e675498b8a7b13e3ff18eef571113d12ed02e92e3bf5f5e94efd2f4969e6b10edb4d97d052d5be08e202b703"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.42/telios-2.17.42.tar.gz",
+  "sha256": "cda29ed9e15d38cc639db7b268065fbfb2c0e8dd83700cb32af7362eeb5f48f9",
+  "notes": "Composer une chaîne de rejeux devient naturel : chaque enregistrement glissé se range à la suite des autres, et se place devant un maillon seulement si vous le déposez dessus.",
+  "signature": "929878b6db3c9e3bbd6239f5843a4a4340d89b687a57599790bc5f98915f5cb7a8a67e257a3fa2e0858d72ab097fd48f267470528ca3a47f10ea3d6f65c1fe05"
 }
