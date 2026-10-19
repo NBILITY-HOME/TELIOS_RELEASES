@@ -1,8 +1,8 @@
 {
-  "version": "2.17.39",
+  "version": "2.17.40",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.39/telios-2.17.39.tar.gz",
-  "sha256": "e5f35f63c9fe753f196a21c810eba72df180f7d6218ce9ab5984482ef91c7d8b",
-  "notes": "Arrêtez une chaîne de rejeux à tout moment, d'un geste confirmé, et profitez de fenêtres de bilan repensées : statut animé, chiffres clés et verdict de chaque enregistrement en un coup d'œil.",
-  "signature": "dfac3b2dd43388df1bae3321121552fcebdebaf9ff643d1b72dcf63e8811b7187782e6f830290ea129d2789d14133b8c50f90176a87c1bf5d415759c19fbae00"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.40/telios-2.17.40.tar.gz",
+  "sha256": "43ec1c649f2242208f6e82223bc8dfb5e98f3952f78d790bb49df8c1c41fff44",
+  "notes": "Chaque fenêtre de TELIOS passe désormais au premier plan : l'arrière-plan se floute, votre attention va droit à l'essentiel, et tout redevient net dès la fenêtre fermée.",
+  "signature": "a76732960d638b07f0325f6d67e50b38c193afc474d6d425df5590cdf979528b7f4e48ba53472bd8c51d4c3626dc10d4cbf8be3e4467335c539127caf9b4050f"
 }
