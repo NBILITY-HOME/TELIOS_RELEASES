@@ -1,8 +1,8 @@
 {
-  "version": "2.17.43",
+  "version": "2.17.44",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.43/telios-2.17.43.tar.gz",
-  "sha256": "a6068a84a75e177bd2fb62d627aaa5ab520fe41c1c45efcfca2fea714fd97487",
-  "notes": "Le Verdict affiche désormais le nom du test concerné : en relisant une chaîne de rejeux, vous savez toujours de quel enregistrement vous lisez le résultat.",
-  "signature": "f466454761f6442212bb45bb3c40e8fb0574d1fc40bae927c03d6ba09caf950b6b9865cf5608d1fa8dc1f8b5f1a7a08c2030907515ced1eea75d5c03336fc30f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.44/telios-2.17.44.tar.gz",
+  "sha256": "e583ef39c100f7a50548c71f12fb00bdfc5012eb266363a37a616326229918f0",
+  "notes": "Suivez vos rejeux en direct : le Verdict montre le test en cours et son avancée en temps réel, et pendant une chaîne, chaque résultat se consulte dès qu'il est rendu.",
+  "signature": "9bd5e49b1f24b75013837eafccb70abfdde6fed7f67bb7c69b89c7e66b35bb3a9389ef786766af18e1f7549c11c2d8994fc8f124a1c6c81d68311491f23e7406"
 }
