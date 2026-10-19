@@ -1,8 +1,8 @@
 {
-  "version": "2.17.44",
+  "version": "2.17.45",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.44/telios-2.17.44.tar.gz",
-  "sha256": "e583ef39c100f7a50548c71f12fb00bdfc5012eb266363a37a616326229918f0",
-  "notes": "Suivez vos rejeux en direct : le Verdict montre le test en cours et son avancée en temps réel, et pendant une chaîne, chaque résultat se consulte dès qu'il est rendu.",
-  "signature": "9bd5e49b1f24b75013837eafccb70abfdde6fed7f67bb7c69b89c7e66b35bb3a9389ef786766af18e1f7549c11c2d8994fc8f124a1c6c81d68311491f23e7406"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.45/telios-2.17.45.tar.gz",
+  "sha256": "fb2268a576a3a3075ec0a0e194c0335009206596ff661ff68ef42422d8e7024f",
+  "notes": "Un rejeu terminé se range d'un clic : « Réinitialiser » remet la page à zéro, prête pour le test suivant, sans rien perdre de vos rapports.",
+  "signature": "f3c638daa451aa39a0d6269c4b25ffde647a145c0cd50971007149eb22c27f9d823602e5055f66c9e215739204e4407b588f28039be612907504e3400e654304"
 }
