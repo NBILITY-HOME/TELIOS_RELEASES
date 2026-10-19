@@ -1,8 +1,8 @@
 {
-  "version": "2.17.49",
+  "version": "2.17.50",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.49/telios-2.17.49.tar.gz",
-  "sha256": "feebfb66a1fde907e0044b63e50ebeb8e5bae7e27dfe8d3ea448e8a728a1b541",
-  "notes": "Éditer Scénarios fait peau neuve : recherche instantanée tolérante aux fautes, santé de chaque scénario, inspecteur d'étape et changement de mot de passe sécurisé en deux temps.",
-  "signature": "0463db6e06166fb0f43d70c2e7a512b8f3b9975ea2e90d15c0fc6e52ff92bd913fd53268acfe2057e23b48ea87633cc5d042848542aa0868e5ce5e46a6fc240c"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.50/telios-2.17.50.tar.gz",
+  "sha256": "987a5301de330f7fb9ded791f3a5f4ba0730f379087611277338eb68c645518c",
+  "notes": "L'onglet Validation va à l'essentiel : un menu de moins, le rejeu sur un lot passe par Flotte, et toutes ses pages parlent enfin un anglais et un espagnol impeccables.",
+  "signature": "0b3cab850653073d33b70dedbda47a28ed97b5ab7a124f486159a897b8be7597dd881daa71ca2202b960cbecfd7b85fd3d2aae412af87de09179048521d6de01"
 }
