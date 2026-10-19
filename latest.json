@@ -1,8 +1,8 @@
 {
-  "version": "2.17.47",
+  "version": "2.17.48",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.47/telios-2.17.47.tar.gz",
-  "sha256": "f3691cf38bb1f2fcef647eb184ca7f96ad2c7297d2af93e3a40a8eb8544f28a8",
-  "notes": "Votre dernier verdict reste sous vos yeux : réinitialisez le rejeu ou choisissez un autre test, le résultat et son rapport restent affichés jusqu'au prochain lancement.",
-  "signature": "e92d2aee342f505217860dff35c4573fa24b407a1079845cf0bbfed89d92345644daf2bbf83e98fa68c3e975c2852ed915b26c1b6abd0a2b8a47f4dcac1db606"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.48/telios-2.17.48.tar.gz",
+  "sha256": "5ab188e7ee6a9570e3c71f33747c3778f20afb353c06c8ecc78b925540d73154",
+  "notes": "Le rejeu en direct gagne en lisibilité : ses chiffres clés se placent juste sous l'anneau de progression, d'un seul coup d'œil.",
+  "signature": "83574d5263c69242a2b2a516945c7ef1ecd13407039a06fa04512e58bdb38ae261675700c7638effe4a509d19a9ec5b96bea897fbba9c5f9e59924561ccfb000"
 }
