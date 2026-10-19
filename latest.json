@@ -1,8 +1,8 @@
 {
-  "version": "2.17.48",
+  "version": "2.17.49",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.48/telios-2.17.48.tar.gz",
-  "sha256": "5ab188e7ee6a9570e3c71f33747c3778f20afb353c06c8ecc78b925540d73154",
-  "notes": "Le rejeu en direct gagne en lisibilité : ses chiffres clés se placent juste sous l'anneau de progression, d'un seul coup d'œil.",
-  "signature": "83574d5263c69242a2b2a516945c7ef1ecd13407039a06fa04512e58bdb38ae261675700c7638effe4a509d19a9ec5b96bea897fbba9c5f9e59924561ccfb000"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.49/telios-2.17.49.tar.gz",
+  "sha256": "feebfb66a1fde907e0044b63e50ebeb8e5bae7e27dfe8d3ea448e8a728a1b541",
+  "notes": "Éditer Scénarios fait peau neuve : recherche instantanée tolérante aux fautes, santé de chaque scénario, inspecteur d'étape et changement de mot de passe sécurisé en deux temps.",
+  "signature": "0463db6e06166fb0f43d70c2e7a512b8f3b9975ea2e90d15c0fc6e52ff92bd913fd53268acfe2057e23b48ea87633cc5d042848542aa0868e5ce5e46a6fc240c"
 }
