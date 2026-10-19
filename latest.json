@@ -1,8 +1,8 @@
 {
-  "version": "2.17.52",
+  "version": "2.17.53",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.52/telios-2.17.52.tar.gz",
-  "sha256": "983892599553c549d64a9725cd47ab52439f3b8cefc03ad4c28386c1e4d5fab2",
-  "notes": "Validation UAT gagne en équilibre : les mesures du rejeu s'alignent pile sous l'anneau Rejouer, pour une lecture d'un seul coup d'œil.",
-  "signature": "1051ccc2b325227f287a0eed7c3552b843e58650bafd75d18244dbd5a3b5d6d21eed3dc8f9c59fd488fc961c537966ed3adf3d526df783867d331dff5dc7270a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.53/telios-2.17.53.tar.gz",
+  "sha256": "a4e07efbbd5ab5e836f4bcfc4cf3b4e34f6ab4fe80acaf8be19de692c297d0aa",
+  "notes": "Validation UAT s'aligne au cordeau : l'anneau Rejouer et ses mesures partagent désormais le même axe, pour un bloc net et équilibré.",
+  "signature": "f58dfb4f401f685dfb5960b9c85b271fee6a07bf026294cb0aed75cae90d3d617f2b6ba16f2e5f3465ce85aefe82d052fae2cd71fc136ee26874219669bc2e03"
 }
