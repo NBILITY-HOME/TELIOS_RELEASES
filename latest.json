@@ -1,8 +1,8 @@
 {
-  "version": "2.17.54",
+  "version": "2.17.55",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.54/telios-2.17.54.tar.gz",
-  "sha256": "efc3b1e3913b59e62d5b36b90d9eac8392903cde9892172afc98ad705ebe26e7",
-  "notes": "La page Bienvenue fait le point sur tout ce que TELIOS sait faire aujourd'hui : chaîne de rejeux, verdict relu à l'écran, bibliothèque de scénarios et blacklists prêtes pour vos consoles EMM.",
-  "signature": "ec1b0d315b77bf9ceede96e3076d6dfd664ae9e0a8c7d8fcb5ffc13afb2f11c0fe20d5fb537e63bc674f37d10ee3f59a75c68387a3ee98c8cb96e93cad3cad01"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.55/telios-2.17.55.tar.gz",
+  "sha256": "0f82bf1f55b2eb2a3c0123f01d3cf72a6af85e3f9b9c249b599f043fd1cb5b8e",
+  "notes": "Chaque version de TELIOS est éprouvée avec plus de souplesse : nos campagnes de test se mettent en pause et reprennent sans rien perdre, pour des mises à jour toujours plus fiables sur vos appareils.",
+  "signature": "5bbb7a42f457189afecd17ece834e5d06a0597a3dc635d919c2432444ee9a64026bbe2bf59eb31063c6566cd56ec3201437e9e9a11393856bf3b9daed2bbd900"
 }
