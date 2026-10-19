@@ -1,8 +1,8 @@
 {
-  "version": "2.17.51",
+  "version": "2.17.52",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.51/telios-2.17.51.tar.gz",
-  "sha256": "8b74b07a0b5be6ef0983cb1af1d9e6c8306c032de09e090dadf24d377ea72f1c",
-  "notes": "Éditer Scénarios parle désormais d'une seule voix : chaque libellé dit « scénario », en français comme en anglais et en espagnol.",
-  "signature": "a94e2e5b090786cc5249c004e13f30d384be5dc69e416fc41eae99be31f63339e48ecaae99c2e9d8fcd1a84a86e919d8f4ad70502fee079480114c52632c1107"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.52/telios-2.17.52.tar.gz",
+  "sha256": "983892599553c549d64a9725cd47ab52439f3b8cefc03ad4c28386c1e4d5fab2",
+  "notes": "Validation UAT gagne en équilibre : les mesures du rejeu s'alignent pile sous l'anneau Rejouer, pour une lecture d'un seul coup d'œil.",
+  "signature": "1051ccc2b325227f287a0eed7c3552b843e58650bafd75d18244dbd5a3b5d6d21eed3dc8f9c59fd488fc961c537966ed3adf3d526df783867d331dff5dc7270a"
 }
