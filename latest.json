@@ -1,8 +1,8 @@
 {
-  "version": "2.17.38",
+  "version": "2.17.39",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.38/telios-2.17.38.tar.gz",
-  "sha256": "5e7f53bd8baff1563680f5087ec01a4cab45a251299075225697bac2b770bca5",
-  "notes": "Vos chaînes de rejeux se concluent désormais par une fenêtre de bilan claire : le statut, le verdict de chaque enregistrement, et une célébration quand tout est réussi.",
-  "signature": "6cbd6def344eea34e975bd93ea1dd8b4f5c343f61bf1560948e22b9886fbb474a0b04081db37c79d76062e512315e136921d5f631a1d9718b034d600031eca06"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.39/telios-2.17.39.tar.gz",
+  "sha256": "e5f35f63c9fe753f196a21c810eba72df180f7d6218ce9ab5984482ef91c7d8b",
+  "notes": "Arrêtez une chaîne de rejeux à tout moment, d'un geste confirmé, et profitez de fenêtres de bilan repensées : statut animé, chiffres clés et verdict de chaque enregistrement en un coup d'œil.",
+  "signature": "dfac3b2dd43388df1bae3321121552fcebdebaf9ff643d1b72dcf63e8811b7187782e6f830290ea129d2789d14133b8c50f90176a87c1bf5d415759c19fbae00"
 }
