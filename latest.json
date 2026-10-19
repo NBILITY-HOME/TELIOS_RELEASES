@@ -1,8 +1,8 @@
 {
-  "version": "2.17.45",
+  "version": "2.17.46",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.45/telios-2.17.45.tar.gz",
-  "sha256": "fb2268a576a3a3075ec0a0e194c0335009206596ff661ff68ef42422d8e7024f",
-  "notes": "Un rejeu terminé se range d'un clic : « Réinitialiser » remet la page à zéro, prête pour le test suivant, sans rien perdre de vos rapports.",
-  "signature": "f3c638daa451aa39a0d6269c4b25ffde647a145c0cd50971007149eb22c27f9d823602e5055f66c9e215739204e4407b588f28039be612907504e3400e654304"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.46/telios-2.17.46.tar.gz",
+  "sha256": "770ebc0948a203c192b52b52046eb97d8b73b305d1a5b28da870f79a5cfe6239",
+  "notes": "Le Verdict porte désormais une étiquette claire avec le nom et la version du test concerné : vous savez toujours, d'un regard, quel résultat vous lisez.",
+  "signature": "fc3de0fb0043238e0300c34482efc00cfd7d8c2f54ca13c73f8b7951815b724d17185e8fe2e69006989d334cecc7b9184a18b93d5cb38a3ee1ab24b0363e3706"
 }
