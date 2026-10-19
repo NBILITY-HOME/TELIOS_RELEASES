@@ -1,8 +1,8 @@
 {
-  "version": "2.17.42",
+  "version": "2.17.43",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.42/telios-2.17.42.tar.gz",
-  "sha256": "cda29ed9e15d38cc639db7b268065fbfb2c0e8dd83700cb32af7362eeb5f48f9",
-  "notes": "Composer une chaîne de rejeux devient naturel : chaque enregistrement glissé se range à la suite des autres, et se place devant un maillon seulement si vous le déposez dessus.",
-  "signature": "929878b6db3c9e3bbd6239f5843a4a4340d89b687a57599790bc5f98915f5cb7a8a67e257a3fa2e0858d72ab097fd48f267470528ca3a47f10ea3d6f65c1fe05"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.43/telios-2.17.43.tar.gz",
+  "sha256": "a6068a84a75e177bd2fb62d627aaa5ab520fe41c1c45efcfca2fea714fd97487",
+  "notes": "Le Verdict affiche désormais le nom du test concerné : en relisant une chaîne de rejeux, vous savez toujours de quel enregistrement vous lisez le résultat.",
+  "signature": "f466454761f6442212bb45bb3c40e8fb0574d1fc40bae927c03d6ba09caf950b6b9865cf5608d1fa8dc1f8b5f1a7a08c2030907515ced1eea75d5c03336fc30f"
 }
