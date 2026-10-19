@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="images/banniere-2.17.53.svg" width="100%" alt="TELIOS 2.17.53 — Une ligne, et le poste est prêt. Compatible Linux Mint 21+ et Ubuntu 22.04+.">
+  <img src="images/banniere-2.17.54.svg" width="100%" alt="TELIOS 2.17.54 — Une ligne, et le poste est prêt. Compatible Linux Mint 21+ et Ubuntu 22.04+.">
 </p>
 
 # TELIOS — sécuriser un parc mobile, et pouvoir le prouver
 
-**Dernière version : TELIOS 2.17.53, publiée le 19/10/2026** — signature TELIOS vérifiée ·
-[notes de version](https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/tag/v2.17.53)
+**Dernière version : TELIOS 2.17.54, publiée le 19/10/2026** — signature TELIOS vérifiée ·
+[notes de version](https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/tag/v2.17.54)
 
 TELIOS est l'outil de NBILITY pour auditer, préparer et assainir des
 smartphones Android depuis un poste Linux Mint ou Ubuntu. Il s'adresse aux
@@ -26,11 +26,11 @@ flotte de téléphones et doivent **démontrer** ce qui a été fait sur chacun.
 
 | Onglet | Rôle |
 |---|---|
-| **Analyse App** | Inventorier les applications d'un téléphone et mesurer leur caractère intrusif — permissions sensibles, pisteurs publicitaires — puis révoquer, désactiver, désinstaller et exporter un audit signé. Analyse aussi un fichier APK seul, avant installation. |
-| **Flotte** | Préparer plusieurs téléphones en série : inventaire mémorisé, profils de liste noire versionnés, application simulée puis réelle sur tout un lot, fiches de préparation. Export de la liste vers une console **Workspace ONE UEM** ou **Microsoft Intune**. |
-| **Validation (UAT)** | Enregistrer une fois à la main la configuration d'une application ou d'un réglage Android, chiffrée sur le poste, puis la rejouer sur un lot et produire un rapport de recette. |
+| **Analyse App** | Inventorier les applications d'un téléphone et mesurer leur caractère intrusif — permissions sensibles, pisteurs publicitaires, score de risque et filtres par niveau — puis révoquer, désactiver, désinstaller et exporter un audit signé. Analyse aussi un fichier APK seul, avant installation. Les blacklists de chaque client s'y tiennent, versionnées, et partent vers **Workspace ONE UEM** ou **Microsoft Intune**. |
+| **Flotte** | Préparer plusieurs téléphones en série : inventaire mémorisé, blacklists et scénarios enchaînés sur tout un lot — simulés, appliqués, puis relus sur chaque appareil —, fiches de préparation. |
+| **Validation (UAT)** | Enregistrer une fois à la main la configuration d'une application ou d'un réglage Android, chiffrée sur le poste, puis la rejouer en direct — seule ou en chaîne : chaque étape est jugée sur une relecture de l'écran, et un rapport de recette signé est produit. |
 | **Purge sécurisée** | Diagnostiquer le chiffrement, recouvrir l'espace libre pour rendre irrécupérables les fichiers supprimés, et délivrer une attestation horodatée et scellée. Effacement cryptographique et TRIM, jamais de passes multiples inopérantes sur mémoire flash. |
-| **Réglages** | Vérifier à chaque démarrage les outils requis, choisir thème, langue et dossiers. Interface en français, anglais et espagnol. |
+| **Réglages** | Vérifier à chaque démarrage les outils requis ; licence, thème et langue. Interface en français, anglais et espagnol ; mises à jour signées. |
 
 Avant toute intervention sur un téléphone déjà attribué, TELIOS rappelle
 l'obligation d'information et d'autorisation écrite prévue par le RGPD, et
@@ -46,7 +46,7 @@ wget -O install.sh https://raw.githubusercontent.com/NBILITY-HOME/TELIOS_RELEASE
 ```
 
 <p align="center">
-  <img src="images/six-etapes.svg?v=2.17.53" width="100%" alt="Les six étapes : préparer le poste, lancer l'installation, laisser faire l'installateur, activer le poste, compléter les outils, rester à jour.">
+  <img src="images/six-etapes.svg?v=2.17.54" width="100%" alt="Les six étapes : préparer le poste, lancer l'installation, laisser faire l'installateur, activer le poste, compléter les outils, rester à jour.">
 </p>
 
 <details>
@@ -93,11 +93,11 @@ publiée, à partir du manifeste signé.
 
 ## Un aperçu
 
-![Bienvenue](images/bienvenue.png?v=2.17.53)
+![Bienvenue](images/bienvenue.png?v=2.17.54)
 
-![Aperçu de la flotte](images/flotte-apercu.png?v=2.17.53)
+![Aperçu de la flotte](images/flotte-apercu.png?v=2.17.54)
 
-![Analyse d'un téléphone](images/analyse.png?v=2.17.53)
+![Analyse d'un téléphone](images/analyse.png?v=2.17.54)
 
 ## Contact
 

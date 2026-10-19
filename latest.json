@@ -1,8 +1,8 @@
 {
-  "version": "2.17.53",
+  "version": "2.17.54",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.53/telios-2.17.53.tar.gz",
-  "sha256": "a4e07efbbd5ab5e836f4bcfc4cf3b4e34f6ab4fe80acaf8be19de692c297d0aa",
-  "notes": "Validation UAT s'aligne au cordeau : l'anneau Rejouer et ses mesures partagent désormais le même axe, pour un bloc net et équilibré.",
-  "signature": "f58dfb4f401f685dfb5960b9c85b271fee6a07bf026294cb0aed75cae90d3d617f2b6ba16f2e5f3465ce85aefe82d052fae2cd71fc136ee26874219669bc2e03"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.54/telios-2.17.54.tar.gz",
+  "sha256": "efc3b1e3913b59e62d5b36b90d9eac8392903cde9892172afc98ad705ebe26e7",
+  "notes": "La page Bienvenue fait le point sur tout ce que TELIOS sait faire aujourd'hui : chaîne de rejeux, verdict relu à l'écran, bibliothèque de scénarios et blacklists prêtes pour vos consoles EMM.",
+  "signature": "ec1b0d315b77bf9ceede96e3076d6dfd664ae9e0a8c7d8fcb5ffc13afb2f11c0fe20d5fb537e63bc674f37d10ee3f59a75c68387a3ee98c8cb96e93cad3cad01"
 }
