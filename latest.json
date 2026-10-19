@@ -1,8 +1,8 @@
 {
-  "version": "2.17.37",
+  "version": "2.17.38",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.37/telios-2.17.37.tar.gz",
-  "sha256": "079a8b8e165275c5001aabcc32c994f752b3860c5e11384abf27397a70a6c382",
-  "notes": "Les résultats des tests de validation arrivent au serveur rangés dans leur vraie famille — réglages et lectures d'écran à part — sans qu'aucun ne se perde, quelle que soit la version du serveur.",
-  "signature": "8ef9f34d5ea9bfbe2edbfb07c52671eeed8b0efdd24e3699d29085bbd13f283910e525f6ab4ca158c5a3400f1d359fd9483df5003c8d35b692310932a28c6301"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.38/telios-2.17.38.tar.gz",
+  "sha256": "5e7f53bd8baff1563680f5087ec01a4cab45a251299075225697bac2b770bca5",
+  "notes": "Vos chaînes de rejeux se concluent désormais par une fenêtre de bilan claire : le statut, le verdict de chaque enregistrement, et une célébration quand tout est réussi.",
+  "signature": "6cbd6def344eea34e975bd93ea1dd8b4f5c343f61bf1560948e22b9886fbb474a0b04081db37c79d76062e512315e136921d5f631a1d9718b034d600031eca06"
 }
