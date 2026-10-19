@@ -1,8 +1,8 @@
 {
-  "version": "2.17.40",
+  "version": "2.17.41",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.40/telios-2.17.40.tar.gz",
-  "sha256": "43ec1c649f2242208f6e82223bc8dfb5e98f3952f78d790bb49df8c1c41fff44",
-  "notes": "Chaque fenêtre de TELIOS passe désormais au premier plan : l'arrière-plan se floute, votre attention va droit à l'essentiel, et tout redevient net dès la fenêtre fermée.",
-  "signature": "a76732960d638b07f0325f6d67e50b38c193afc474d6d425df5590cdf979528b7f4e48ba53472bd8c51d4c3626dc10d4cbf8be3e4467335c539127caf9b4050f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.41/telios-2.17.41.tar.gz",
+  "sha256": "b7a097f406c463414b1aa160842ca4083753ded7b0c6ab6b5777c2f831d53586",
+  "notes": "Après une chaîne de rejeux, retrouvez le verdict de chaque enregistrement d'un simple clic sur son numéro, avec ses étapes, ses réserves et son rapport signé.",
+  "signature": "65e1cf470d70514ec858843719da7ae7f8778164e675498b8a7b13e3ff18eef571113d12ed02e92e3bf5f5e94efd2f4969e6b10edb4d97d052d5be08e202b703"
 }
