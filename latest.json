@@ -1,8 +1,8 @@
 {
-  "version": "2.17.46",
+  "version": "2.17.47",
   "publie_le": "2026-10-19",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.46/telios-2.17.46.tar.gz",
-  "sha256": "770ebc0948a203c192b52b52046eb97d8b73b305d1a5b28da870f79a5cfe6239",
-  "notes": "Le Verdict porte désormais une étiquette claire avec le nom et la version du test concerné : vous savez toujours, d'un regard, quel résultat vous lisez.",
-  "signature": "fc3de0fb0043238e0300c34482efc00cfd7d8c2f54ca13c73f8b7951815b724d17185e8fe2e69006989d334cecc7b9184a18b93d5cb38a3ee1ab24b0363e3706"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.47/telios-2.17.47.tar.gz",
+  "sha256": "f3691cf38bb1f2fcef647eb184ca7f96ad2c7297d2af93e3a40a8eb8544f28a8",
+  "notes": "Votre dernier verdict reste sous vos yeux : réinitialisez le rejeu ou choisissez un autre test, le résultat et son rapport restent affichés jusqu'au prochain lancement.",
+  "signature": "e92d2aee342f505217860dff35c4573fa24b407a1079845cf0bbfed89d92345644daf2bbf83e98fa68c3e975c2852ed915b26c1b6abd0a2b8a47f4dcac1db606"
 }
