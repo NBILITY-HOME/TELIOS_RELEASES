@@ -1,8 +1,8 @@
 {
-  "version": "2.17.58",
+  "version": "2.17.59",
   "publie_le": "2026-10-20",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.58/telios-2.17.58.tar.gz",
-  "sha256": "79947ecf78c7c9c97c447bda2ab2f7ff628fe665c7678090d00b5b638a6ba521",
-  "notes": "Vos validations gagnent en exactitude : TELIOS ne touche jamais un élément masqué par une notification ou le clavier, laisse une case déjà dans le bon état, et vérifie qu'une application est vraiment arrêtée.",
-  "signature": "f43d4b46ac7239458bbac2afa49ff8357c561fec3c561c027ce0d075d3c631ff01397c388bdf3858399bf7b1b8e3afd8bff888d00199c8c98d5b2f74b5288902"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.59/telios-2.17.59.tar.gz",
+  "sha256": "67ace30f10ca210a06caca28572799a1119568d9de4f05db2f64d2fa484f2fe1",
+  "notes": "Vos réglages Wi-Fi sont jugés au plus juste : un Wi-Fi allumé alors que le mode avion est actif est bien reconnu, et le rapport dit clairement quand le mode avion explique un réglage qui ne bascule pas.",
+  "signature": "4d15887ab5c19f45aad368ac349896340bbcb6d638fd994e31ef102cd6c508822bef872e1a2f1a6595236fd6cf2553ddfb6fdb4991e06208fa6c8f0ec4bcd60c"
 }
