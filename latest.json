@@ -1,8 +1,8 @@
 {
-  "version": "2.17.57",
+  "version": "2.17.58",
   "publie_le": "2026-10-20",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.57/telios-2.17.57.tar.gz",
-  "sha256": "815383033c12518592ab840b50adffd107082f162bb43c353b836dc2c054eced",
-  "notes": "Chaque version de TELIOS s'éprouve plus vite : une sélection essentielle de tests, jouée à chaque livraison, garde vos validations fiables sans rallonger l'attente de vos mises à jour.",
-  "signature": "b116e1fdf2c511b4a8507a6672d10feaa50ea6df11cfb8cc253f989e3661d1bbfda4e66b10d00ccf1e933a9edcea279f5506efc67cd31463bf9eac8189fcc10d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.58/telios-2.17.58.tar.gz",
+  "sha256": "79947ecf78c7c9c97c447bda2ab2f7ff628fe665c7678090d00b5b638a6ba521",
+  "notes": "Vos validations gagnent en exactitude : TELIOS ne touche jamais un élément masqué par une notification ou le clavier, laisse une case déjà dans le bon état, et vérifie qu'une application est vraiment arrêtée.",
+  "signature": "f43d4b46ac7239458bbac2afa49ff8357c561fec3c561c027ce0d075d3c631ff01397c388bdf3858399bf7b1b8e3afd8bff888d00199c8c98d5b2f74b5288902"
 }
