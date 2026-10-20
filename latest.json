@@ -1,8 +1,8 @@
 {
-  "version": "2.17.60",
+  "version": "2.17.61",
   "publie_le": "2026-10-20",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.60/telios-2.17.60.tar.gz",
-  "sha256": "44ba1f6376f56e7222d5d3a3a672c383c0ec75a23ef7fcb701d470015576494c",
-  "notes": "Vos réglages faits sous le mode avion ne laissent plus de trace : le téléphone retrouve exactement son comportement d'origine, et l'enregistrement des cases à cocher retient désormais l'état voulu.",
-  "signature": "3b2de4ebb4ec0264ca2677680fd2c69e0b26a7973e70bfec25866177c4ef8af31d7e867b8c3b4e6b8e362844563cf39d62830bdd816aa5c723bc0f6facf6690f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.61/telios-2.17.61.tar.gz",
+  "sha256": "c2f7811d42c0fc11a438d15615ae627973315d7fd224a0f34e3eb7425291d2c2",
+  "notes": "Les cases à cocher des applications modernes se rejouent désormais à coup sûr : TELIOS reconnaît la case derrière son libellé et ne touche que celles qui doivent changer d'état.",
+  "signature": "7e3612df447c9e0303be7f0432209a0ae170f3056812d801fd67e35f6ab2de299ff4022e84f63ee9faeaa7fdeb8ba9b1d5a50d4055e828fa995b26e8c6747704"
 }
