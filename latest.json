@@ -1,8 +1,8 @@
 {
-  "version": "2.17.56",
+  "version": "2.17.57",
   "publie_le": "2026-10-20",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.56/telios-2.17.56.tar.gz",
-  "sha256": "d7fc1881e84f24b570823f438817a60bf7d61965f94b8efb3d5be17cdf9371bc",
-  "notes": "Les campagnes de test de chaque version de TELIOS gagnent en simplicité : lancées d'un geste, elles vont au bout ou s'arrêtent net, pour des mises à jour toujours aussi fiables sur vos appareils.",
-  "signature": "9bd54fea69fba0cf510f7c2b3d38eda5a3365915889f5c146c75c6f9ff3db552829bb7a205a760fe308d53ccc0906e0fcea7bdc0d7ce3642749b4d8bbea5fe0e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.57/telios-2.17.57.tar.gz",
+  "sha256": "815383033c12518592ab840b50adffd107082f162bb43c353b836dc2c054eced",
+  "notes": "Chaque version de TELIOS s'éprouve plus vite : une sélection essentielle de tests, jouée à chaque livraison, garde vos validations fiables sans rallonger l'attente de vos mises à jour.",
+  "signature": "b116e1fdf2c511b4a8507a6672d10feaa50ea6df11cfb8cc253f989e3661d1bbfda4e66b10d00ccf1e933a9edcea279f5506efc67cd31463bf9eac8189fcc10d"
 }
