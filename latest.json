@@ -1,8 +1,8 @@
 {
-  "version": "2.17.64",
+  "version": "2.17.65",
   "publie_le": "2026-10-22",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.64/telios-2.17.64.tar.gz",
-  "sha256": "c0bf405289738e657e67b53d5778b2eea31741d2105a2d16314ca3364d4c1463",
-  "notes": "Vos validations ne se laissent plus surprendre : une application qui cesse de répondre en fin de parcours n'est jamais attestée réussie, et l'ouverture des applications récentes est jugée avec justesse.",
-  "signature": "87452c87257bb42c2dd13a43020109fbc79120b695a466ff4aaa53f337904400fa778a0af8273732a149671ca994f058a81d645dadf21d2eadc2647036f90b0f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.65/telios-2.17.65.tar.gz",
+  "sha256": "f325ae8111848482aba95d5f6a2e224969ec328af1cbb42089a800bd72ab12a2",
+  "notes": "Vos attestations gagnent encore en exigence : une application qui a cessé de répondre pendant une validation n'est jamais déclarée réussie, même quand Android a refermé son alerte.",
+  "signature": "8f64a0759daf1d83d180efd1b8b79fb6423f429c6291b1ae2aa9f12bc8d03826967581382288f3372befdd1adb64764d8b667c693c14688c49998c304612650e"
 }
