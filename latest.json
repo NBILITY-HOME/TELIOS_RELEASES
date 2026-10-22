@@ -1,8 +1,8 @@
 {
-  "version": "2.17.63",
+  "version": "2.17.64",
   "publie_le": "2026-10-22",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.63/telios-2.17.63.tar.gz",
-  "sha256": "fac0ed0bd36a6e7fe85000b07abecec881d6f035fbffbc5839e20447f7ee6abf",
-  "notes": "Vos validations restent sûres même quand une application peine : TELIOS attend qu'elle réponde avant d'agir, vérifie l'ouverture des applications récentes et ferme le clavier qui masquerait un bouton.",
-  "signature": "73908d40b4741e69fab426b1661e81da36dbda219fb9d37dba8723f3c84f886f95fb7c0365a149e855073a5b069096c7cbb1f67cee2c8fc3c9e2fe8760a20a04"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.64/telios-2.17.64.tar.gz",
+  "sha256": "c0bf405289738e657e67b53d5778b2eea31741d2105a2d16314ca3364d4c1463",
+  "notes": "Vos validations ne se laissent plus surprendre : une application qui cesse de répondre en fin de parcours n'est jamais attestée réussie, et l'ouverture des applications récentes est jugée avec justesse.",
+  "signature": "87452c87257bb42c2dd13a43020109fbc79120b695a466ff4aaa53f337904400fa778a0af8273732a149671ca994f058a81d645dadf21d2eadc2647036f90b0f"
 }
