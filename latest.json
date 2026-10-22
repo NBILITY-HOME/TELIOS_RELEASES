@@ -1,8 +1,8 @@
 {
-  "version": "2.17.62",
-  "publie_le": "2026-10-20",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.62/telios-2.17.62.tar.gz",
-  "sha256": "9c050d6f1218231277afd05945d8da2104c37c048d9ad3710fd6d33a5da75b80",
-  "notes": "Chaque version de TELIOS est désormais éprouvée sur un banc d'essai élargi : notifications qui surgissent, téléphones réglés autrement, pages web intégrées et coupures réseau, pour des validations encore plus sûres.",
-  "signature": "e9763a158d681d611644596dd2bdff3ece5c4ec6ade465bbc4bb8898be746dfbc144567047b65f248ec62c393feeb69f4a32a60804b7954ea7d9530bda3e9c07"
+  "version": "2.17.63",
+  "publie_le": "2026-10-22",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.63/telios-2.17.63.tar.gz",
+  "sha256": "fac0ed0bd36a6e7fe85000b07abecec881d6f035fbffbc5839e20447f7ee6abf",
+  "notes": "Vos validations restent sûres même quand une application peine : TELIOS attend qu'elle réponde avant d'agir, vérifie l'ouverture des applications récentes et ferme le clavier qui masquerait un bouton.",
+  "signature": "73908d40b4741e69fab426b1661e81da36dbda219fb9d37dba8723f3c84f886f95fb7c0365a149e855073a5b069096c7cbb1f67cee2c8fc3c9e2fe8760a20a04"
 }
