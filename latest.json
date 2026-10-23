@@ -1,8 +1,8 @@
 {
-  "version": "2.17.66",
+  "version": "2.17.67",
   "publie_le": "2026-10-23",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.66/telios-2.17.66.tar.gz",
-  "sha256": "0caa1e8287e3758b2b3e0907d8dfa9ed5562e185a0e619450f7de4f0a89de9c5",
-  "notes": "Éditer Scénarios devient un atelier : clic droit sur une étape pour la supprimer, la dupliquer ou la déplacer, Annuler et Rétablir, puis une nouvelle version d'un clic — la précédente reste toujours disponible.",
-  "signature": "d56cae10398ecab0eadf5fc6499b4341e8eac3b3d5e0e98f9fc0233bfdc79aa178ce50232e98d964519760e864de0a0b51b733ba382ad9613fec69f9de5c460a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.67/telios-2.17.67.tar.gz",
+  "sha256": "b237652be71bc7f0695e797b974b8867f4f5ab4b1ade37cf14dcda5a514d3d32",
+  "notes": "Composez vos scénarios plus vite : une bibliothèque d'actions classées par thème se glisse directement dans vos étapes, et TELIOS vous guide pour compléter chaque action avant de l'enregistrer.",
+  "signature": "51d388497ba5e04f645dd2ecef07c7dd3534eb16af0f7b663d4ad21bbd61f7eabf0f1f15ed087e35fd5fee8e884216c6d15e8109287b5f7d94f2cd9deca9ae09"
 }
