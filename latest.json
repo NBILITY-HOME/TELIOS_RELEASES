@@ -1,8 +1,8 @@
 {
-  "version": "2.17.65",
-  "publie_le": "2026-10-22",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.65/telios-2.17.65.tar.gz",
-  "sha256": "f325ae8111848482aba95d5f6a2e224969ec328af1cbb42089a800bd72ab12a2",
-  "notes": "Vos attestations gagnent encore en exigence : une application qui a cessé de répondre pendant une validation n'est jamais déclarée réussie, même quand Android a refermé son alerte.",
-  "signature": "8f64a0759daf1d83d180efd1b8b79fb6423f429c6291b1ae2aa9f12bc8d03826967581382288f3372befdd1adb64764d8b667c693c14688c49998c304612650e"
+  "version": "2.17.66",
+  "publie_le": "2026-10-23",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.66/telios-2.17.66.tar.gz",
+  "sha256": "0caa1e8287e3758b2b3e0907d8dfa9ed5562e185a0e619450f7de4f0a89de9c5",
+  "notes": "Éditer Scénarios devient un atelier : clic droit sur une étape pour la supprimer, la dupliquer ou la déplacer, Annuler et Rétablir, puis une nouvelle version d'un clic — la précédente reste toujours disponible.",
+  "signature": "d56cae10398ecab0eadf5fc6499b4341e8eac3b3d5e0e98f9fc0233bfdc79aa178ce50232e98d964519760e864de0a0b51b733ba382ad9613fec69f9de5c460a"
 }
