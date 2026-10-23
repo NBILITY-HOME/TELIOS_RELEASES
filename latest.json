@@ -1,8 +1,8 @@
 {
-  "version": "2.17.67",
+  "version": "2.17.68",
   "publie_le": "2026-10-23",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.67/telios-2.17.67.tar.gz",
-  "sha256": "b237652be71bc7f0695e797b974b8867f4f5ab4b1ade37cf14dcda5a514d3d32",
-  "notes": "Composez vos scénarios plus vite : une bibliothèque d'actions classées par thème se glisse directement dans vos étapes, et TELIOS vous guide pour compléter chaque action avant de l'enregistrer.",
-  "signature": "51d388497ba5e04f645dd2ecef07c7dd3534eb16af0f7b663d4ad21bbd61f7eabf0f1f15ed087e35fd5fee8e884216c6d15e8109287b5f7d94f2cd9deca9ae09"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.68/telios-2.17.68.tar.gz",
+  "sha256": "45841fc0716f1ba138e90ad3aaef5afa515fb4c4fed83086625b4428febf0141",
+  "notes": "Des contrôles qualité plus lisibles chez NBILITY, pour des mises à jour de TELIOS toujours plus fiables sur vos smartphones.",
+  "signature": "65bd00e4eee5631fa0674ef52e968c3a5a33bb0ca37451a8837b1375927d40d1988657d8461542cdd4571013aaf7c69a451def3e3dc1938232bebe65e8dfd60f"
 }
