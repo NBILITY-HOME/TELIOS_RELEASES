@@ -1,8 +1,8 @@
 {
-  "version": "2.17.69",
+  "version": "2.17.70",
   "publie_le": "2026-10-23",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.69/telios-2.17.69.tar.gz",
-  "sha256": "874d657274aa8f577d2b627b470499f44b648a91e86fce8c555075b863d28739",
-  "notes": "Vos scénarios se rejouent encore plus fidèlement, y compris sur les téléphones équipés d'un clavier différent de celui d'origine.",
-  "signature": "e5043c6628422fdc69289acd339871b8467c662ef1066cdb9f6f4895b36aa482cc6b22e378e6ed7bf4883e2636af08fc225fa299fbffd7c929dc31a65280e402"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.70/telios-2.17.70.tar.gz",
+  "sha256": "b7dfe5e309af9d2e15b781a422debf31eac39004031f9cc6ae67027265577606",
+  "notes": "Des preuves encore plus sûres : TELIOS confirme qu'un réseau Wi-Fi reste bien connecté avant de l'attester, et gère mieux les fenêtres d'autorisation d'Android.",
+  "signature": "ef1e999be411b60813ef2866b79c112d2da4735067cd39b1321144f67fb0fd41923b3da7ca40332d8036a67520ce98b76644e288e598fe8c5a5665ad0ae36307"
 }
