@@ -1,8 +1,8 @@
 {
-  "version": "2.17.68",
+  "version": "2.17.69",
   "publie_le": "2026-10-23",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.68/telios-2.17.68.tar.gz",
-  "sha256": "45841fc0716f1ba138e90ad3aaef5afa515fb4c4fed83086625b4428febf0141",
-  "notes": "Des contrôles qualité plus lisibles chez NBILITY, pour des mises à jour de TELIOS toujours plus fiables sur vos smartphones.",
-  "signature": "65bd00e4eee5631fa0674ef52e968c3a5a33bb0ca37451a8837b1375927d40d1988657d8461542cdd4571013aaf7c69a451def3e3dc1938232bebe65e8dfd60f"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.69/telios-2.17.69.tar.gz",
+  "sha256": "874d657274aa8f577d2b627b470499f44b648a91e86fce8c555075b863d28739",
+  "notes": "Vos scénarios se rejouent encore plus fidèlement, y compris sur les téléphones équipés d'un clavier différent de celui d'origine.",
+  "signature": "e5043c6628422fdc69289acd339871b8467c662ef1066cdb9f6f4895b36aa482cc6b22e378e6ed7bf4883e2636af08fc225fa299fbffd7c929dc31a65280e402"
 }
