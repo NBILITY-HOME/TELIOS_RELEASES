@@ -1,8 +1,8 @@
 {
-  "version": "2.17.70",
-  "publie_le": "2026-10-23",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.70/telios-2.17.70.tar.gz",
-  "sha256": "b7dfe5e309af9d2e15b781a422debf31eac39004031f9cc6ae67027265577606",
-  "notes": "Des preuves encore plus sûres : TELIOS confirme qu'un réseau Wi-Fi reste bien connecté avant de l'attester, et gère mieux les fenêtres d'autorisation d'Android.",
-  "signature": "ef1e999be411b60813ef2866b79c112d2da4735067cd39b1321144f67fb0fd41923b3da7ca40332d8036a67520ce98b76644e288e598fe8c5a5665ad0ae36307"
+  "version": "2.17.71",
+  "publie_le": "2026-10-24",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.71/telios-2.17.71.tar.gz",
+  "sha256": "dee344a1f0bda467b00e2dc0cc1aacda81880d764af49cb98225fa91c23036c8",
+  "notes": "Des bilans de tests plus clairs : chaque téléphone est jugé sur ce qu'il doit réellement jouer, et le reste est indiqué à part.",
+  "signature": "eca93ef57f1fce419111b093eca98ae35427ace00a9316f91a5f2ca8b8d9d239cc6612972a78bce53dad32cdc1ea1b6643a06b4bf9e3da4c96f8733db7be5c09"
 }
