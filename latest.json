@@ -1,8 +1,8 @@
 {
-  "version": "2.17.75",
+  "version": "2.17.76",
   "publie_le": "2026-10-24",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.75/telios-2.17.75.tar.gz",
-  "sha256": "dee5a6da3c420c31ec2a0b0632d11c53d13ab9c0552be69d970239439e994d98",
-  "notes": "Chaque analyse d’APK passée se rouvre d’un clic avec toute son histoire, la page tient d’un seul coup d’œil, et l’aperçu des fiches PDF se feuillette page par page.",
-  "signature": "97e1b2fe155542d1b184b1fa9388fbe7d3054e4fb41f8b5daeb2b2840fdf853ad6acdbf29ceb7cbb1398af70fbea577e948a40cbfa639d541f16ebbd1c35ee0e"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.76/telios-2.17.76.tar.gz",
+  "sha256": "a7fb175238c7ba5637949c87bf843ab2a38dfcb4480bd2cc36add4a7f55aaed4",
+  "notes": "Chercher devient un plaisir : un radar s’anime, les résultats se proposent à mesure que vous tapez et s’ouvrent d’une touche, partout dans TELIOS.",
+  "signature": "c253e1f4717260d2c35ecd9bb6b14d1754a5f5c55a56ccf9dfa8b1e67d583d867b43c2a69b9fab5edaf0e7a864fba902f1d1d121ca78465db1a21b515da8640d"
 }
