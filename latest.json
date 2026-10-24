@@ -1,8 +1,8 @@
 {
-  "version": "2.17.74",
+  "version": "2.17.75",
   "publie_le": "2026-10-24",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.74/telios-2.17.74.tar.gz",
-  "sha256": "8793a50a6739b84a1d7e037d6f309897f5d256f4828106accbf1717a33f14f6f",
-  "notes": "L’analyse d’un APK se suit désormais étape par étape dans la page, et la signature des applications récentes est comparée d’une version à l’autre : un changement de clé saute aux yeux.",
-  "signature": "da32163cd710706301022712e0d1ddc339f7e9dfe7647cb3bff57531ead9d8d47f511aa23ce168c3d6807a1153dcdbce0a8c31ecd5204a1f16523babf7eb8307"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.75/telios-2.17.75.tar.gz",
+  "sha256": "dee5a6da3c420c31ec2a0b0632d11c53d13ab9c0552be69d970239439e994d98",
+  "notes": "Chaque analyse d’APK passée se rouvre d’un clic avec toute son histoire, la page tient d’un seul coup d’œil, et l’aperçu des fiches PDF se feuillette page par page.",
+  "signature": "97e1b2fe155542d1b184b1fa9388fbe7d3054e4fb41f8b5daeb2b2840fdf853ad6acdbf29ceb7cbb1398af70fbea577e948a40cbfa639d541f16ebbd1c35ee0e"
 }
