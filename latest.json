@@ -1,8 +1,8 @@
 {
-  "version": "2.17.73",
+  "version": "2.17.74",
   "publie_le": "2026-10-24",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.73/telios-2.17.73.tar.gz",
-  "sha256": "2751ccb3bb8aa1288a9f7cf75b4880ff6be3bb4b39ba083147e8a319b776c9eb",
-  "notes": "Chaque analyse d’APK raconte désormais l’histoire de l’application : courbe du risque version par version, permissions et pisteurs apparus ou disparus, signature suivie d’une version à l’autre, et ajout direct à une blacklist.",
-  "signature": "285eb78f8f97479523fe41b6bb9bf42a21d2d5d6d6269dfcb579343ec00480dcb21d3da83f6838b709b8db9aab02e8d4d8f1c3d5348ef02dc31d8da4b5c1bd08"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.74/telios-2.17.74.tar.gz",
+  "sha256": "8793a50a6739b84a1d7e037d6f309897f5d256f4828106accbf1717a33f14f6f",
+  "notes": "L’analyse d’un APK se suit désormais étape par étape dans la page, et la signature des applications récentes est comparée d’une version à l’autre : un changement de clé saute aux yeux.",
+  "signature": "da32163cd710706301022712e0d1ddc339f7e9dfe7647cb3bff57531ead9d8d47f511aa23ce168c3d6807a1153dcdbce0a8c31ecd5204a1f16523babf7eb8307"
 }
