@@ -1,8 +1,8 @@
 {
-  "version": "2.17.71",
+  "version": "2.17.72",
   "publie_le": "2026-10-24",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.71/telios-2.17.71.tar.gz",
-  "sha256": "dee344a1f0bda467b00e2dc0cc1aacda81880d764af49cb98225fa91c23036c8",
-  "notes": "Des bilans de tests plus clairs : chaque téléphone est jugé sur ce qu'il doit réellement jouer, et le reste est indiqué à part.",
-  "signature": "eca93ef57f1fce419111b093eca98ae35427ace00a9316f91a5f2ca8b8d9d239cc6612972a78bce53dad32cdc1ea1b6643a06b4bf9e3da4c96f8733db7be5c09"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.72/telios-2.17.72.tar.gz",
+  "sha256": "a4a686c291e829ed374264239d7654867a6f941d447c4ac8cfb00dc7d2fed11c",
+  "notes": "Chaque APK analysé retrouve son historique : TELIOS vous dit aussitôt si ce paquet ou ce fichier a déjà été examiné, comment son niveau de risque a évolué et si sa signature est restée la même.",
+  "signature": "7dfc55bcace6777510b265417b956803d034722653518d7e01f6260e0cb81b8ac22a4e4eb9182483cda064af1dc79a58b13fec8fb93f0629c0fa2fe74d047e01"
 }
