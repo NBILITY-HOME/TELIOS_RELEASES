@@ -1,8 +1,8 @@
 {
-  "version": "2.17.77",
+  "version": "2.17.78",
   "publie_le": "2026-10-25",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.77/telios-2.17.77.tar.gz",
-  "sha256": "583ebb79dee35ffde80689fd9a86ff36738ff50f5bd7e2f9cf7edc2c138e8b4c",
-  "notes": "Un halo bleu nuit signale désormais « Ajouter à une blacklist » sur la page d’analyse d’un APK : l’action la plus utile se trouve d’un coup d’œil.",
-  "signature": "c88e3732ca2aeb55d3808121f413b1bf3bbbe0306d356763b720dd482efca2d7b788802c1804399f90bc48cdd9fd40437bdf3173dc25969e1c7b0eeda09dcd0a"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.78/telios-2.17.78.tar.gz",
+  "sha256": "087808a250a613bd123c552e4fd1f80f5474495a798b34d36d9e5b5465706764",
+  "notes": "Le bouton « Ajouter à une blacklist » s’illumine d’un halo bleu nuit qui respire doucement : impossible de le manquer sur la page d’analyse d’un APK.",
+  "signature": "f8e01612477924af9f3cb1742e4cf61acd0bdc43543cdc07802c89cbf8375ba98244816604dc1fdeb576c90deccb64914d7f7590d7b2648a0d305ae2424dff01"
 }
