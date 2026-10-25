@@ -1,8 +1,8 @@
 {
-  "version": "2.17.76",
-  "publie_le": "2026-10-24",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.76/telios-2.17.76.tar.gz",
-  "sha256": "a7fb175238c7ba5637949c87bf843ab2a38dfcb4480bd2cc36add4a7f55aaed4",
-  "notes": "Chercher devient un plaisir : un radar s’anime, les résultats se proposent à mesure que vous tapez et s’ouvrent d’une touche, partout dans TELIOS.",
-  "signature": "c253e1f4717260d2c35ecd9bb6b14d1754a5f5c55a56ccf9dfa8b1e67d583d867b43c2a69b9fab5edaf0e7a864fba902f1d1d121ca78465db1a21b515da8640d"
+  "version": "2.17.77",
+  "publie_le": "2026-10-25",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.77/telios-2.17.77.tar.gz",
+  "sha256": "583ebb79dee35ffde80689fd9a86ff36738ff50f5bd7e2f9cf7edc2c138e8b4c",
+  "notes": "Un halo bleu nuit signale désormais « Ajouter à une blacklist » sur la page d’analyse d’un APK : l’action la plus utile se trouve d’un coup d’œil.",
+  "signature": "c88e3732ca2aeb55d3808121f413b1bf3bbbe0306d356763b720dd482efca2d7b788802c1804399f90bc48cdd9fd40437bdf3173dc25969e1c7b0eeda09dcd0a"
 }
