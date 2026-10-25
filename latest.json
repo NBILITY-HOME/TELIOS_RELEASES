@@ -1,8 +1,8 @@
 {
-  "version": "2.17.78",
+  "version": "2.17.79",
   "publie_le": "2026-10-25",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.78/telios-2.17.78.tar.gz",
-  "sha256": "087808a250a613bd123c552e4fd1f80f5474495a798b34d36d9e5b5465706764",
-  "notes": "Le bouton « Ajouter à une blacklist » s’illumine d’un halo bleu nuit qui respire doucement : impossible de le manquer sur la page d’analyse d’un APK.",
-  "signature": "f8e01612477924af9f3cb1742e4cf61acd0bdc43543cdc07802c89cbf8375ba98244816604dc1fdeb576c90deccb64914d7f7590d7b2648a0d305ae2424dff01"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.79/telios-2.17.79.tar.gz",
+  "sha256": "f256edd63921f9e2cd7baca99eb1a8b28928b8377001307dc74d8dbe1f55c16d",
+  "notes": "L’historique des analyses s’allège : un clic ouvre la fiche complète, avec l’aperçu du PDF, son sceau vérifié et toutes les actions — dont l’ajout direct à une blacklist.",
+  "signature": "5ef06345131c16a46f0cb61a18ee6d4bdd49b1d0977d548f1ffc5cc7bc45ccab77bf32cd9826651db46e9b687b49de27839c7a077c4d3e6c3ff1baf476298602"
 }
