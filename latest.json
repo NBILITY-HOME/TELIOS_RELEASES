@@ -1,8 +1,8 @@
 {
-  "version": "2.17.79",
-  "publie_le": "2026-10-25",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.79/telios-2.17.79.tar.gz",
-  "sha256": "f256edd63921f9e2cd7baca99eb1a8b28928b8377001307dc74d8dbe1f55c16d",
-  "notes": "L’historique des analyses s’allège : un clic ouvre la fiche complète, avec l’aperçu du PDF, son sceau vérifié et toutes les actions — dont l’ajout direct à une blacklist.",
-  "signature": "5ef06345131c16a46f0cb61a18ee6d4bdd49b1d0977d548f1ffc5cc7bc45ccab77bf32cd9826651db46e9b687b49de27839c7a077c4d3e6c3ff1baf476298602"
+  "version": "2.17.80",
+  "publie_le": "2026-10-27",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.80/telios-2.17.80.tar.gz",
+  "sha256": "e21fad8564b8a821e978482b8b511b060381f1862c6f9a827058c0f8c0e2c4d6",
+  "notes": "TELIOS gagne encore en fiabilité : chaque nouvelle version est vérifiée plus vite et plus complètement avant de vous parvenir, pour des mises à jour toujours plus sûres.",
+  "signature": "562ac011896f7bc32c076c3d81eba868c86857c4317a1e3eaa12a2985b4a65b2b4ec1c44370a76aab3c9113bf8befc61b06f1c842caa0f69ed978d2493ff3f0d"
 }
