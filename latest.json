@@ -1,8 +1,8 @@
 {
-  "version": "2.17.80",
+  "version": "2.17.81",
   "publie_le": "2026-10-27",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.80/telios-2.17.80.tar.gz",
-  "sha256": "e21fad8564b8a821e978482b8b511b060381f1862c6f9a827058c0f8c0e2c4d6",
-  "notes": "TELIOS gagne encore en fiabilité : chaque nouvelle version est vérifiée plus vite et plus complètement avant de vous parvenir, pour des mises à jour toujours plus sûres.",
-  "signature": "562ac011896f7bc32c076c3d81eba868c86857c4317a1e3eaa12a2985b4a65b2b4ec1c44370a76aab3c9113bf8befc61b06f1c842caa0f69ed978d2493ff3f0d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.81/telios-2.17.81.tar.gz",
+  "sha256": "eaea5f0c5dee9a0b10f3cb7a2c8dde318aab6c921c515001a54fb04b0f044eaf",
+  "notes": "Vos manipulations enregistrées restent rejouables après les mises à jour d’Android : TELIOS retrouve une case à cocher même quand son libellé n’est plus affiché, et vérifie toujours son état.",
+  "signature": "bcb45b41a9ce8f749d00c1de9caf164eff1b6baf982fb7322a98958089994d049095b1811ca02935bb8cfa7675da79061378636ddaaa4c71817cee5ba7306d0b"
 }
