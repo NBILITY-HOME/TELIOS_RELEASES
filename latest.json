@@ -1,8 +1,8 @@
 {
-  "version": "2.17.82",
-  "publie_le": "2026-10-28",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.82/telios-2.17.82.tar.gz",
-  "sha256": "45623b205000a3516c9ad62eb0e27b8a590af7d212c5bfba391f03d3d157a614",
-  "notes": "TELIOS gagne encore en fiabilité : chaque nouvelle version est contrôlée sur des centaines de situations réelles avant de vous parvenir, pour des mises à jour toujours plus sûres.",
-  "signature": "9375698e9e28e229145b7ef860956c399234ae1e6e8a6b713d3d4cffbfa261dda9ed846c5195a258eff92d56de53ded4bed360031321a5b05c0983a65335bf02"
+  "version": "2.17.83",
+  "publie_le": "2026-11-03",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.83/telios-2.17.83.tar.gz",
+  "sha256": "7f7c376093fe1124d91c53ea830f7ca742570ad6d53ff00a4085be3aff68ece7",
+  "notes": "Partagez vos scénarios entre postes en toute sécurité : export et import en un clic, fichier chiffré par une phrase secrète, et vos mots de passe restent chez vous.",
+  "signature": "b40b081f8ebc2e16acd22d4eaed63d464728eb3a677c0c8978d484bedcfb423491151b1cc09145af55d86cb97097fa0fe47bc0d9879d3733d07c3f19a02b3108"
 }
