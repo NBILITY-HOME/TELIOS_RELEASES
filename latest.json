@@ -1,8 +1,8 @@
 {
-  "version": "2.17.87",
+  "version": "2.17.88",
   "publie_le": "2026-11-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.87/telios-2.17.87.tar.gz",
-  "sha256": "b05f013cdd6739d2ef737e97986b08ad0491aecbd8a417e8d04a993ec61dec53",
-  "notes": "Un écran d’enregistrement plus épuré : l’essentiel reste sous les yeux, et chaque enregistrement réussi vous est confirmé d’un message clair.",
-  "signature": "2efad75f4633bfa6c8bf97cb6b3d37584b5d4ce5682182b36f9d1a4363164b2453d85fdcd0f9ab2560512025012ac141e7fcedca0bfc94459356c9206e478c04"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.88/telios-2.17.88.tar.gz",
+  "sha256": "69ea0b7acfd35c28a633c3a0f070bbc3bdc2a86e910dd11e3c0f21fab87d4400",
+  "notes": "Vos enregistrements gagnent en clarté : des cartes lisibles en un coup d’œil, et une barre d’actions pour exporter ou enchaîner plusieurs scénarios d’un clic.",
+  "signature": "eaad94e4d8829cea301a8999cae81d841035c83981a5d3cab32ff2b439e71ee1865dfb477951e5c7b651a95b59935e10a5d57c4250ab4ccdfe3e84d1d2c63306"
 }
