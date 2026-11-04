@@ -1,8 +1,8 @@
 {
-  "version": "2.17.89",
+  "version": "2.17.90",
   "publie_le": "2026-11-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.89/telios-2.17.89.tar.gz",
-  "sha256": "16ef88157d43603cc0590b372f9c02cde70b2aecd951ab8a6d5aef2598a0032d",
-  "notes": "Partager un scénario devient encore plus simple : TELIOS crée pour vous un code secret facile à dicter au téléphone, sans caractère qui prête à confusion.",
-  "signature": "e00623141237c782b3516465570608fb501dfc53fbf8d1f1adf6d9db7615347b87f4fa18b79f0a5e10a5f6a04955a1195a6432aaee1dbe8530ccb4bbd4f5b70d"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.90/telios-2.17.90.tar.gz",
+  "sha256": "146f35bb4b92e33cef64632c901abb265a54b5cbf98eb64012a551d454ff00a4",
+  "notes": "Après un export, un seul clic copie tout le message à transmettre : fichier, empreinte et code secret, prêts à coller.",
+  "signature": "d1abba22ab253e20c31e4db9fe109309718b6db5345918bd989a9b81d794005a73e403fb03863b8a2e38b794a60dd9e27c26e3cfd898de9d294edcf30226cc04"
 }
