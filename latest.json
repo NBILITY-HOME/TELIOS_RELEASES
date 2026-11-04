@@ -1,8 +1,8 @@
 {
-  "version": "2.17.84",
+  "version": "2.17.85",
   "publie_le": "2026-11-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.84/telios-2.17.84.tar.gz",
-  "sha256": "689c68b379ce7f9530085fc530febde5d864ec8910bdc40f3e7156a519a90738",
-  "notes": "L’export de scénarios s’explique mieux : TELIOS vous dit clairement comment remettre la phrase secrète à votre destinataire, en toute sécurité.",
-  "signature": "9bfe654c151ed3cf818eb99694ec8ef89f98de7067ed0f8521058a39132520951e5786938cc188e2f64b57c2dea7d8c05c0877e10625837937e905f0db524300"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.85/telios-2.17.85.tar.gz",
+  "sha256": "f9e49510c0db2d6402d9e438325dd2622c51f22f2aee1ba68e0d044b5d527bfb",
+  "notes": "Les mises à jour de TELIOS s’affichent désormais sans aucun flou : vous gardez toute la page sous les yeux pendant que vous confirmez l’installation.",
+  "signature": "e4310c7925bfea0902549b8640ea71cf494402a1c3fb2af3be5310bdd6624770ae8eddadba9ab4945720c6affb2384313dd2e644f10f46bd11dacc9739ec4a0b"
 }
