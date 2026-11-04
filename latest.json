@@ -1,8 +1,8 @@
 {
-  "version": "2.17.88",
+  "version": "2.17.89",
   "publie_le": "2026-11-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.88/telios-2.17.88.tar.gz",
-  "sha256": "69ea0b7acfd35c28a633c3a0f070bbc3bdc2a86e910dd11e3c0f21fab87d4400",
-  "notes": "Vos enregistrements gagnent en clarté : des cartes lisibles en un coup d’œil, et une barre d’actions pour exporter ou enchaîner plusieurs scénarios d’un clic.",
-  "signature": "eaad94e4d8829cea301a8999cae81d841035c83981a5d3cab32ff2b439e71ee1865dfb477951e5c7b651a95b59935e10a5d57c4250ab4ccdfe3e84d1d2c63306"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.89/telios-2.17.89.tar.gz",
+  "sha256": "16ef88157d43603cc0590b372f9c02cde70b2aecd951ab8a6d5aef2598a0032d",
+  "notes": "Partager un scénario devient encore plus simple : TELIOS crée pour vous un code secret facile à dicter au téléphone, sans caractère qui prête à confusion.",
+  "signature": "e00623141237c782b3516465570608fb501dfc53fbf8d1f1adf6d9db7615347b87f4fa18b79f0a5e10a5f6a04955a1195a6432aaee1dbe8530ccb4bbd4f5b70d"
 }
