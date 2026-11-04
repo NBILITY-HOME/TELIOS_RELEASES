@@ -1,8 +1,8 @@
 {
-  "version": "2.17.86",
+  "version": "2.17.87",
   "publie_le": "2026-11-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.86/telios-2.17.86.tar.gz",
-  "sha256": "7ba051412c07c4c187c79f9bab4967947ecd2407a5b69acc4b98a83458452f6f",
-  "notes": "Pendant un enregistrement, la liste des étapes suit vos gestes : la dernière action captée s’affiche toujours, sans avoir à faire défiler.",
-  "signature": "79479dc71cb60ffec79ebe9fb0e1bde24166ef76a93aff961b75863932657d9453050a610b6857a69a4b542ddb5a94a5c22987c7ff149b63dd239a5c58251a00"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.87/telios-2.17.87.tar.gz",
+  "sha256": "b05f013cdd6739d2ef737e97986b08ad0491aecbd8a417e8d04a993ec61dec53",
+  "notes": "Un écran d’enregistrement plus épuré : l’essentiel reste sous les yeux, et chaque enregistrement réussi vous est confirmé d’un message clair.",
+  "signature": "2efad75f4633bfa6c8bf97cb6b3d37584b5d4ce5682182b36f9d1a4363164b2453d85fdcd0f9ab2560512025012ac141e7fcedca0bfc94459356c9206e478c04"
 }
