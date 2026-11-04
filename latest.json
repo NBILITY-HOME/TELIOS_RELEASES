@@ -1,8 +1,8 @@
 {
-  "version": "2.17.85",
+  "version": "2.17.86",
   "publie_le": "2026-11-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.85/telios-2.17.85.tar.gz",
-  "sha256": "f9e49510c0db2d6402d9e438325dd2622c51f22f2aee1ba68e0d044b5d527bfb",
-  "notes": "Les mises à jour de TELIOS s’affichent désormais sans aucun flou : vous gardez toute la page sous les yeux pendant que vous confirmez l’installation.",
-  "signature": "e4310c7925bfea0902549b8640ea71cf494402a1c3fb2af3be5310bdd6624770ae8eddadba9ab4945720c6affb2384313dd2e644f10f46bd11dacc9739ec4a0b"
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.86/telios-2.17.86.tar.gz",
+  "sha256": "7ba051412c07c4c187c79f9bab4967947ecd2407a5b69acc4b98a83458452f6f",
+  "notes": "Pendant un enregistrement, la liste des étapes suit vos gestes : la dernière action captée s’affiche toujours, sans avoir à faire défiler.",
+  "signature": "79479dc71cb60ffec79ebe9fb0e1bde24166ef76a93aff961b75863932657d9453050a610b6857a69a4b542ddb5a94a5c22987c7ff149b63dd239a5c58251a00"
 }
