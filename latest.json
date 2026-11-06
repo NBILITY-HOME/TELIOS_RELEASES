@@ -1,8 +1,8 @@
 {
-  "version": "2.17.90",
-  "publie_le": "2026-11-04",
-  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.90/telios-2.17.90.tar.gz",
-  "sha256": "146f35bb4b92e33cef64632c901abb265a54b5cbf98eb64012a551d454ff00a4",
-  "notes": "Après un export, un seul clic copie tout le message à transmettre : fichier, empreinte et code secret, prêts à coller.",
-  "signature": "d1abba22ab253e20c31e4db9fe109309718b6db5345918bd989a9b81d794005a73e403fb03863b8a2e38b794a60dd9e27c26e3cfd898de9d294edcf30226cc04"
+  "version": "2.17.91",
+  "publie_le": "2026-11-06",
+  "archive": "https://github.com/NBILITY-HOME/TELIOS_RELEASES/releases/download/v2.17.91/telios-2.17.91.tar.gz",
+  "sha256": "f68f30f38db8f6ab6bdd68f6708c7bd8c27e9a6399f0fac5c925afd3e39e69fc",
+  "notes": "Les explications sur Android se retrouvent désormais dans Réglages, au même endroit que tout ce qui sert à comprendre et configurer TELIOS.",
+  "signature": "fdc74a222aecc933ca0b3f7e976fae92c7b1c5a47f5f2a29eacfadf609388aaa96cd3f714907bddb41beecfc6125398061ac0676818a625be03cc9dc8721fb0b"
 }
